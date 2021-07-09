@@ -101,7 +101,6 @@ Here is an overview of papers. The links to publications are arranged in the rev
 * Generating Fact Checking Briefs (Fan et al., 2020).
 [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.580.pdf)]
 [[bib](https://www.aclweb.org/anthology/2020.emnlp-main.580.bib)]
-#### Scientific journals
 * Fact or Fiction: Verifying Scientific Claims (Wadden et al., EMNLP 2020).
 [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.609.pdf)]
 [[data](https://github.com/allenai/scifact)]
@@ -113,7 +112,7 @@ Here is an overview of papers. The links to publications are arranged in the rev
 📣  
 indicates the shared task is ongoing!
 
-* The Fact Extraction and VERification (FEVER) Shared Task [[Thorne et al., 2018](https://www.aclweb.org/anthology/W18-5501/)]📣 
+* The Fact Extraction and VERification (FEVER) Shared Task [https://fever.ai/]📣 
 * Statement Verification and Evidence Finding with Tables (SEM-TAB-FACT) [[Wang et al., 2021](https://competitions.codalab.org/competitions/27748)] 
 * SciFact Claim Verifiation [[Wadden et al., 2020](https://sdproc.org/2021/sharedtasks.html#sciver)]
 * Fakeddit Multimodal Fake News Detection Challenge [[Nakamura et al., 2020](https://competitions.codalab.org/competitions/25337#learn_the_details)]
