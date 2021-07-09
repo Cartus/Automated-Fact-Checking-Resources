@@ -1,8 +1,8 @@
 # Automated Fact-Checking Literature
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Cartus/Automated-Fact-Checking-Literature)
-[![Last Commit](https://img.shields.io/github/last-commit/neemakot/Fact-Checking-Survey.svg)](https://github.com/Cartus/Automated-Fact-Checking-Literature)
-[![Contribution_welcome](https://img.shields.io/badge/Contributions-welcome-blue)](https://github.com/neemakot/Fact-Checking-Survey/blob/main/CONTRIBUTING.md)
+[![Last Commit](https://img.shields.io/github/last-commit/Cartus/Automated-Fact-Checking-Literature)](https://github.com/Cartus/Automated-Fact-Checking-Literature)
+[![Contribution_welcome](https://img.shields.io/badge/Contributions-welcome-blue)](https://github.com/Cartus/Automated-Fact-Checking-Literature/blob/main/CONTRIBUTING.md)
 
 
 ## Contents
