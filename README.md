@@ -7,7 +7,7 @@
 
 ## Contents
 
-Here is an overview of papers mentioned in this work, and more recent papers which have been added.
+Here is an overview of papers. The links to publications are arranged in the reverse chronological order of conference dates from the conferences below.
 
 - [Datasets](#datasets)
 - [Shared Tasks](#shared-tasks)
@@ -48,9 +48,6 @@ Here is an overview of papers mentioned in this work, and more recent papers whi
 [[paper](http://eegilbert.org/papers/icwsm15.credbank.mitra.pdf)]
 [[data](https://github.com/compsocial/CREDBANK-data)]
 [[bib](https://dblp.org/rec/conf/icwsm/MitraG15.html?view=bibtex)]
-
-† This dataset is an extention of the PHEME rumour dataset.
-  
 * Explainable Automated Fact-Checking for Public Health Claims (Kotonya and Toni, 2020). 
 [[paper](https://arxiv.org/abs/2010.09926)]
 [[data](https://github.com/neemakot/Health-Fact-Checking)]
@@ -116,9 +113,10 @@ Here is an overview of papers mentioned in this work, and more recent papers whi
 📣  
 indicates the shared task is ongoing!
 
-* Statement Verification and Evidence Finding with Tables (SEM-TAB-FACT) [[Wang et al., 2021](https://competitions.codalab.org/competitions/27748)] 📣 (_Ends on Jan 29 2021_)
-* SciFact Claim Verifiation [[Wadden et al., 2020](https://sdproc.org/2021/sharedtasks.html#sciver)] 📣
-* Fakeddit Multimodal Fake News Detection Challenge [[Nakamura et al., 2020](https://competitions.codalab.org/competitions/25337#learn_the_details)] 📣 (_Ends on Feb 16 2021_)
+* The Fact Extraction and VERification (FEVER) Shared Task [[Thorne et al., 2018](https://www.aclweb.org/anthology/W18-5501/)]📣 
+* Statement Verification and Evidence Finding with Tables (SEM-TAB-FACT) [[Wang et al., 2021](https://competitions.codalab.org/competitions/27748)] 
+* SciFact Claim Verifiation [[Wadden et al., 2020](https://sdproc.org/2021/sharedtasks.html#sciver)]
+* Fakeddit Multimodal Fake News Detection Challenge [[Nakamura et al., 2020](https://competitions.codalab.org/competitions/25337#learn_the_details)]
 * SemEval-2019 Task 7: RumourEval, Determining Rumour Veracity and Support for Rumours [[Gorrell et al., 2019](https://www.aclweb.org/anthology/S19-2147/)]
 * SemEval-2019 Task 8: Fact Checking in Community Question Answering Forums [[Mihaylova et al., 2019](https://www.aclweb.org/anthology/S19-2149/)]
 * The Fake News Challenge (FNC-1) [[Pomerleau and Rao, 2017](http://www.fakenewschallenge.org/)]
@@ -129,14 +127,6 @@ indicates the shared task is ongoing!
 
 ## Systems
 
-* Where is your Evidence: Improving Fact-checking by Justification
-Modeling (Alhindi et al., 2018).
-[[paper](https://www.aclweb.org/anthology/W18-5513.pdf)]
-[[bib](https://www.aclweb.org/anthology/W18-5513.bib)]
-[[code](https://github.com/Tariq60/LIAR-PLUS)]
-* Generating Fact Checking Explanations (Atanasova et al., 2020).
-[[paper](https://www.aclweb.org/anthology/2020.acl-main.656.pdf)]
-[[bib](https://www.aclweb.org/anthology/2020.acl-main.656.bib)]
 * [FEVER 1.0 Baseline](https://github.com/sheffieldnlp/fever-naacl-2018)
 * Combining Fact Extraction and Verification with Neural Semantic Matching Networks (Nie et al., 2019).
   [[paper](https://arxiv.org/pdf/1811.07039.pdf)]
@@ -166,6 +156,14 @@ Modeling (Alhindi et al., 2018).
   [[paper](https://www.aclweb.org/anthology/2020.acl-main.655.pdf)]
   [[bib](https://www.aclweb.org/anthology/2020.acl-main.655.bib)]
   [[code](https://github.com/thunlp/KernelGAT)]
+* Where is your Evidence: Improving Fact-checking by Justification
+Modeling (Alhindi et al., 2018).
+[[paper](https://www.aclweb.org/anthology/W18-5513.pdf)]
+[[bib](https://www.aclweb.org/anthology/W18-5513.bib)]
+[[code](https://github.com/Tariq60/LIAR-PLUS)]
+* Generating Fact Checking Explanations (Atanasova et al., 2020).
+[[paper](https://www.aclweb.org/anthology/2020.acl-main.656.pdf)]
+[[bib](https://www.aclweb.org/anthology/2020.acl-main.656.bib)]
 * Time-Aware Evidence Ranking for Fact-Checking (Allein et al., 2020).
   [[paper](https://arxiv.org/pdf/2009.06402.pdf)]
   [[bib](https://dblp.org/rec/journals/corr/abs-2009-06402.html?view=bibtex)]
