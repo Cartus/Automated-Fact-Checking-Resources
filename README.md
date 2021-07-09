@@ -1,7 +1,7 @@
 # Automated Fact-Checking Literature
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/neemakot/Fact-Checking-Survey)
-[![Last Commit](https://img.shields.io/github/last-commit/neemakot/Fact-Checking-Survey.svg)](https://github.com/neemakot/Fact-Checking-Survey)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Cartus/Automated-Fact-Checking-Literature)
+[![Last Commit](https://img.shields.io/github/last-commit/neemakot/Fact-Checking-Survey.svg)](https://github.com/Cartus/Automated-Fact-Checking-Literature)
 [![Contribution_welcome](https://img.shields.io/badge/Contributions-welcome-blue)](https://github.com/neemakot/Fact-Checking-Survey/blob/main/CONTRIBUTING.md)
 
 
@@ -17,6 +17,10 @@ Here is an overview of papers. The links to publications are arranged in the rev
 
 
 ## Datasets
+* FEVEROUS: Fact Extraction and VERification Over Unstructured and Structured information (Aly et al., 2021)  
+[[Paper](https://arxiv.org/abs/2106.05707)] 
+[[Dataset](https://fever.ai/resources.html)]
+[[Code](https://github.com/Raldir/FEVEROUS)]
 * r/Fakeddit: A New Multimodal Benchmark Dataset for Fine-grained Fake News Detection (Nakamura et al., 2020).
 [[paper](https://www.aclweb.org/anthology/2020.lrec-1.755.pdf)]
 [[data](https://github.com/entitize/fakeddit)]
