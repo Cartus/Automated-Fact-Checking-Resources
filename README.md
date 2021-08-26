@@ -52,24 +52,24 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 * SemEval-2019 Task 7: RumourEval, Determining Rumour Veracity and Support for Rumours (Gorrell et al., 2019).
 [[Paper](https://www.aclweb.org/anthology/S19-2147.pdf)]
 [[Dataset](https://competitions.codalab.org/competitions/19938)]
-* Joint Rumour Stance and Veracity
+* Joint Rumour Stance and Veracity (Lillie et al., 2019)
 [[Paper](https://aclanthology.org/W19-6122.pdf)]
 [[Dataset](https://figshare.com/articles/dataset/RumourEval_2019_data/8845580)]
-* Separating Facts from Fiction: Linguistic Models to Classify Suspicious and Trusted News Posts on Twitter
+* Separating Facts from Fiction: Linguistic Models to Classify Suspicious and Trusted News Posts on Twitter (Volkova et al., 2017)
 [[Paper](https://aclanthology.org/P17-2102.pdf)]
 [[Dataset](https://aclanthology.org/attachments/P17-2102.Datasets.zip)]
-* Overview of CheckThat! 2020: Automatic Identification and Verification of Claims in Social Media
+* Overview of CheckThat! 2020: Automatic Identification and Verification of Claims in Social Media (Barrón-Cedeño et al., 2020)
 [[Paper](https://link.springer.com/chapter/10.1007%2F978-3-030-58219-7_17)]
 [[Dataset](https://sites.google.com/view/clef2020-checkthat/datasets-tools)]
-* The CLEF-2021 CheckThat! Lab on Detecting Check-Worthy Claims, Previously Fact-Checked Claims, and Fake News
+* The CLEF-2021 CheckThat! Lab on Detecting Check-Worthy Claims, Previously Fact-Checked Claims, and Fake News (Nakov et al., 2021)
 [[Paper](https://link.springer.com/chapter/10.1007%2F978-3-030-72240-1_75)]
 [[Dataset](https://sites.google.com/view/clef2021-checkthat/tasks/task-1-check-worthiness-estimation)]
-* Detecting Check-worthy Factual Claims in Presidential Debates
+* Detecting Check-worthy Factual Claims in Presidential Debates (Hassan et al., 2015)
 [[Paper](https://idir.uta.edu/~naeemul/file/factchecking-cikm15-hassan-cameraready.pdf)]
-* A Context-Aware Approach for Detecting Worth-Checking Claims in Political Debates
+* A Context-Aware Approach for Detecting Worth-Checking Claims in Political Debates (Gencheva et al., 2017)
 [[Paper](https://www.acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP037.pdf)]
 [[Dataset](https://github.com/apepa/claim-rank)]
-* Overview of the CLEF-2018 CheckThat! Lab on Automatic Identification and Verification of Political Claims. Task 1: Check-Worthiness
+* Overview of the CLEF-2018 CheckThat! Lab on Automatic Identification and Verification of Political Claims. Task 1: Check-Worthiness (Atanasova et al., 2018)
 [[Paper](http://ceur-ws.org/Vol-2125/invited_paper_13.pdf)]
 
 ### Factual Verification Dataset
@@ -108,19 +108,50 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 
 #### Artifical Claims
-* FEVER: a Large-scale Dataset for Fact Extraction and VERification (Thorne et al., 2018).
-[[Paper](https://www.aclweb.org/anthology/N18-1074.pdf)] 
-[[Dataset](https://fever.ai/resources.html)] 
-* Automated Fact-Checking of Claims from Wikipedia (Sathe et al., 2020).
-[[Paper](https://www.aclweb.org/anthology/2020.lrec-1.849.pdf)] 
-[[Dataset](https://github.com/wikifactcheck-english/wikifactcheck-english)]
-* TabFact: A Large-scale Dataset for Table-based Fact Verification (Chen et al., 2020). 
-[[Paper](https://openreview.net/pdf?id=rkeJRhNYDH)]
-[[Dataset](https://github.com/wenhuchen/Table-Fact-Checking)]
 * FEVEROUS: Fact Extraction and VERification Over Unstructured and Structured information (Aly et al., 2021)  
 [[Paper](https://arxiv.org/abs/2106.05707)] 
 [[Dataset](https://fever.ai/resources.html)]
 [[Code](https://github.com/Raldir/FEVEROUS)]
+* Statement Verification and Evidence Finding with Tables (SEM-TAB-FACT) (Wang et al., 2021)
+[[Dataset](https://competitions.codalab.org/competitions/27748)] 
+* TabFact: A Large-scale Dataset for Table-based Fact Verification (Chen et al., 2020). 
+[[Paper](https://openreview.net/pdf?id=rkeJRhNYDH)]
+[[Dataset](https://github.com/wenhuchen/Table-Fact-Checking)]
+* INFOTABS: Inference on Tables as Semi-structured Data (Gupta et al., 2020)
+[[Paper](https://aclanthology.org/2020.acl-main.210.pdf)]
+[[Dataset](https://aclanthology.org/attachments/2020.acl-main.210.Dataset.zip)]
+* Get Your Vitamin C! Robust Fact Verification with Contrastive Evidence (Schuster et al., 2021)
+[[Paper](https://aclanthology.org/2021.naacl-main.52.pdf)]
+[[Dataset](https://github.com/TalSchuster/VitaminC)]
+* HoVer: A Dataset for Many-Hop Fact Extraction And Claim Verification (Jiang et al., 2020)
+[[Paper](https://aclanthology.org/2020.findings-emnlp.309.pdf)]
+[[Dataset](https://hover-nlp.github.io/)]
+* DanFEVER: claim verification dataset for Danish (Nørregaard and Derczynski, 2021)
+[[Paper](https://aclanthology.org/2021.nodalida-main.47.pdf)]
+[[Dataset](https://figshare.com/articles/dataset/DanFEVER_claim_verification_dataset_for_Danish/14380970)]
+* Stance Prediction and Claim Verification: An Arabic Perspective (Khouja, 2020)
+[[Paper](https://aclanthology.org/2020.fever-1.2.pdf)]
+[[Dataset](https://github.com/latynt/ans)]
+* Automated Fact-Checking of Claims from Wikipedia (Sathe et al., 2020).
+[[Paper](https://www.aclweb.org/anthology/2020.lrec-1.849.pdf)] 
+[[Dataset](https://github.com/wikifactcheck-english/wikifactcheck-english)]
+* FEVER: a Large-scale Dataset for Fact Extraction and VERification (Thorne et al., 2018).
+[[Paper](https://www.aclweb.org/anthology/N18-1074.pdf)] 
+[[Dataset](https://fever.ai/resources.html)] 
+* Automatic Detection of Fake News (Pérez-Rosas et al., 2018)
+[[Paper](https://aclanthology.org/C18-1287.pdf)]
+[[Dataset](https://lit.eecs.umich.edu/downloads.html#undefined)]
+* The Lie Detector: Explorations in the Automatic Recognition of Deceptive Language (Mihalcea and Strapparava, 2009)
+[[Paper](https://aclanthology.org/P09-2078.pdf)]
+* Unsupervised Fact Checking by Counter-Weighted Positive and Negative Evidential Paths in A Knowledge Graph (Kim and Choi, 2020)
+[[Paper](https://aclanthology.org/2020.coling-main.147.pdf)]
+* Finding Streams in Knowledge Graphs to Support Fact Checking (Shiralkar et al., 2017)
+[[Paper](https://arxiv.org/pdf/1708.07239.pdf)]
+[[Dataset](https://github.com/shiralkarprashant/knowledgestream)]
+* Discriminative predicate path mining for fact checking in knowledge graphs (Shi and Weninger, 2016)
+[[Paper](https://arxiv.org/abs/1510.05911)]
+* Computational fact checking from knowledge networks (Ciampaglia et al., 2015)
+[[Paper](https://arxiv.org/pdf/1501.03471.pdf)]
 
 
 ## Shared Tasks
