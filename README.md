@@ -124,11 +124,7 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 
 ## Shared Tasks
-
-📣  
-indicates the shared task is ongoing!
-
-* The Fact Extraction and VERification (FEVER) Shared Task [[4th FEVER Workshop](https://fever.ai/)]📣 
+* The Fact Extraction and VERification (FEVER) Shared Task [[4th FEVER Workshop](https://fever.ai/)] The shared task is ongoing!
 * Statement Verification and Evidence Finding with Tables (SEM-TAB-FACT) [[Wang et al., 2021](https://competitions.codalab.org/competitions/27748)] 
 * SciFact Claim Verifiation [[Wadden et al., 2020](https://sdproc.org/2021/sharedtasks.html#sciver)]
 * Fakeddit Multimodal Fake News Detection Challenge [[Nakamura et al., 2020](https://competitions.codalab.org/competitions/25337#learn_the_details)]
@@ -143,7 +139,6 @@ indicates the shared task is ongoing!
 
 
 ## Model
-
 * [FEVER 1.0 Baseline](https://github.com/sheffieldnlp/fever-naacl-2018)
 * Combining Fact Extraction and Verification with Neural Semantic Matching Networks (Nie et al., 2019).
   [[Paper](https://arxiv.org/pdf/1811.07039.pdf)]
