@@ -39,21 +39,37 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 * CREDBANK: A Large-Scale Social Media Corpus with Associated Credibility Annotations (Mitra and Gilbert, 2015).
 [[Paper](http://eegilbert.org/papers/icwsm15.credbank.mitra.pdf)]
 [[Dataset](https://github.com/compsocial/CREDBANK-data)]
+* Detecting Rumors from Microblogs with Recurrent Neural Networks (Ma et al., 2016)
+[[Paper](https://www.ijcai.org/Proceedings/16/Papers/537.pdf)]
+[[Dataset](https://www.dropbox.com/s/46r50ctrfa0ur1o/rumdect.zip?dl=0)]
 * Analysing How People Orient to and Spread Rumours in Social Media by Looking at Conversational Threads (Zubiaga et al., 2016).
 [[Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150989)]
 [[Dataset](https://figshare.com/articles/PHEME_rumour_scheme_dataset_journalism_use_case/2068650)]
-* Detect Rumors in Microblog Posts Using Propagation Structure via Kernel Learning (Ma et al., 2017).
-[[Paper](https://www.aclweb.org/anthology/P17-1066.pdf)]
-[[Dataset](https://www.dropbox.com/s/7ewzdrbelpmrnxu/rumdetect2017.zip?dl=0)]
 * SemEval-2017 Task 8: RumourEval: Determining rumour veracity and support for rumours (Derczynski et al., 2017).
 [[Paper](https://www.aclweb.org/anthology/S17-2006.pdf)]
 [[Dataset](https://alt.qcri.org/semeval2017/task8/index.php?id=data-and-tools)]
-* All-in-one: Multi-task Learning for Rumour Verification (Kochkina et al., 2018). 
-[[Paper](https://www.aclweb.org/anthology/C18-1288.pdf)]
-[[Dataset](https://figshare.com/articles/PHEME_dataset_for_Rumour_Detection_and_Veracity_Classification/6392078)]†
 * SemEval-2019 Task 7: RumourEval, Determining Rumour Veracity and Support for Rumours (Gorrell et al., 2019).
 [[Paper](https://www.aclweb.org/anthology/S19-2147.pdf)]
 [[Dataset](https://competitions.codalab.org/competitions/19938)]
+* Joint Rumour Stance and Veracity
+[[Paper](https://aclanthology.org/W19-6122.pdf)]
+[[Dataset](https://figshare.com/articles/dataset/RumourEval_2019_data/8845580)]
+* Separating Facts from Fiction: Linguistic Models to Classify Suspicious and Trusted News Posts on Twitter
+[[Paper](https://aclanthology.org/P17-2102.pdf)]
+[[Dataset](https://aclanthology.org/attachments/P17-2102.Datasets.zip)]
+* Overview of CheckThat! 2020: Automatic Identification and Verification of Claims in Social Media
+[[Paper](https://link.springer.com/chapter/10.1007%2F978-3-030-58219-7_17)]
+[[Dataset](https://sites.google.com/view/clef2020-checkthat/datasets-tools)]
+* The CLEF-2021 CheckThat! Lab on Detecting Check-Worthy Claims, Previously Fact-Checked Claims, and Fake News
+[[Paper](https://link.springer.com/chapter/10.1007%2F978-3-030-72240-1_75)]
+[[Dataset](https://sites.google.com/view/clef2021-checkthat/tasks/task-1-check-worthiness-estimation)]
+* Detecting Check-worthy Factual Claims in Presidential Debates
+[[Paper](https://idir.uta.edu/~naeemul/file/factchecking-cikm15-hassan-cameraready.pdf)]
+* A Context-Aware Approach for Detecting Worth-Checking Claims in Political Debates
+[[Paper](https://www.acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP037.pdf)]
+[[Dataset](https://github.com/apepa/claim-rank)]
+* Overview of the CLEF-2018 CheckThat! Lab on Automatic Identification and Verification of Political Claims. Task 1: Check-Worthiness
+[[Paper](http://ceur-ws.org/Vol-2125/invited_paper_13.pdf)]
 
 ### Factual Verification Dataset
 #### Natural Claims
