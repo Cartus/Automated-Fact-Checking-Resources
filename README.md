@@ -21,6 +21,7 @@ This repo contains references from our survey paper "A Survey on Automated Fact-
   - [Factual Verification](#factual-verification)
   - [Justification Generation](#justification-generation)
 - [Surveys](#surveys)
+- [Related Tasks](#related-task)
 - [Tutorials](#tutorials)
 
 
@@ -141,7 +142,7 @@ indicates the shared task is ongoing!
 [[Dataset](https://github.com/FakeNewsChallenge/fnc-1)]
 
 
-## Systems
+## Model
 
 * [FEVER 1.0 Baseline](https://github.com/sheffieldnlp/fever-naacl-2018)
 * Combining Fact Extraction and Verification with Neural Semantic Matching Networks (Nie et al., 2019).
@@ -175,28 +176,19 @@ Modeling (Alhindi et al., 2018).
   [[Paper](https://arxiv.org/pdf/2009.06402.pdf)]
 
 
+## Related Task
 
 
 ## Surveys
 
 * A Survey of Fake News: Fundamental Theories, Detection Methods, and Opportunities (Zhou and Zafarani, 2020).
 [[Paper](https://dl.acm.org/doi/10.1145/3395046)]
-* A Review on Fact Extraction and VERification: The FEVER case (Bekoulis et al., 2020).
-[[Paper](https://arxiv.org/abs/2010.03001)]
-* A Survey on Fake News and Rumour Detection Techniques (Bondielli and Marcelloni, 2020).
-[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025519304372?via%3Dihub)]
 * A Survey on Natural Language Processing for Fake News Detection (Oshikawa et al., 2020).
 [[Paper](https://www.aclweb.org/anthology/2020.lrec-1.747.pdf)]
-* Fake News Detection using Stance Classification: A Survey (Lillie and Middelboe, 2019).
-[[Paper](https://arxiv.org/pdf/1907.00181.pdf)]
 * Detection and Resolution of Rumours in Social Media: A Survey (Zubiaga et al., 2018).
 [[Paper](http://kddlab.zjgsu.edu.cn:7200/research/rumor/Detection%20and%20Resolution%20of%20Rumours%20in%20Social%20Media_%20A%20Survey.pdf)]
 * Automated Fact Checking: Task Formulations, Methods and Future Directions (Thorne and Vlachos, 2018).
 [[Paper](https://www.aclweb.org/anthology/C18-1283.pdf)]
-* Media-Rich Fake News Detection: A Survey (Parikh and Atrey, 2018).
-[[Paper](https://www.albany.edu/~sp191221/publications/Fake_Media_Rich_News_Detection_A_Survey.pdf)]
-* A Content Management Perspective on Fact-Checking (Cazalens et al., 2018).
-[[Paper](https://hal.archives-ouvertes.fr/hal-01722666/document)]
 * Fake News Detection on Social Media: A Data Mining Perspective (Shu et al., 2017).
 [[Paper](https://arxiv.org/pdf/1708.01967.pdf)]
 
