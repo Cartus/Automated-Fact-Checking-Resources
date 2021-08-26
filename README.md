@@ -25,9 +25,14 @@ This repo contains references from our survey paper "A Survey on Automated Fact-
 
 
 ## Task Definition
-Figure below shows a natural language processing (NLP) framework for automated fact-checking consisting of three stages:  (i)claim detection to identify claims that require verifica-tion; (ii)evidence retrievalto find sources supporting or refuting the claim; (iii)claim verification to assess the veracity of the claim based on the retrieved evidence. Evidence retrieval and claim verification are sometimes tackled as a single task referred to asfactual verification, while claim detection is often tackled separately. Claim verificationcan be decomposed into two parts that can be tackled separately or jointly: verdict prediction, where claims are assigned truthfulness labels, and justification generation, where explanations for verdicts must be produced.
+Figure below shows a NLP framework for automated fact-checking consisting of three stages:  
+1. Claim detection to identify claims that require verification; 
+2. Evidence retrievalto find sources supporting or refuting the claim; 
+3. Claim verification to assess the veracity of the claim based on the retrieved evidence. 
 
 ![Framework](Figures/framework.png)
+
+Evidence retrieval and claim verification are sometimes tackled as a single task referred to asfactual verification, while claim detection is often tackled separately. Claim verificationcan be decomposed into two parts that can be tackled separately or jointly: verdict prediction, where claims are assigned truthfulness labels, and justification generation, where explanations for verdicts must be produced.
 
 ## Datasets
 ### Claim Detection Dataset
@@ -51,7 +56,6 @@ Figure below shows a natural language processing (NLP) framework for automated f
 [[Dataset](https://competitions.codalab.org/competitions/19938)]
 
 ### Factual Verification Dataset
-
 #### Natural Claims
 * Truth of Varying Shades: Analyzing Language in Fake News and Political Fact-Checking (Rashkin et al., 2017).
 [[Paper](https://www.aclweb.org/anthology/D17-1317.pdf)]
@@ -100,10 +104,6 @@ Figure below shows a natural language processing (NLP) framework for automated f
 [[Paper](https://arxiv.org/abs/2106.05707)] 
 [[Dataset](https://fever.ai/resources.html)]
 [[Code](https://github.com/Raldir/FEVEROUS)]
-
-
-
-
 
 
 ## Shared Tasks
