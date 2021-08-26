@@ -27,7 +27,7 @@ This repo contains references from our survey paper "A Survey on Automated Fact-
 ## Task Definition
 Figure below shows a natural language processing (NLP) framework for automated fact-checking consisting of three stages:  (i)claim detection to identify claims that require verifica-tion; (ii)evidence retrievalto find sources supporting or refuting the claim; (iii)claim verification to assess the veracity of the claim based on the retrieved evidence. Evidence retrieval and claim verification are sometimes tackled as a single task referred to asfactual verification, while claim detection is often tackled separately. Claim verificationcan be decomposed into two parts that can be tackled separately or jointly: verdict prediction, where claims are assigned truthfulness labels, and justification generation, where explanations for verdicts must be produced.
 
-![Framework](Figures/framework.pdf)
+![Framework](Figures/framework.png)
 
 ## Datasets
 ### Claim Detection Dataset
