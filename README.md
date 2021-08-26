@@ -176,7 +176,6 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 
 ## Model
-* [FEVER 1.0 Baseline](https://github.com/sheffieldnlp/fever-naacl-2018)
 * Combining Fact Extraction and Verification with Neural Semantic Matching Networks (Nie et al., 2019).
   [[Paper](https://arxiv.org/pdf/1811.07039.pdf)]
   [[Code](https://github.com/easonnie/combine-FEVER-NSMN/)]
@@ -204,8 +203,7 @@ Modeling (Alhindi et al., 2018).
 [[Code](https://github.com/Tariq60/LIAR-PLUS)]
 * Generating Fact Checking Explanations (Atanasova et al., 2020).
 [[Paper](https://www.aclweb.org/anthology/2020.acl-main.656.pdf)]
-* Time-Aware Evidence Ranking for Fact-Checking (Allein et al., 2020).
-  [[Paper](https://arxiv.org/pdf/2009.06402.pdf)]
+
 
 
 ## Related Task
