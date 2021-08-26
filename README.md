@@ -71,6 +71,12 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 [[Dataset](https://github.com/apepa/claim-rank)]
 * Overview of the CLEF-2018 CheckThat! Lab on Automatic Identification and Verification of Political Claims. Task 1: Check-Worthiness (Atanasova et al., 2018)
 [[Paper](http://ceur-ws.org/Vol-2125/invited_paper_13.pdf)]
+* Towards Automated Factchecking: Developing an Annotation Schema and Benchmark for Consistent Automated Claim Detection (Konstantinovskiy et al., 2021)
+[[Paper](https://arxiv.org/pdf/1809.08193.pdf)]
+* Citation Needed: A Taxonomy and Algorithmic Assessment of Wikipedia's Verifiability (Redi et al., 2019)
+[[Paper](https://arxiv.org/pdf/1902.11116.pdf)]
+[[Dataset](https://figshare.com/articles/dataset/Citation_Reason_Dataset/7756226)]
+
 
 ### Factual Verification Dataset
 #### Natural Claims
