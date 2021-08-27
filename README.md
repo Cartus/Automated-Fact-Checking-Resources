@@ -7,7 +7,7 @@
 
 ## Overview
 
-This repo contains references from our survey paper "A Survey on Automated Fact-Checking". In this survey, we present a comprehensive and up-to-date survey of automated fact-checking, unifying various components and definitions developed in previous research into a common framework.  
+This repo contains references from our survey paper [[A Survey on Automated Fact-Checking](https://arxiv.org/pdf/2108.11896.pdf)]. In this survey, we present a comprehensive and up-to-date survey of automated fact-checking, unifying various components and definitions developed in previous research into a common framework.  
 
 - [Task Definition](#task-definition)
 - [Dataset](#datasets)
