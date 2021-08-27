@@ -7,7 +7,7 @@
 
 ## Overview
 
-This repo contains references from our survey paper [[A Survey on Automated Fact-Checking](https://arxiv.org/pdf/2108.11896.pdf)]. In this survey, we present a comprehensive and up-to-date survey of automated fact-checking, unifying various components and definitions developed in previous research into a common framework.  
+This repo contains references from our survey paper [A Survey on Automated Fact-Checking](https://arxiv.org/pdf/2108.11896.pdf). In this survey, we present a comprehensive and up-to-date survey of automated fact-checking, unifying various components and definitions developed in previous research into a common framework.  
 
 - [Task Definition](#task-definition)
 - [Dataset](#datasets)
@@ -81,16 +81,16 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 ### Factual Verification Dataset
 #### Natural Claims
-* X-FACT: A New Benchmark Dataset for Multilingual Fact Checking
+* X-FACT: A New Benchmark Dataset for Multilingual Fact Checking (Gupta and Srikumar, 2021)
 [[Paper](https://aclanthology.org/2021.acl-short.86.pdf)]
 [[Dataset](https://github.com/utahnlp/x-fact)]
-* Explainable Automated Fact-Checking for Public Health Claims
+* Explainable Automated Fact-Checking for Public Health Claims (Kotonya and Toni, 2020b)
 [[Paper](https://aclanthology.org/2020.emnlp-main.623.pdf)]
 [[Dataset](https://github.com/neemakot/Health-Fact-Checking)]
 * Fact or Fiction: Verifying Scientific Claims (Wadden et al., 2020).
 [[Paper](https://www.aclweb.org/anthology/2020.emnlp-main.609.pdf)]
 [[Dataset](https://github.com/allenai/scifact)]
-* CLIMATE-FEVER: A Dataset for Verification of Real-World Climate Claims
+* CLIMATE-FEVER: A Dataset for Verification of Real-World Climate Claims (Diggelmann et al., 2020)
 [[Paper](https://arxiv.org/pdf/2012.00614.pdf)]
 [[Dataset](https://www.sustainablefinance.uzh.ch/en/research/climate-fever.html)]
 * A Richly Annotated Corpus for Different Tasks in Automated Fact-Checking (Hanselowski et al., 2019).
@@ -100,7 +100,7 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 * MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims (Augenstein et al., 2019).
 [[Paper](https://www.aclweb.org/anthology/D19-1475.pdf)]
 [[Dataset](https://competitions.codalab.org/competitions/21163)]  
-* Overview of the CLEF-2018 CheckThat! Lab on Automatic Identification and Verification of Political Claims. Task 2: Factuality
+* Overview of the CLEF-2018 CheckThat! Lab on Automatic Identification and Verification of Political Claims. Task 2: Factuality  (Barrón-Cedeño et al., 2018)
 [[Paper](http://ceur-ws.org/Vol-2125/invited_paper_14.pdf)]
 [[Dataset](https://github.com/clef2018-factchecking/clef2018-factchecking/#subtasks)]
 * Integrating Stance Detection and Fact Checking in a Unified Corpus (Baly et al., 2018).
@@ -112,24 +112,24 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 * “Liar, Liar Pants on Fire”: A New Benchmark Dataset for Fake News Detection (Wang, 2017).
 [[Paper](https://www.aclweb.org/anthology/P17-2067.pdf)]
 [[Dataset](https://sites.cs.ucsb.edu/~william/software.html)]
-* Credibility Assessment of Textual Claims on the Web
+* Credibility Assessment of Textual Claims on the Web (Popat et al., 2016)
 [[Paper](http://resources.mpi-inf.mpg.de/impact/web_credibility_analysis/cikm2016-popat.pdf)]
 [[Dataset](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/impact/web-credibility-analysis)]
-* Emergent: a novel data-set for stance classification
+* Emergent: a novel data-set for stance classification (Ferreira and Vlachos, 2016)
 [[Paper](https://aclanthology.org/N16-1138.pdf)]
 [[Dataset](https://github.com/willferreira/mscproject)]
-* Identification and Verification of Simple Claims about Statistical Properties
+* Identification and Verification of Simple Claims about Statistical Properties (Vlachos and Riedel, 2015)
 [[Paper](https://aclanthology.org/D15-1312.pdf)]
 [[Dataset](https://github.com/uclnlp/simpleNumericalFactChecker)]
-* Fact Checking: Task definition and dataset construction
+* Fact Checking: Task definition and dataset construction (Vlachos and Riedel, 2014)
 [[Paper](https://aclanthology.org/W14-2508.pdf)]
 [[Dataset](https://sites.google.com/site/andreasvlachos/resources)]
-* Verification and Implementation of Language-Based Deception Indicators in Civil and Criminal Narratives
+* Verification and Implementation of Language-Based Deception Indicators in Civil and Criminal Narratives (Bachenko et al., 2008)
 [[Paper](https://aclanthology.org/C08-1006.pdf)]
-* AnswerFact: Fact Checking in Product Question Answering
+* AnswerFact: Fact Checking in Product Question Answering (Zhang et al., 2020)
 [[Paper](https://aclanthology.org/2020.emnlp-main.188.pdf)]
 [[Dataset](https://drive.google.com/file/d/1JAmbLlV0b8Fm03VnNeVEXmROvj1po2lN/view)]
-* Fact Checking in Community Forums
+* Fact Checking in Community Forums (Mihaylova et al., 2018)
 [[Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16780/16082)]
 [[Dataset](https://github.com/qcri/QLFactChecking)]
 * FakeCovid-- A Multilingual Cross-domain Fact Check News Dataset for COVID-19 (Shahi and Nandini, 2020). 
@@ -138,22 +138,22 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 * FakeNewsNet: A Data Repository with News Content, Social Context and Spatialtemporal Information for Studying Fake News on Social Media (Shu et al., 2020).
 [[Paper](https://arxiv.org/pdf/1809.01286.pdf)]
 [[Dataset](https://github.com/KaiDMML/FakeNewsNet)]
-* FA-KES: A Fake News Dataset around the Syrian War
+* FA-KES: A Fake News Dataset around the Syrian War (Salem et al., 2019)
 [[Paper](https://ojs.aaai.org/index.php/ICWSM/article/view/3254/3122)]
 [[Dataset](https://github.com/fakenewssyria/fake_news_detection)]
-* A News Veracity Dataset with Facebook User Commentary and Egos
+* A News Veracity Dataset with Facebook User Commentary and Egos (Santia and Williams, 2018)
 [[Paper](https://aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17825/17046)]
 [[Dataset](https://github.com/gsantia/BuzzFace)]
-* A Stylometric Inquiry into Hyperpartisan and Fake News
+* A Stylometric Inquiry into Hyperpartisan and Fake News (Potthast et al., 2018)
 [[Paper](https://aclanthology.org/P18-1022.pdf)]
 [[Dataset](https://github.com/webis-de/ACL-18)]
-* Sampling the News Producers: A Large News and Feature Data Set for the Study of the Complex Media Landscape
+* Sampling the News Producers: A Large News and Feature Data Set for the Study of the Complex Media Landscape (Horne et al., 2018)
 [[Paper](https://aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17796/17044)]
 [[Dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZCXSKG)]
 * r/Fakeddit: A New Multimodal Benchmark Dataset for Fine-grained Fake News Detection (Nakamura et al., 2020).
 [[Paper](https://www.aclweb.org/anthology/2020.lrec-1.755.pdf)]
 [[Dataset](https://github.com/entitize/fakeddit)]
-* Fact-Checking Meets Fauxtography: Verifying Claims About Images
+* Fact-Checking Meets Fauxtography: Verifying Claims About Images (Zlatkova et al., 2019)
 [[Paper](https://aclanthology.org/D19-1216.pdf)]
 [[Dataset](https://gitlab.com/didizlatkova/fake-image-detection)]
 
