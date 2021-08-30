@@ -20,7 +20,7 @@ This repo contains relevant resources from our survey paper [A Survey on Automat
   - [Claim Detection](#claim-detection)
   - [Factual Verification](#factual-verification)
   - [Justification Generation](#justification-generation)
-- [Surveys](#surveys)
+- [Relevant Surveys](#relevant-surveys)
 - [Related Tasks](#related-task)
 - [Tutorials](#tutorials)
 
@@ -352,18 +352,50 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 ## Related Task
 
 
-## Surveys
+## Relevant Surveys
 
-* A Survey of Fake News: Fundamental Theories, Detection Methods, and Opportunities (Zhou and Zafarani, 2020).
-[[Paper](https://dl.acm.org/doi/10.1145/3395046)]
+### Automated Fact-Checking
+* Explainable Automated Fact-Checking: A Survey (Kotonya and Toni, 2020)
+[[Paper](https://aclanthology.org/2020.coling-main.474.pdf)]
 * A Survey on Natural Language Processing for Fake News Detection (Oshikawa et al., 2020).
 [[Paper](https://www.aclweb.org/anthology/2020.lrec-1.747.pdf)]
-* Detection and Resolution of Rumours in Social Media: A Survey (Zubiaga et al., 2018).
-[[Paper](http://kddlab.zjgsu.edu.cn:7200/research/rumor/Detection%20and%20Resolution%20of%20Rumours%20in%20Social%20Media_%20A%20Survey.pdf)]
+* A Review on Fact Extraction and VERification: The FEVER case (Bekoulis et al., 2020).
+[[paper](https://arxiv.org/abs/2010.03001)]
 * Automated Fact Checking: Task Formulations, Methods and Future Directions (Thorne and Vlachos, 2018).
 [[Paper](https://www.aclweb.org/anthology/C18-1283.pdf)]
+* A Content Management Perspective on Fact-Checking (Cazalens et al., 2018).
+[[paper](https://hal.archives-ouvertes.fr/hal-01722666/document)]
+
+### Fake News Detection
+* A Survey of Fake News: Fundamental Theories, Detection Methods, and Opportunities (Zhou and Zafarani, 2020).
+[[Paper](https://dl.acm.org/doi/10.1145/3395046)]
+* A Survey on Fake News and Rumour Detection Techniques (Bondielli and Marcelloni, 2020).
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025519304372?via%3Dihub)]
+* Can Machines Learn to Detect Fake News? A Survey Focused on Social Media (da Silva et al. 2019)
+[[Paper](https://scholarspace.manoa.hawaii.edu/handle/10125/59713)]
+* Fake News Detection using Stance Classification: A Survey (Lillie and Middelboe, 2019).
+[[paper](https://arxiv.org/pdf/1907.00181.pdf)]
+* The science of fake news (Lazer et al. 2018) 
+[[Paper](https://science.sciencemag.org/content/359/6380/1094)]
+* Media-Rich Fake News Detection: A Survey (Parikh and Atrey, 2018).
+[[paper](https://www.albany.edu/~sp191221/publications/Fake_Media_Rich_News_Detection_A_Survey.pdf)]
 * Fake News Detection on Social Media: A Data Mining Perspective (Shu et al., 2017).
 [[Paper](https://arxiv.org/pdf/1708.01967.pdf)]
+
+### Claim Detection
+* Deep learning for misinformation detection on online social networks: a survey and new perspectives (Islam et al. 2020)
+[[Paper](https://link.springer.com/article/10.1007%2Fs13278-020-00696-x)]
+* A Survey on Computational Propaganda Detection (Da San Martino et al. 2020). 
+[[Paper](https://www.ijcai.org/proceedings/2020/0672.pdf)]
+* Detection and Resolution of Rumours in Social Media: A Survey (Zubiaga et al., 2018).
+[[Paper](http://kddlab.zjgsu.edu.cn:7200/research/rumor/Detection%20and%20Resolution%20of%20Rumours%20in%20Social%20Media_%20A%20Survey.pdf)]
+
+### Stance Detection
+* A Survey on Stance Detection for Mis- and Disinformation Identification (Hardalov et al. 2021)
+[[Paper](https://arxiv.org/pdf/2103.00242.pdf)]
+* Stance Detection: A Survey (Küçük and Can 2020)
+[[Paper](https://dl.acm.org/doi/10.1145/3369026)]
+
 
 
 ## Tutorials
