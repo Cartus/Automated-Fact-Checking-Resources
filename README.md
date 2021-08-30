@@ -21,6 +21,10 @@ This repo contains relevant resources from our survey paper [A Survey on Automat
   - [Factual Verification](#factual-verification)
   - [Justification Generation](#justification-generation)
 - [Relevant Surveys](#relevant-surveys)
+  - [Automated Fact-Checking](#automated-fact-checking)
+  - [Fake News Detection](#fake-news-detection)
+  - [Claim Detection Related](#claim-detection-related)
+  - [Stance Detection](#stance-detection)
 - [Related Tasks](#related-task)
 - [Tutorials](#tutorials)
 
@@ -221,12 +225,11 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 * Fakeddit Multimodal Fake News Detection Challenge [[Nakamura et al., 2020](https://competitions.codalab.org/competitions/25337#learn_the_details)]
 * SemEval-2019 Task 7: RumourEval, Determining Rumour Veracity and Support for Rumours [[Gorrell et al., 2019](https://www.aclweb.org/anthology/S19-2147/)]
 * SemEval-2019 Task 8: Fact Checking in Community Question Answering Forums [[Mihaylova et al., 2019](https://www.aclweb.org/anthology/S19-2149/)]
-* The Fake News Challenge (FNC-1) [[Pomerleau and Rao, 2017](http://www.fakenewschallenge.org/)]
 * A Retrospective Analysis of the Fake News Challenge Stance-Detection Task [[Hanselowski et al., 2018](https://www.aclweb.org/anthology/C18-1158/)]
 * The Fact Extraction and VERification (FEVER) Shared Task [[Thorne et al., 2018](https://www.aclweb.org/anthology/W18-5501/)]
 * SemEval-2017 Task 8: RumourEval: Determining rumour veracity and support for rumours [[Derczynski et al., 2017](https://www.aclweb.org/anthology/S17-2006/)]
-* The Fake News Challenge (Pomerleau and Rao, 2017) 
-[[Dataset](https://github.com/FakeNewsChallenge/fnc-1)]
+* The Fake News Challenge (FNC-1) [[Pomerleau and Rao, 2017](http://www.fakenewschallenge.org/)]
+
 
 
 ## Models
@@ -382,7 +385,7 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 * Fake News Detection on Social Media: A Data Mining Perspective (Shu et al., 2017).
 [[Paper](https://arxiv.org/pdf/1708.01967.pdf)]
 
-### Claim Detection
+### Claim Detection Related
 * Deep learning for misinformation detection on online social networks: a survey and new perspectives (Islam et al. 2020)
 [[Paper](https://link.springer.com/article/10.1007%2Fs13278-020-00696-x)]
 * A Survey on Computational Propaganda Detection (Da San Martino et al. 2020). 
