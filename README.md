@@ -47,6 +47,9 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 * Detecting Rumors from Microblogs with Recurrent Neural Networks (Ma et al., 2016)
 [[Paper](https://www.ijcai.org/Proceedings/16/Papers/537.pdf)]
 [[Dataset](https://www.dropbox.com/s/46r50ctrfa0ur1o/rumdect.zip?dl=0)]
+* Mining Dual Emotion for Fake News Detection (Zhang et al., 2021)
+[[Paper](https://arxiv.org/pdf/1903.01728.pdf)]
+[[Dataset](https://drive.google.com/drive/folders/1pjK0BYiiJt0Ya2nRIrOLCVo-o53sYRBV)]
 * Analysing How People Orient to and Spread Rumours in Social Media by Looking at Conversational Threads (Zubiaga et al., 2016).
 [[Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150989)]
 [[Dataset](https://figshare.com/articles/PHEME_rumour_scheme_dataset_journalism_use_case/2068650)]
@@ -402,9 +405,9 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 
 ## Tutorials
-* Fact Checking: Theory and Practice [[Dong et al., KDD 2018](https://shiralkarprashant.github.io/fact-checking-tutorial-KDD2018/)].
 * Fact-Checking, Fake News, Propaganda, and Media Bias: Truth Seeking in the Post-Truth Era [[Nakov and Da San Martino, EMNLP 2020](https://propaganda.qcri.org/emnlp20-tutorial/)].
 * Detection and Resolution of Rumors and Misinformation with NLP [[Derczynski and Zubiaga, COLING 2020](https://www.aclweb.org/anthology/2020.coling-tutorials.4.pdf)] [[slides](https://docs.google.com/presentation/d/1ZBVPtHcVgJW2c_ibrdVuoCH7sU9ha8NS7Fq9GCnBnls/edit?usp=sharing)].
+* Fact Checking: Theory and Practice [[Dong et al., KDD 2018](https://shiralkarprashant.github.io/fact-checking-tutorial-KDD2018/)].
 
 
 
