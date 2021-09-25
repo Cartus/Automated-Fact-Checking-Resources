@@ -26,6 +26,8 @@ This repo contains relevant resources from our survey paper [A Survey on Automat
   - [Claim Detection Related](#claim-detection-related)
   - [Stance Detection](#stance-detection)
 - [Related Tasks](#related-task)
+  - [Misinformation and Disinformation](#misinformation-and-disinformation)
+  - [Detecting Previous Claims](#detecting-previous-claims)
 - [Tutorials](#tutorials)
 
 
@@ -239,86 +241,54 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 ### Claim Detection
 
-* Simple Open Stance Classification for Rumour Analysis (Aker et al., 2017).
-  [[Paper]](https://www.acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP005.pdf)
-* NileTMRG at SemEval-2017 Task 8: Determining Rumour and Veracity Support for Rumours on Twitter (Enayet and El-Beltagy, 2017).
-  [[Paper]](https://aclanthology.org/S17-2082.pdf)
-* A Hybrid Recognition System for Check-worthy Claims Using Heuristics and Supervised Learning (Zuo et al., 2018).
-  [[Paper]](http://ceur-ws.org/Vol-2125/paper_143.pdf)
+* Mining Dual Emotion for Fake News Detection (Zhang et al., 2021).
+  [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3442381.3450004)
+  [[Code]](https://github.com/RMSnow/WWW2021)
+* Exploiting Microblog Conversation Structures to Detect Rumors (Li et al., 2020).
+  [[Paper]](https://aclanthology.org/2020.coling-main.473.pdf)
+* Rumor Detection on Social Media with Graph Structured Adversarial Learning (Yang et al., 2020).
+  [[Paper]](https://www.ijcai.org/proceedings/2020/0197.pdf)
 * Fake News Early Detection: A Theory-driven Model (Zhou et al., 2020).
   [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3377478)
-* Turing at SemEval-2017 Task 8: Sequential Approach to Rumour Stance Classification with Branch-LSTM (Kochkina et al., 2017).
-  [[Paper]](https://aclanthology.org/S17-2083.pdf)
-* Detecting Rumors from Microblogs with Recurrent Neural Networks (Ma et al., 2016).
-  [[Paper]](https://www.ijcai.org/Proceedings/16/Papers/537.pdf)
-  [[Dataset](https://www.dropbox.com/s/46r50ctrfa0ur1o/rumdect.zip?dl=0)]
+* Fake News Detection on Social Media using Geometric Deep Learning (Monti et al., 2019).
+  [[Paper]](https://arxiv.org/pdf/1902.06673.pdf)
 * Rumor Detection on Twitter with Tree-structured Recursive Neural Networks (Ma et al., 2018).
   [[Paper]](https://aclanthology.org/P18-1184.pdf)
   [[Code]](https://github.com/majingCUHK/Rumor_RvNN)
 * Rumor Detection with Hierarchical Social Attention Network (Guo et al., 2018).
   [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3269206.3271709)
-* Mining Dual Emotion for Fake News Detection (Zhang et al., 2021).
-  [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3442381.3450004)
-  [[Code]](https://github.com/RMSnow/WWW2021)
-* Fake News Detection on Social Media using Geometric Deep Learning (Monti et al., 2019).
-  [[Paper]](https://arxiv.org/pdf/1902.06673.pdf)
-* Exploiting Microblog Conversation Structures to Detect Rumors (Li et al., 2020).
-  [[Paper]](https://aclanthology.org/2020.coling-main.473.pdf)
-* Rumor Detection on Social Media with Graph Structured Adversarial Learning (Yang et al., 2020).
-  [[Paper]](https://www.ijcai.org/proceedings/2020/0197.pdf)
+* A Hybrid Recognition System for Check-worthy Claims Using Heuristics and Supervised Learning (Zuo et al., 2018).
+  [[Paper]](http://ceur-ws.org/Vol-2125/paper_143.pdf)
+* Simple Open Stance Classification for Rumour Analysis (Aker et al., 2017).
+  [[Paper]](https://www.acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP005.pdf)
+* NileTMRG at SemEval-2017 Task 8: Determining Rumour and Veracity Support for Rumours on Twitter (Enayet and El-Beltagy, 2017).
+  [[Paper]](https://aclanthology.org/S17-2082.pdf)
+* Turing at SemEval-2017 Task 8: Sequential Approach to Rumour Stance Classification with Branch-LSTM (Kochkina et al., 2017).
+  [[Paper]](https://aclanthology.org/S17-2083.pdf)
 * Automatically Identifying Fake News in Popular Twitter Threads (Buntain and Golbeck, 2017).
   [[Paper]](https://ieeexplore.ieee.org/document/8118443)
+* Detecting Rumors from Microblogs with Recurrent Neural Networks (Ma et al., 2016).
+  [[Paper]](https://www.ijcai.org/Proceedings/16/Papers/537.pdf)
+  [[Dataset](https://www.dropbox.com/s/46r50ctrfa0ur1o/rumdect.zip?dl=0)]
 
 
 ### Factual Verification
 
-* TwoWingOS: A Two-Wing Optimization Strategy for Evidential Claim Verification (Yin and Roth, 2018).
-  [[Paper]](https://aclanthology.org/D18-1010.pdf)
-  [[Code]](https://github.com/yinwenpeng/FEVER)
-* Combining Fact Extraction and Verification with Neural Semantic Matching Networks (Nie et al., 2019).
-  [[Paper](https://arxiv.org/pdf/1811.07039.pdf)]
-  [[Code](https://github.com/easonnie/combine-FEVER-NSMN/)]
-* UKP-Athene: Multi-Sentence Textual Entailment for Claim Verification (Hanselowski et al., 2018).
-  [[Paper](https://www.aclweb.org/anthology/W18-5516.pdf)]
-  [[Code](https://github.com/UKPLab/fever-2018-team-athene)]
-* Team Papelo: Transformer Networks at FEVER (Malon, 2018).
-  [[Paper](https://www.aclweb.org/anthology/W18-5517.pdf)]
-  [[Code](https://github.com/necla-ml/fever2018)]
-* Team DOMLIN: Exploiting Evidence Enhancement for the FEVER Shared Task (Stammbach and Neumann, 2019).
-  [[Paper](https://www.aclweb.org/anthology/D19-6616.pdf)]
-  [[Code](https://github.com/necla-ml/fever2018)]
-* Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (Lewis et al., 2020).
-  [[Paper]](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)
-  [[Code]](https://huggingface.co/transformers/model_doc/rag.html)
-* Multi-Task Retrieval for Knowledge-Intensive Tasks (Maillard et al., 2021).
-  [[Paper]](https://aclanthology.org/2021.acl-long.89.pdf)
-* Sentence-Level Evidence Embedding for Claim Verification with Hierarchical Attention Networks (Ma et al., 2019).
-  [[Paper]](https://aclanthology.org/P19-1244.pdf)
 * Joint Verification and Reranking for Open Fact Checking Over Tables (Schlichtkrull et al., 2021).
   [[Paper]](https://aclanthology.org/2021.acl-long.529.pdf)
   [[Code]](https://github.com/facebookresearch/OpenTableFactChecking)
-* QED: A fact verification system for the FEVER shared task (Luken et al., 2018).
-  [[Paper]](https://aclanthology.org/W18-5526.pdf)
-  [[Code]](https://github.com/jluken/FEVER)
-* UCL Machine Reading Group: Four Factor Framework For Fact Finding (HexaF) (Yoneda et al., 2018).
-  [[Paper](https://www.aclweb.org/anthology/W18-5515.pdf)]
-  [[Code](https://github.com/uclmr/fever)]
-* GEAR: Graph-based Evidence Aggregating and Reasoning for Fact Verification (Zhou et al., 2019).
-  [[Paper](https://www.aclweb.org/anthology/P19-1085.pdf)]
-  [[Code](https://github.com/thunlp/GEAR)]
-* Sentence-Level Evidence Embedding for Claim Verification with Hierarchical Attention Networks (Ma et al., 2019).
-  [[Paper]](https://aclanthology.org/P19-1244.pdf)
+* Multi-Task Retrieval for Knowledge-Intensive Tasks (Maillard et al., 2021).
+  [[Paper]](https://aclanthology.org/2021.acl-long.89.pdf)
+* Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (Lewis et al., 2020).
+  [[Paper]](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)
+  [[Code]](https://huggingface.co/transformers/model_doc/rag.html)
+* Language Models as Fact Checkers? (Lee et al., 2020).
+  [[Paper]](https://aclanthology.org/2020.fever-1.5.pdf)
 * Fine-grained Fact Verification with Kernel Graph Attention Network (Liu et al., 2020).
   [[Paper](https://www.aclweb.org/anthology/2020.acl-main.655.pdf)]
   [[Code](https://github.com/thunlp/KernelGAT)]
 * Reasoning Over Semantic-Level Graph for Fact Checking (Zhong et al., 2020).
   [[Paper]](https://aclanthology.org/2020.acl-main.549.pdf)
-* Varying Shades: Analyzing Language in Fake News and Political Fact-Checking (Rashkin et al., 2017).
-  [[Paper]](https://aclanthology.org/D17-1317.pdf)
-* Can Rumour Stance Alone Predict Veracity? (Dungs et al., 2018).
-  [[Paper]](https://aclanthology.org/C18-1284.pdf)
-* Language Models as Fact Checkers? (Lee et al., 2020).
-  [[Paper]](https://aclanthology.org/2020.fever-1.5.pdf)
 * LogicalFactChecker: Leveraging Logical Operations for Fact Checking with Graph Module Network (Zhong et al., 2020).
   [[Paper]](https://aclanthology.org/2020.acl-main.539.pdf)
 * Program Enhanced Fact Verification with Verbalization and Graph Attention Network (Yang et al., 2020).
@@ -327,31 +297,67 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 * Understanding tables with intermediate pre-training (Eisenschlos et al., 2020).
   [[Paper]](https://aclanthology.org/2020.findings-emnlp.27.pdf)
   [[Code]](https://github.com/google-research/tapas)  
+* GEAR: Graph-based Evidence Aggregating and Reasoning for Fact Verification (Zhou et al., 2019).
+  [[Paper](https://www.aclweb.org/anthology/P19-1085.pdf)]
+  [[Code](https://github.com/thunlp/GEAR)]
+* Sentence-Level Evidence Embedding for Claim Verification with Hierarchical Attention Networks (Ma et al., 2019).
+  [[Paper]](https://aclanthology.org/P19-1244.pdf)
+* Combining Fact Extraction and Verification with Neural Semantic Matching Networks (Nie et al., 2019).
+  [[Paper](https://arxiv.org/pdf/1811.07039.pdf)]
+  [[Code](https://github.com/easonnie/combine-FEVER-NSMN/)]
+* Team DOMLIN: Exploiting Evidence Enhancement for the FEVER Shared Task (Stammbach and Neumann, 2019).
+  [[Paper](https://www.aclweb.org/anthology/D19-6616.pdf)]
+  [[Code](https://github.com/necla-ml/fever2018)]
+* Sentence-Level Evidence Embedding for Claim Verification with Hierarchical Attention Networks (Ma et al., 2019).
+  [[Paper]](https://aclanthology.org/P19-1244.pdf)
+* TwoWingOS: A Two-Wing Optimization Strategy for Evidential Claim Verification (Yin and Roth, 2018).
+  [[Paper]](https://aclanthology.org/D18-1010.pdf)
+  [[Code]](https://github.com/yinwenpeng/FEVER)
+* UKP-Athene: Multi-Sentence Textual Entailment for Claim Verification (Hanselowski et al., 2018).
+  [[Paper](https://www.aclweb.org/anthology/W18-5516.pdf)]
+  [[Code](https://github.com/UKPLab/fever-2018-team-athene)]
+* Team Papelo: Transformer Networks at FEVER (Malon, 2018).
+  [[Paper](https://www.aclweb.org/anthology/W18-5517.pdf)]
+  [[Code](https://github.com/necla-ml/fever2018)]
+* QED: A fact verification system for the FEVER shared task (Luken et al., 2018).
+  [[Paper]](https://aclanthology.org/W18-5526.pdf)
+  [[Code]](https://github.com/jluken/FEVER)
+* UCL Machine Reading Group: Four Factor Framework For Fact Finding (HexaF) (Yoneda et al., 2018).
+  [[Paper](https://www.aclweb.org/anthology/W18-5515.pdf)]
+  [[Code](https://github.com/uclmr/fever)]
+* Can Rumour Stance Alone Predict Veracity? (Dungs et al., 2018).
+  [[Paper]](https://aclanthology.org/C18-1284.pdf)
+* Varying Shades: Analyzing Language in Fake News and Political Fact-Checking (Rashkin et al., 2017).
+  [[Paper]](https://aclanthology.org/D17-1317.pdf)
+
+
 
 
 ### Justification Generation
 
-* DeClarE: Debunking Fake News and False Claims using Evidence-Aware Deep Learning (Popat et al., 2018).
-  [[Paper]](https://aclanthology.org/D18-1003.pdf)
-* DTCA: Decision Tree-based Co-Attention Networks for Explainable Claim Verification (Wu et al., 2020).
-  [[Paper]](https://aclanthology.org/2020.acl-main.97.pdf)
-* dEFEND: Explainable Fake News Detection (Shu et al., 2019).
-  [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3292500.3330935)
-* GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media (Lu and Li, 2020).
-  [[Paper]](https://aclanthology.org/2020.acl-main.48.pdf)
-  [[Code]](https://github.com/l852888/GCAN)
-* ExFaKT: A Framework for Explaining Facts over Knowledge Graphs and Text (Gad-Elrab et al., 2019)
-  [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3289600.3290996)
-  [[Code]](https://www.mpi-inf.mpg.de/impact/exfakt)
-* Where is your Evidence: Improving Fact-checking by Justification Modeling (Alhindi et al., 2018).
-  [[Paper](https://www.aclweb.org/anthology/W18-5513.pdf)]
-  [[Code](https://github.com/Tariq60/LIAR-PLUS)]
-* Generating Fact Checking Explanations (Atanasova et al., 2020).
-  [[Paper](https://www.aclweb.org/anthology/2020.acl-main.656.pdf)]
 * Explainable Automated Fact-Checking for Public Health Claims (Kotonya and Toni, 2020). 
   [[Paper](https://arxiv.org/abs/2010.09926)]
   [[Code]](https://github.com/neemakot/Health-Fact-Checking)
   [[Dataset](https://github.com/neemakot/Health-Fact-Checking)]
+* Generating Fact Checking Explanations (Atanasova et al., 2020).
+  [[Paper](https://www.aclweb.org/anthology/2020.acl-main.656.pdf)]
+* GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media (Lu and Li, 2020).
+  [[Paper]](https://aclanthology.org/2020.acl-main.48.pdf)
+  [[Code]](https://github.com/l852888/GCAN)
+* DTCA: Decision Tree-based Co-Attention Networks for Explainable Claim Verification (Wu et al., 2020).
+  [[Paper]](https://aclanthology.org/2020.acl-main.97.pdf)
+* ExFaKT: A Framework for Explaining Facts over Knowledge Graphs and Text (Gad-Elrab et al., 2019)
+  [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3289600.3290996)
+  [[Code]](https://www.mpi-inf.mpg.de/impact/exfakt)
+* dEFEND: Explainable Fake News Detection (Shu et al., 2019).
+  [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3292500.3330935)
+* Where is your Evidence: Improving Fact-checking by Justification Modeling (Alhindi et al., 2018).
+  [[Paper](https://www.aclweb.org/anthology/W18-5513.pdf)]
+  [[Code](https://github.com/Tariq60/LIAR-PLUS)]
+* DeClarE: Debunking Fake News and False Claims using Evidence-Aware Deep Learning (Popat et al., 2018).
+  [[Paper]](https://aclanthology.org/D18-1003.pdf)
+
+
 
 
 
@@ -359,14 +365,30 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 ### Misinformation and Disinformation
 
+* A Survey on Multimodal Disinformation Detection (Alam et al., 2021) 
+[[Paper](https://arxiv.org/pdf/2103.12541.pdf)]
+* Misinformation, Disinformation, and Online Propaganda (Guess and Lyons, 2020)
+[[Paper](https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-disinformation-and-online-propaganda/D14406A631AA181839ED896916598500/core-reader)]
+* A Survey on Computational Propaganda Detection (Da San Martino et al. 2020). 
+[[Paper](https://www.ijcai.org/proceedings/2020/0672.pdf)]
+* Social Media, Political Polarization, and Political Disinformation: A Review of the Scientific Literature (Tucker et al., 2018)
+[[Paper](https://www.hewlett.org/wp-content/uploads/2018/03/Social-Media-Political-Polarization-and-Political-Disinformation-Literature-Review.pdf)]
 
-### Detecting Previously Fact-checked Claims
+
+### Detecting Previous Claims
+
 * Article Reranking by Memory-Enhanced Key Sentence Matching for Detecting Previously Fact-Checked Claims (Sheng et al. 2021)
 [[Paper](https://aclanthology.org/2021.acl-long.425.pdf)]
 * Claim Matching Beyond English to Scale Global Fact-Checking (Kazemiet al. 2021)
 [[Paper](https://aclanthology.org/2021.acl-long.347.pdf)]
+* The CLEF-2021 CheckThat! Lab on Detecting Check-Worthy Claims, Previously Fact-Checked Claims, and Fake News (Nakov et al., 2021)
+[[Paper](https://link.springer.com/chapter/10.1007%2F978-3-030-72240-1_75)]
 * That is a Known Lie: Detecting Previously Fact-Checked Claims (Shaar et al., 2020)
 [[Paper](https://aclanthology.org/2020.acl-main.332.pdf)]
+* COVIDLies: Detecting COVID-19 Misinformation on Social Media (Hossain et al., 2020)
+[[Paper](https://aclanthology.org/2020.nlpcovid19-2.11.pdf)]
+* Overview of CheckThat! 2020: Automatic Identification and Verification of Claims in Social Media (Barrón-Cedeño et al., 2020)
+[[Paper](https://link.springer.com/chapter/10.1007%2F978-3-030-58219-7_17)]
 
 ## Relevant Surveys
 
