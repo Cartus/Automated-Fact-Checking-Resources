@@ -355,8 +355,18 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 
 
-## Related Task
+## Related Tasks
 
+### Misinformation and Disinformation
+
+
+### Detecting Previously Fact-checked Claims
+* Article Reranking by Memory-Enhanced Key Sentence Matching for Detecting Previously Fact-Checked Claims (Sheng et al. 2021)
+[[Paper](https://aclanthology.org/2021.acl-long.425.pdf)]
+* Claim Matching Beyond English to Scale Global Fact-Checking (Kazemiet al. 2021)
+[[Paper](https://aclanthology.org/2021.acl-long.347.pdf)]
+* That is a Known Lie: Detecting Previously Fact-Checked Claims (Shaar et al., 2020)
+[[Paper](https://aclanthology.org/2020.acl-main.332.pdf)]
 
 ## Relevant Surveys
 
