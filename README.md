@@ -393,6 +393,8 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 ## Relevant Surveys
 
 ### Automated Fact-Checking
+* Automated fact-checking: A survey (Zeng et al., 2021)
+[[Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/lnc3.12438)]
 * Explainable Automated Fact-Checking: A Survey (Kotonya and Toni, 2020)
 [[Paper](https://aclanthology.org/2020.coling-main.474.pdf)]
 * A Survey on Natural Language Processing for Fake News Detection (Oshikawa et al., 2020).
