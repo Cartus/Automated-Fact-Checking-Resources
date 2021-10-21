@@ -244,6 +244,9 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 * Mining Dual Emotion for Fake News Detection (Zhang et al., 2021).
   [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3442381.3450004)
   [[Code]](https://github.com/RMSnow/WWW2021)
+* Claim Check-Worthiness Detection as Positive Unlabelled Learning (Wright and Augenstein, 2021)
+  [[Paper]](https://aclanthology.org/2020.findings-emnlp.43.pdf)
+  [[Code]](https://github.com/copenlu/check-worthiness-pu-learning)
 * Exploiting Microblog Conversation Structures to Detect Rumors (Li et al., 2020).
   [[Paper]](https://aclanthology.org/2020.coling-main.473.pdf)
 * Rumor Detection on Social Media with Graph Structured Adversarial Learning (Yang et al., 2020).
@@ -277,6 +280,12 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 * Joint Verification and Reranking for Open Fact Checking Over Tables (Schlichtkrull et al., 2021).
   [[Paper]](https://aclanthology.org/2021.acl-long.529.pdf)
   [[Code]](https://github.com/facebookresearch/OpenTableFactChecking)
+* Topic-Aware Evidence Reasoning and Stance-Aware Aggregation for Fact Verification (Si et al., 2021).
+  [[Paper]](https://arxiv.org/pdf/2106.01191.pdf)
+  [[Code]](https://github.com/jasenchn/TARSA)
+* A Multi-Level Attention Model for Evidence-Based Fact Checking (Kruengkrai et al., 2021)
+  [[Paper]](https://arxiv.org/pdf/2106.00950.pdf)
+  [[Code]](https://github.com/nii-yamagishilab/mla)
 * Multi-Task Retrieval for Knowledge-Intensive Tasks (Maillard et al., 2021).
   [[Paper]](https://aclanthology.org/2021.acl-long.89.pdf)
 * Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (Lewis et al., 2020).
@@ -284,6 +293,9 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   [[Code]](https://huggingface.co/transformers/model_doc/rag.html)
 * Language Models as Fact Checkers? (Lee et al., 2020).
   [[Paper]](https://aclanthology.org/2020.fever-1.5.pdf)
+* Hierarchical Evidence Set Modeling for Automated Fact Extraction and Verification (Subramanian et al., 2020)
+  [[Paper]](https://arxiv.org/pdf/2010.05111.pdf)
+  [[Code]](https://github.com/ShyamSubramanian/HESM)
 * Fine-grained Fact Verification with Kernel Graph Attention Network (Liu et al., 2020).
   [[Paper](https://www.aclweb.org/anthology/2020.acl-main.655.pdf)]
   [[Code](https://github.com/thunlp/KernelGAT)]
@@ -395,6 +407,8 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 ### Automated Fact-Checking
 * Automated fact-checking: A survey (Zeng et al., 2021)
 [[Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/lnc3.12438)]
+* Towards Explainable Fact Checking (Isabelle Augenstein, 2021)
+[[Paper](https://arxiv.org/pdf/2108.10274.pdf)]
 * Explainable Automated Fact-Checking: A Survey (Kotonya and Toni, 2020)
 [[Paper](https://aclanthology.org/2020.coling-main.474.pdf)]
 * A Survey on Natural Language Processing for Fake News Detection (Oshikawa et al., 2020).
