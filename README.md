@@ -90,6 +90,9 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 ### Factual Verification Dataset
 #### Natural Claims
+* COVID-Fact: Fact Extraction and Verification of Real-World Claims on COVID-19 Pandemic (Saakyan et al., 2021)
+[[Paper]](https://arxiv.org/pdf/2106.03794.pdf)
+[[Dataset]](https://github.com/asaakyan/covidfact)
 * X-FACT: A New Benchmark Dataset for Multilingual Fact Checking (Gupta and Srikumar, 2021)
 [[Paper](https://aclanthology.org/2021.acl-short.86.pdf)]
 [[Dataset](https://github.com/utahnlp/x-fact)]
