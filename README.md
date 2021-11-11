@@ -7,7 +7,7 @@
 
 ## Overview
 
-This repo contains relevant resources from our TACL paper [A Survey on Automated Fact-Checking](https://arxiv.org/pdf/2108.11896.pdf). In this survey, we present a comprehensive and up-to-date survey of automated fact-checking, unifying various components and definitions developed in previous research into a common framework.  As automated fact-checking research is evolving, we will provided timely update on the survey and this repo.
+This repo contains relevant resources from our survey paper [A Survey on Automated Fact-Checking](https://arxiv.org/pdf/2108.11896.pdf) accepted by TACL 2021. In this survey, we present a comprehensive and up-to-date survey of automated fact-checking, unifying various components and definitions developed in previous research into a common framework.  As automated fact-checking research is evolving, we will provided timely update on the survey and this repo.
 
 - [Task Definition](#task-definition)
 - [Datasets](#datasets)
@@ -19,7 +19,7 @@ This repo contains relevant resources from our TACL paper [A Survey on Automated
 - [Models](#model)
   - [Claim Detection](#claim-detection)
   - [Factual Verification](#factual-verification)
-  - [Justification Generation](#justification-generation)
+  - [Justification Production](#justification-production)
 - [Relevant Surveys](#relevant-surveys)
   - [Automated Fact-Checking](#automated-fact-checking)
   - [Fake News Detection](#fake-news-detection)
@@ -39,7 +39,7 @@ Figure below shows a NLP framework for automated fact-checking consisting of thr
 
 ![Framework](Figures/framework.png)
 
-Evidence retrieval and claim verification are sometimes tackled as a single task referred to asfactual verification, while claim detection is often tackled separately. Claim verificationcan be decomposed into two parts that can be tackled separately or jointly: verdict prediction, where claims are assigned truthfulness labels, and justification generation, where explanations for verdicts must be produced.
+Evidence retrieval and claim verification are sometimes tackled as a single task referred to asfactual verification, while claim detection is often tackled separately. Claim verificationcan be decomposed into two parts that can be tackled separately or jointly: verdict prediction, where claims are assigned truthfulness labels, and justification production, where explanations for verdicts must be produced.
 
 ## Datasets
 ### Claim Detection Dataset
@@ -348,7 +348,7 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 
 
-### Justification Generation
+### Justification Production
 
 * Explainable Automated Fact-Checking for Public Health Claims (Kotonya and Toni, 2020). 
   [[Paper](https://arxiv.org/abs/2010.09926)]
