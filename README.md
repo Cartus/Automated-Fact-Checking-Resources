@@ -315,7 +315,9 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   [[Code]](https://github.com/arielsho/Program-Enhanced-Table-Fact-Checking)
 * Understanding tables with intermediate pre-training (Eisenschlos et al., 2020).
   [[Paper]](https://aclanthology.org/2020.findings-emnlp.27.pdf)
-  [[Code]](https://github.com/google-research/tapas)  
+  [[Code]](https://github.com/google-research/tapas) 
+* Scrutinizer: A Mixed-Initiative Approach to Large-Scale, Data-Driven Claim Verification (Karagiannis et al., 2020) [[Paper]](http://www.vldb.org/pvldb/vol13/p2508-karagiannis.pdf)
+[[Code]](https://github.com/geokaragiannis/statchecker) 
 * GEAR: Graph-based Evidence Aggregating and Reasoning for Fact Verification (Zhou et al., 2019).
   [[Paper]](https://www.aclweb.org/anthology/P19-1085.pdf)
   [[Code]](https://github.com/thunlp/GEAR)]
@@ -370,6 +372,9 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   [[Code]](https://www.mpi-inf.mpg.de/impact/exfakt)
 * dEFEND: Explainable Fake News Detection (Shu et al., 2019).
   [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3292500.3330935)
+* Explainable Fact Checking with Probabilistic Answer Set Programming
+[[Paper]](https://arxiv.org/abs/1906.09198)
+[[Code]](https://github.com/ppapotti/expclaim)
 * Where is your Evidence: Improving Fact-checking by Justification Modeling (Alhindi et al., 2018).
   [[Paper]](https://www.aclweb.org/anthology/W18-5513.pdf)
   [[Code]](https://github.com/Tariq60/LIAR-PLUS)]
