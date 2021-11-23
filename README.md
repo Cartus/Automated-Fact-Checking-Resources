@@ -260,6 +260,8 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   [[Paper]](https://www.ijcai.org/proceedings/2020/0197.pdf)
 * Fake News Early Detection: A Theory-driven Model (Zhou et al., 2020).
   [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3377478)
+* Scrutinizer: A Mixed-Initiative Approach to Large-Scale, Data-Driven Claim Verification (Karagiannis et al., 2020) [[Paper]](http://www.vldb.org/pvldb/vol13/p2508-karagiannis.pdf)
+[[Code]](https://github.com/geokaragiannis/statchecker)
 * Fake News Detection on Social Media using Geometric Deep Learning (Monti et al., 2019).
   [[Paper]](https://arxiv.org/pdf/1902.06673.pdf)
 * Rumor Detection on Twitter with Tree-structured Recursive Neural Networks (Ma et al., 2018).
@@ -370,6 +372,9 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   [[Code]](https://www.mpi-inf.mpg.de/impact/exfakt)
 * dEFEND: Explainable Fake News Detection (Shu et al., 2019).
   [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3292500.3330935)
+* Explainable Fact Checking with Probabilistic Answer Set Programming
+[[Paper]](https://arxiv.org/abs/1906.09198)
+[[Code]](https://github.com/ppapotti/expclaim)
 * Where is your Evidence: Improving Fact-checking by Justification Modeling (Alhindi et al., 2018).
   [[Paper]](https://www.aclweb.org/anthology/W18-5513.pdf)
   [[Code]](https://github.com/Tariq60/LIAR-PLUS)]
