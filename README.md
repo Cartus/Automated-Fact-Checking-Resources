@@ -260,8 +260,6 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   [[Paper]](https://www.ijcai.org/proceedings/2020/0197.pdf)
 * Fake News Early Detection: A Theory-driven Model (Zhou et al., 2020).
   [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3377478)
-* Scrutinizer: A Mixed-Initiative Approach to Large-Scale, Data-Driven Claim Verification (Karagiannis et al., 2020) [[Paper]](http://www.vldb.org/pvldb/vol13/p2508-karagiannis.pdf)
-[[Code]](https://github.com/geokaragiannis/statchecker)
 * Fake News Detection on Social Media using Geometric Deep Learning (Monti et al., 2019).
   [[Paper]](https://arxiv.org/pdf/1902.06673.pdf)
 * Rumor Detection on Twitter with Tree-structured Recursive Neural Networks (Ma et al., 2018).
@@ -317,7 +315,9 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   [[Code]](https://github.com/arielsho/Program-Enhanced-Table-Fact-Checking)
 * Understanding tables with intermediate pre-training (Eisenschlos et al., 2020).
   [[Paper]](https://aclanthology.org/2020.findings-emnlp.27.pdf)
-  [[Code]](https://github.com/google-research/tapas)  
+  [[Code]](https://github.com/google-research/tapas) 
+* Scrutinizer: A Mixed-Initiative Approach to Large-Scale, Data-Driven Claim Verification (Karagiannis et al., 2020) [[Paper]](http://www.vldb.org/pvldb/vol13/p2508-karagiannis.pdf)
+[[Code]](https://github.com/geokaragiannis/statchecker) 
 * GEAR: Graph-based Evidence Aggregating and Reasoning for Fact Verification (Zhou et al., 2019).
   [[Paper]](https://www.aclweb.org/anthology/P19-1085.pdf)
   [[Code]](https://github.com/thunlp/GEAR)]
