@@ -318,6 +318,9 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   [[Code]](https://github.com/google-research/tapas) 
 * Scrutinizer: A Mixed-Initiative Approach to Large-Scale, Data-Driven Claim Verification (Karagiannis et al., 2020) [[Paper]](http://www.vldb.org/pvldb/vol13/p2508-karagiannis.pdf)
 [[Code]](https://github.com/geokaragiannis/statchecker) 
+* Unsupervised Question Answering for Fact-Checking (Jobanputra, 2019).
+  [[Paper]](https://aclanthology.org/D19-6609.pdf)
+  [[Code]](https://github.com/mayankjobanputra/UQA-fever)
 * GEAR: Graph-based Evidence Aggregating and Reasoning for Fact Verification (Zhou et al., 2019).
   [[Paper]](https://www.aclweb.org/anthology/P19-1085.pdf)
   [[Code]](https://github.com/thunlp/GEAR)]
