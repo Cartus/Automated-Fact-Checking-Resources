@@ -284,6 +284,13 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 ### Factual Verification
 
+* LOREN: Logic-Regularized Reasoning for Interpretable Fact Verification (Chen et al., 2021)
+  [[Paper]](https://arxiv.org/pdf/2012.13577.pdf)
+  [[Code]](https://github.com/jiangjiechen/LOREN?ref=pythonrepo.com)
+* ProoFVer: Natural Logic Theorem Proving for Fact Verification (Krishna et al., 2021)
+  [[Paper]](https://arxiv.org/pdf/2108.11357.pdf)
+* Exploring Listwise Evidence Reasoning with T5 for Fact Verification (Jiang et al., 2021)
+  [[Paper]](https://aclanthology.org/2021.acl-short.51.pdf)
 * Joint Verification and Reranking for Open Fact Checking Over Tables (Schlichtkrull et al., 2021).
   [[Paper]](https://aclanthology.org/2021.acl-long.529.pdf)
   [[Code]](https://github.com/facebookresearch/OpenTableFactChecking)
