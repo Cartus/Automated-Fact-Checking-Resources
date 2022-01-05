@@ -388,6 +388,7 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 * Topic-Aware Evidence Reasoning and Stance-Aware Aggregation for Fact Verification (Si et al., 2021).
   [[Paper]](https://arxiv.org/pdf/2106.01191.pdf)
   [[Code]](https://github.com/jasenchn/TARSA)
+  **ACL 2021**
 * A Multi-Level Attention Model for Evidence-Based Fact Checking (Kruengkrai et al., 2021)
   [[Paper]](https://arxiv.org/pdf/2106.00950.pdf)
   [[Code]](https://github.com/nii-yamagishilab/mla)
