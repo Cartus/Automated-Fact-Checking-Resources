@@ -84,6 +84,9 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   [[Paper]](https://www.acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP037.pdf)
   [[Dataset]](https://github.com/apepa/claim-rank)
   **RANLP 2017**
+* Multimodal Fusion with Recurrent Neural Networks for Rumor Detection on Microblogs (Jin et al., 2017)
+  [[Paper]](https://dl.acm.org/doi/10.1145/3123266.3123454)
+  **ACM MM 2017**
 * SemEval-2017 Task 8: RumourEval: Determining rumour veracity and support for rumours (Derczynski et al., 2017).
   [[Paper]](https://www.aclweb.org/anthology/S17-2006.pdf)
   [[Dataset]](https://alt.qcri.org/semeval2017/task8/index.php?id=data-and-tools)
@@ -126,6 +129,13 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   [[Paper]](https://aclanthology.org/2021.acl-short.86.pdf)
   [[Dataset]](https://github.com/utahnlp/x-fact)
   **ACL 2021**
+* LUX (Linguistic aspects Under eXamination): Discourse Analysis for Automatic Fake News Classification (Azevedo et al., 2021)
+  [[Paper]](https://aclanthology.org/2021.findings-acl.4.pdf)
+  [[Code]](https://github.com/lucas0/Lux)
+  **Findings ACL 2021**
+* Meet The Truth: Leverage Objective Facts and Subjective Views for Interpretable Rumor Detection (Li et al., 2021)
+  [[Paper]](https://aclanthology.org/2021.findings-acl.63.pdf)
+  **Findings ACL 2021**
 * Explainable Automated Fact-Checking for Public Health Claims (Kotonya and Toni, 2020b)
   [[Paper]](https://aclanthology.org/2020.emnlp-main.623.pdf)
   [[Dataset]](https://github.com/neemakot/Health-Fact-Checking)
@@ -214,6 +224,9 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   [[Paper]](https://aclanthology.org/N16-1138.pdf)
   [[Dataset]](https://github.com/willferreira/mscproject)
   **NAACL 2016**
+* Fake News or Truth? Using Satirical Cues to Detect Potentially Misleading News (Rubin et al., 2016)
+  [[Paper]](https://aclanthology.org/W16-0802.pdf) 
+  **Workshop @ 2016**
 * Identification and Verification of Simple Claims about Statistical Properties (Vlachos and Riedel, 2015)
   [[Paper]](https://aclanthology.org/D15-1312.pdf)
   [[Dataset]](https://github.com/uclnlp/simpleNumericalFactChecker)
@@ -321,6 +334,10 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 * Active Learning for Rumor Identification on Social Media (Farinneya et al., 2021)
   [[Paper]](https://aclanthology.org/2021.findings-emnlp.387.pdf)
   **Findings EMNLP 2021**
+* Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection (Wei et al., 2021)
+  [[Paper]](https://aclanthology.org/2021.acl-long.297.pdf)
+  [[Code]](https://github.com/weilingwei96/EBGCN)
+  **ACL 2021**
 * Mining Dual Emotion for Fake News Detection (Zhang et al., 2021).
   [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3442381.3450004)
   [[Code]](https://github.com/RMSnow/WWW2021)
@@ -406,16 +423,35 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 * Multi-Task Retrieval for Knowledge-Intensive Tasks (Maillard et al., 2021).
   [[Paper]](https://aclanthology.org/2021.acl-long.89.pdf)
   **ACL 2021**
-* Exploring Listwise Evidence Reasoning with T5 for Fact Verification (Jiang et al., 2021)
-  [[Paper]](https://aclanthology.org/2021.acl-short.51.pdf)
-  **ACL 2021**
 * Topic-Aware Evidence Reasoning and Stance-Aware Aggregation for Fact Verification (Si et al., 2021).
   [[Paper]](https://arxiv.org/pdf/2106.01191.pdf)
   [[Code]](https://github.com/jasenchn/TARSA)
   **ACL 2021**
+* A DQN-based Approach to Finding Precise Evidences for Fact Verification (Wan et al., 2021)
+  [[Paper]](https://aclanthology.org/2021.acl-long.83.pdf)
+  [[Code]](https://github.com/sysulic/DQN-FV)
+  **ACL 2021**
+* Unified Dual-view Cognitive Model for Interpretable Claim Verification (Wu et al., 2021)
+  [[Paper]](https://aclanthology.org/2021.acl-long.5.pdf)
+  **ACL 2021**
+* Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge (Hu et al., 2021)
+  [[Paper]](https://aclanthology.org/2021.acl-long.62.pdf)
+  [[Code]](https://github.com/BUPT-GAMMA/CompareNet_FakeNewsDetection)
+  **ACL 2021**
+* Automatic Fake News Detection: Are Models Learning to Reason? (Hansen et al., 2021)
+  [[Paper]](https://aclanthology.org/2021.acl-short.12.pdf)
+  [[Code]](https://github.com/casperhansen/fake-news-reasoning)
+  **ACL 2021**
+* Exploring Listwise Evidence Reasoning with T5 for Fact Verification (Jiang et al., 2021)
+  [[Paper]](https://aclanthology.org/2021.acl-short.51.pdf)
+  **ACL 2021**
+* Multimodal Fusion with Co-Attention Networks for Fake News Detection (Wu et al., 2021)
+  [[Paper]](https://aclanthology.org/2021.findings-acl.226.pdf)  
+  **Findings ACL 2021**
 * A Multi-Level Attention Model for Evidence-Based Fact Checking (Kruengkrai et al., 2021)
   [[Paper]](https://arxiv.org/pdf/2106.00950.pdf)
   [[Code]](https://github.com/nii-yamagishilab/mla)
+  **Findings ACL 2021**
 * Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (Lewis et al., 2020).
   [[Paper]](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)
   [[Code]](https://huggingface.co/transformers/model_doc/rag.html)
