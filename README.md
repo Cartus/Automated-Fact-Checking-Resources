@@ -220,6 +220,10 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   [[Dataset]](https://fever.ai/resources.html)
   [[Code]](https://github.com/Raldir/FEVEROUS)
   **NeurIPS 2021 Dataset and Benchmarks**
+* InfoSurgeon: Cross-Media Fine-grained Information Consistency Checking for Fake News Detection (Fung et al., 2021)
+  [[Paper]](https://aclanthology.org/2021.acl-long.133.pdf)
+  [[Dataset]](https://github.com/yrf1/InfoSurgeon)
+  **ACL 2021**
 * Statement Verification and Evidence Finding with Tables (SEM-TAB-FACT) (Wang et al., 2021)
   [[Dataset]](https://competitions.codalab.org/competitions/27748)
 * Get Your Vitamin C! Robust Fact Verification with Contrastive Evidence (Schuster et al., 2021)
