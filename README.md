@@ -43,14 +43,14 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 ## Datasets
 ### Claim Detection Dataset
-* Fighting the COVID-19 Infodemic: Modeling the Perspective of Journalists, Fact-Checkers, Social Media Platforms, Policy Makers, and the Society (Alam et al., 2021)
-  [[Paper]](https://aclanthology.org/2021.findings-emnlp.56.pdf)
-  [[Dataset]](https://github.com/firojalam/COVID-19-disinformation)
-  **Findings EMNLP 2021**
 * STANKER: Stacking Network based on Level-grained Attention-masked BERT for Rumor Detection on Social Media (Rao et al., 2021)
   [[Paper]](https://aclanthology.org/2021.emnlp-main.269.pdf)
   [[Dataset]](https://github.com/fip-lab/STANKER)
   **EMNLP 2021**
+* Fighting the COVID-19 Infodemic: Modeling the Perspective of Journalists, Fact-Checkers, Social Media Platforms, Policy Makers, and the Society (Alam et al., 2021)
+  [[Paper]](https://aclanthology.org/2021.findings-emnlp.56.pdf)
+  [[Dataset]](https://github.com/firojalam/COVID-19-disinformation)
+  **Findings EMNLP 2021**
 * Towards Automated Factchecking: Developing an Annotation Schema and Benchmark for Consistent Automated Claim Detection (Konstantinovskiy et al., 2021)
   [[Paper]](https://arxiv.org/pdf/1809.08193.pdf)
   **ACM Digital Threats: Research and Practice 2021**
@@ -338,6 +338,14 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   [[Paper]](https://aclanthology.org/2021.acl-long.297.pdf)
   [[Code]](https://github.com/weilingwei96/EBGCN)
   **ACL 2021**
+* Adversary-Aware Rumor Detection (Song et al., 2021)
+  [[Paper]](https://aclanthology.org/2021.findings-acl.118.pdf)
+  [[Code]](https://github.com/yunzhusong/AARD)
+  **Findings ACL 2021**
+* Learning Disentangled Latent Topics for Twitter Rumour Veracity Classification (Dougrez-Lewis et al., 2021)
+  [[Paper]](https://aclanthology.org/2021.findings-acl.341.pdf)
+  [[Code]](https://github.com/JohnNLP/SAVED)
+  **Findings ACL 2021**
 * Mining Dual Emotion for Fake News Detection (Zhang et al., 2021).
   [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3442381.3450004)
   [[Code]](https://github.com/RMSnow/WWW2021)
@@ -352,6 +360,10 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 * Debunking Rumors on Twitter with Tree Transformer (Ma et al., 2020)
   [[Paper]](https://aclanthology.org/2020.coling-main.476.pdf)
   **COLING 2020**
+* VRoC: Variational Autoencoder-aided Multi-task Rumor Classifier Based on Text (Cheng et al., 2020)
+  [[Paper]](https://arxiv.org/pdf/2102.00816.pdf)
+  [[Code]](https://github.com/cmxxx/VRoC)
+  **WWW 2020**
 * Rumor Detection on Social Media with Graph Structured Adversarial Learning (Yang et al., 2020)
   [[Paper]](https://www.ijcai.org/proceedings/2020/0197.pdf)
   **IJCAI 2020**
@@ -397,6 +409,10 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   **AAAI 2022**
 * ProoFVer: Natural Logic Theorem Proving for Fact Verification (Krishna et al., 2021)
   [[Paper]](https://arxiv.org/pdf/2108.11357.pdf)
+* Editing Factual Knowledge in Language Models (De Cao et al., 2021)
+  [[Paper]](https://arxiv.org/pdf/2104.08164.pdf)
+  [[Code]](https://github.com/nicola-decao/KnowledgeEditor)
+  **EMNLP 2021**
 * Logic-level Evidence Retrieval and Graph-based Verification Network for Table-based Fact Verification (Shi et al., 2021)
   [[Paper]](https://aclanthology.org/2021.emnlp-main.16.pdf)
   [[Code]](https://github.com/qshi95/LERGV)
@@ -452,6 +468,10 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   [[Paper]](https://arxiv.org/pdf/2106.00950.pdf)
   [[Code]](https://github.com/nii-yamagishilab/mla)
   **Findings ACL 2021**
+* Strong and Light Baseline Models for Fact-Checking Joint Inference (Tymoshenko et al., 2021)
+  [[Paper]](https://aclanthology.org/2021.findings-acl.426.pdf)
+  [[Code]](https://github.com/ikernels/reasoning-baselines)
+  **Findings ACL 2021**
 * Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (Lewis et al., 2020).
   [[Paper]](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)
   [[Code]](https://huggingface.co/transformers/model_doc/rag.html)
@@ -498,6 +518,10 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   [[Code]](https://github.com/necla-ml/fever2018)
 * Sentence-Level Evidence Embedding for Claim Verification with Hierarchical Attention Networks (Ma et al., 2019).
   [[Paper]](https://aclanthology.org/P19-1244.pdf)
+* BERT for Evidence Retrieval and Claim Verification (Soleimani et al., 2019)
+  [[Paper]](https://arxiv.org/pdf/1910.02655.pdf)
+  [[Code]](https://github.com/ASoleimaniB/BERT_FEVER)
+  **ECIR 2019**
 * TwoWingOS: A Two-Wing Optimization Strategy for Evidential Claim Verification (Yin and Roth, 2018).
   [[Paper]](https://aclanthology.org/D18-1010.pdf)
   [[Code]](https://github.com/yinwenpeng/FEVER)
