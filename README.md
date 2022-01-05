@@ -43,6 +43,10 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 ## Datasets
 ### Claim Detection Dataset
+* Fighting the COVID-19 Infodemic: Modeling the Perspective of Journalists, Fact-Checkers, Social Media Platforms, Policy Makers, and the Society (Alam et al., 2021)
+  [[Paper]](https://aclanthology.org/2021.findings-emnlp.56.pdf)
+  [[Dataset]](https://github.com/firojalam/COVID-19-disinformation)
+  **Findings EMNLP 2021**
 * STANKER: Stacking Network based on Level-grained Attention-masked BERT for Rumor Detection on Social Media (Rao et al., 2021)
   [[Paper]](https://aclanthology.org/2021.emnlp-main.269.pdf)
   [[Dataset]](https://github.com/fip-lab/STANKER)
