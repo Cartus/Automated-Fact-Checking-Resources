@@ -53,12 +53,14 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   **EMNLP 2021**
 * Towards Automated Factchecking: Developing an Annotation Schema and Benchmark for Consistent Automated Claim Detection (Konstantinovskiy et al., 2021)
   [[Paper]](https://arxiv.org/pdf/1809.08193.pdf)
+  **ACM Digital Threats: Research and Practice 2021**
 * The CLEF-2021 CheckThat! Lab on Detecting Check-Worthy Claims, Previously Fact-Checked Claims, and Fake News (Nakov et al., 2021)
   [[Paper]](https://link.springer.com/chapter/10.1007%2F978-3-030-72240-1_75)
   [[Dataset]](https://sites.google.com/view/clef2021-checkthat/tasks/task-1-check-worthiness-estimation)
 * Mining Dual Emotion for Fake News Detection (Zhang et al., 2021)
   [[Paper]](https://arxiv.org/pdf/1903.01728.pdf)
   [[Dataset]](https://drive.google.com/drive/folders/1pjK0BYiiJt0Ya2nRIrOLCVo-o53sYRBV)
+  **WWW 2021**
 * Overview of CheckThat! 2020: Automatic Identification and Verification of Claims in Social Media (Barrón-Cedeño et al., 2020)
   [[Paper]](https://link.springer.com/chapter/10.1007%2F978-3-030-58219-7_17)
   [[Dataset]](https://sites.google.com/view/clef2020-checkthat/datasets-tools)
@@ -77,24 +79,29 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 * Separating Facts from Fiction: Linguistic Models to Classify Suspicious and Trusted News Posts on Twitter (Volkova et al., 2017)
   [[Paper]](https://aclanthology.org/P17-2102.pdf)
   [[Dataset]](https://aclanthology.org/attachments/P17-2102.Datasets.zip)
+  **ACL 2017**
 * A Context-Aware Approach for Detecting Worth-Checking Claims in Political Debates (Gencheva et al., 2017)
   [[Paper]](https://www.acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP037.pdf)
   [[Dataset]](https://github.com/apepa/claim-rank)
+  **RANLP 2017**
 * SemEval-2017 Task 8: RumourEval: Determining rumour veracity and support for rumours (Derczynski et al., 2017).
   [[Paper]](https://www.aclweb.org/anthology/S17-2006.pdf)
   [[Dataset]](https://alt.qcri.org/semeval2017/task8/index.php?id=data-and-tools)
 * Detecting Rumors from Microblogs with Recurrent Neural Networks (Ma et al., 2016)
   [[Paper]](https://www.ijcai.org/Proceedings/16/Papers/537.pdf)
   [[Dataset]](https://www.dropbox.com/s/46r50ctrfa0ur1o/rumdect.zip?dl=0)
+  **IJCAI 2016**
 * Analysing How People Orient to and Spread Rumours in Social Media by Looking at Conversational Threads (Zubiaga et al., 2016).
   [[Paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150989)
   [[Dataset]](https://figshare.com/articles/PHEME_rumour_scheme_dataset_journalism_use_case/2068650)
+  **PLOS One 2016**
 * CREDBANK: A Large-Scale Social Media Corpus with Associated Credibility Annotations (Mitra and Gilbert, 2015).
   [[Paper]](http://eegilbert.org/papers/icwsm15.credbank.mitra.pdf)
   [[Dataset]](https://github.com/compsocial/CREDBANK-data)
+  **ICWSM 2015**
 * Detecting Check-worthy Factual Claims in Presidential Debates (Hassan et al., 2015)
   [[Paper]](https://idir.uta.edu/~naeemul/file/factchecking-cikm15-hassan-cameraready.pdf)
-
+  **CIKM 2015**
 
 
 ### Factual Verification Dataset
@@ -142,18 +149,19 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 * r/Fakeddit: A New Multimodal Benchmark Dataset for Fine-grained Fake News Detection (Nakamura et al., 2020).
   [[Paper]](https://www.aclweb.org/anthology/2020.lrec-1.755.pdf)
   [[Dataset]](https://github.com/entitize/fakeddit)
-* Fact-Checking Meets Fauxtography: Verifying Claims About Images (Zlatkova et al., 2019)
-  [[Paper]](https://aclanthology.org/D19-1216.pdf)
-  [[Dataset]](https://gitlab.com/didizlatkova/fake-image-detection)
+  **LREC 2020**
 * CLIMATE-FEVER: A Dataset for Verification of Real-World Climate Claims (Diggelmann et al., 2020)
   [[Paper]](https://arxiv.org/pdf/2012.00614.pdf)
   [[Dataset]](https://www.sustainablefinance.uzh.ch/en/research/climate-fever.html)
+  **Workshop @ NeurIPS 2020**
 * FakeCovid-- A Multilingual Cross-domain Fact Check News Dataset for COVID-19 (Shahi and Nandini, 2020). 
   [[Paper]](https://arxiv.org/pdf/2006.11343.pdf)
   [[Dataset]](https://gautamshahi.github.io/FakeCovid/)  
+  ** ICWSM 2020**
 * FakeNewsNet: A Data Repository with News Content, Social Context and Spatialtemporal Information for Studying Fake News on Social Media (Shu et al., 2020).
   [[Paper]](https://arxiv.org/pdf/1809.01286.pdf)
   [[Dataset]](https://github.com/KaiDMML/FakeNewsNet)
+  **Big Data 2020**
 * A Richly Annotated Corpus for Different Tasks in Automated Fact-Checking (Hanselowski et al., 2019).
   [[Paper]](https://www.aclweb.org/anthology/K19-1046.pdf)
   [[Code]](https://github.com/UKPLab/conll2019-snopes-crawling)
@@ -163,6 +171,10 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   [[Paper]](https://www.aclweb.org/anthology/D19-1475.pdf)
   [[Dataset]](https://competitions.codalab.org/competitions/21163)
   **EMNLP 2019**
+* Fact-Checking Meets Fauxtography: Verifying Claims About Images (Zlatkova et al., 2019)
+  [[Paper]](https://aclanthology.org/D19-1216.pdf)
+  [[Dataset]](https://gitlab.com/didizlatkova/fake-image-detection)
+  **EMNLP 2019**
 * FA-KES: A Fake News Dataset around the Syrian War (Salem et al., 2019)
   [[Paper]](https://ojs.aaai.org/index.php/ICWSM/article/view/3254/3122)
   [[Dataset]](https://github.com/fakenewssyria/fake_news_detection)
@@ -171,9 +183,6 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16780/16082)
   [[Dataset]](https://github.com/qcri/QLFactChecking)
   **AAAI 2018**
-* FakeNewsNet: A Data Repository with News Content, Social Context and Spatialtemporal Information for Studying Fake News on Social Media (Shu et al., 2018).
-  [[Paper]](https://arxiv.org/pdf/1809.01286.pdf)
-  [[Dataset]](https://github.com/KaiDMML/FakeNewsNet)
 * Overview of the CLEF-2018 CheckThat! Lab on Automatic Identification and Verification of Political Claims. Task 2: Factuality  (Barrón-Cedeño et al., 2018)
   [[Paper]](http://ceur-ws.org/Vol-2125/invited_paper_14.pdf)
   [[Dataset]](https://github.com/clef2018-factchecking/clef2018-factchecking/#subtasks)
@@ -193,6 +202,7 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 * Truth of Varying Shades: Analyzing Language in Fake News and Political Fact-Checking (Rashkin et al., 2017).
   [[Paper]](https://www.aclweb.org/anthology/D17-1317.pdf)
   [[Dataset]](https://hrashkin.github.io/factcheck.html)
+  **EMNLP 2017**
 * “Liar, Liar Pants on Fire”: A New Benchmark Dataset for Fake News Detection (Wang, 2017).
   [[Paper]](https://www.aclweb.org/anthology/P17-2067.pdf)
   [[Dataset]](https://sites.cs.ucsb.edu/~william/software.html)
@@ -203,9 +213,11 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 * Emergent: a novel data-set for stance classification (Ferreira and Vlachos, 2016)
   [[Paper]](https://aclanthology.org/N16-1138.pdf)
   [[Dataset]](https://github.com/willferreira/mscproject)
+  **NAACL 2016**
 * Identification and Verification of Simple Claims about Statistical Properties (Vlachos and Riedel, 2015)
   [[Paper]](https://aclanthology.org/D15-1312.pdf)
   [[Dataset]](https://github.com/uclnlp/simpleNumericalFactChecker)
+  **EMNLP 2015**
 * Fact Checking: Task definition and dataset construction (Vlachos and Riedel, 2014)
   [[Paper]](https://aclanthology.org/W14-2508.pdf)
   [[Dataset]](https://sites.google.com/site/andreasvlachos/resources)
@@ -219,7 +231,7 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   [[Paper]](https://arxiv.org/abs/2106.05707)
   [[Dataset]](https://fever.ai/resources.html)
   [[Code]](https://github.com/Raldir/FEVEROUS)
-  **NeurIPS 2021 Dataset and Benchmarks**
+  **NeurIPS 2021**
 * InfoSurgeon: Cross-Media Fine-grained Information Consistency Checking for Fake News Detection (Fung et al., 2021)
   [[Paper]](https://aclanthology.org/2021.acl-long.133.pdf)
   [[Dataset]](https://github.com/yrf1/InfoSurgeon)
@@ -233,6 +245,10 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 * ParsFEVER: a Dataset for Farsi Fact Extraction and Verification (Zarharan et al., 2021)
   [[Paper]](https://aclanthology.org/2021.starsem-1.9.pdf)
   [[Dataset]](https://github.com/Zarharan/ParsFEVER)
+* DanFEVER: claim verification dataset for Danish (Nørregaard and Derczynski, 2021)
+  [[Paper]](https://aclanthology.org/2021.nodalida-main.47.pdf)
+  [[Dataset]](https://figshare.com/articles/dataset/DanFEVER_claim_verification_dataset_for_Danish/14380970)]
+  **NoDaLiDa 2021**
 * HoVer: A Dataset for Many-Hop Fact Extraction And Claim Verification (Jiang et al., 2020)
   [[Paper]](https://aclanthology.org/2020.findings-emnlp.309.pdf)
   [[Dataset]](https://hover-nlp.github.io/)
@@ -245,9 +261,9 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   [[Paper]](https://openreview.net/pdf?id=rkeJRhNYDH)
   [[Dataset]](https://github.com/wenhuchen/Table-Fact-Checking)
   **ICLR 2020**
-* DanFEVER: claim verification dataset for Danish (Nørregaard and Derczynski, 2021)
-  [[Paper]](https://aclanthology.org/2021.nodalida-main.47.pdf)
-  [[Dataset]](https://figshare.com/articles/dataset/DanFEVER_claim_verification_dataset_for_Danish/14380970)]
+* Unsupervised Fact Checking by Counter-Weighted Positive and Negative Evidential Paths in A Knowledge Graph (Kim and Choi, 2020)
+  [[Paper]](https://aclanthology.org/2020.coling-main.147.pdf)
+  **COLING 2020**
 * Stance Prediction and Claim Verification: An Arabic Perspective (Khouja, 2020)
   [[Paper]](https://aclanthology.org/2020.fever-1.2.pdf)
   [[Dataset]](https://github.com/latynt/ans)
@@ -257,14 +273,12 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 * FEVER: a Large-scale Dataset for Fact Extraction and VERification (Thorne et al., 2018).
   [[Paper]](https://www.aclweb.org/anthology/N18-1074.pdf)
   [[Dataset]](https://fever.ai/resources.html)]
-  **NAACL 2020**
+  **NAACL 2018**
 * Automatic Detection of Fake News (Pérez-Rosas et al., 2018)
   [[Paper]](https://aclanthology.org/C18-1287.pdf)
   [[Dataset]](https://lit.eecs.umich.edu/downloads.html#undefined)]
 * The Lie Detector: Explorations in the Automatic Recognition of Deceptive Language (Mihalcea and Strapparava, 2009)
   [[Paper]](https://aclanthology.org/P09-2078.pdf)
-* Unsupervised Fact Checking by Counter-Weighted Positive and Negative Evidential Paths in A Knowledge Graph (Kim and Choi, 2020)
-  [[Paper]](https://aclanthology.org/2020.coling-main.147.pdf)
 * Finding Streams in Knowledge Graphs to Support Fact Checking (Shiralkar et al., 2017)
   [[Paper]](https://arxiv.org/pdf/1708.07239.pdf)
   [[Dataset]](https://github.com/shiralkarprashant/knowledgestream)
@@ -295,26 +309,35 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 * Rumor Detection on Twitter with Claim-Guided Hierarchical Graph Attention Networks (Lin et al., 2021)
   [[Paper]](https://aclanthology.org/2021.emnlp-main.786.pdf)
   [[Code]](https://github.com/RMSnow/WWW2021)
+  **EMNLP 2021**
 * STANKER: Stacking Network based on Level-grained Attention-masked BERT for Rumor Detection on Social Media (Rao et al., 2021)
   [[Paper]](https://aclanthology.org/2021.emnlp-main.269.pdf)
   [[Code]](https://github.com/fip-lab/STANKER)
+  **EMNLP 2021**
 * Inconsistency Matters: A Knowledge-guided Dual-inconsistency Network for Multi-modal Rumor Detection (Sun et al., 2021)
   [[Paper]](https://aclanthology.org/2021.findings-emnlp.122.pdf)
   [[Code]](https://github.com/MengzSun/dual-inconsistency-rumor-detection-network)
+  **Findings EMNLP 2021**
 * Active Learning for Rumor Identification on Social Media (Farinneya et al., 2021)
   [[Paper]](https://aclanthology.org/2021.findings-emnlp.387.pdf)
+  **Findings EMNLP 2021**
 * Mining Dual Emotion for Fake News Detection (Zhang et al., 2021).
   [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3442381.3450004)
   [[Code]](https://github.com/RMSnow/WWW2021)
+  **WWW 2021**
 * Claim Check-Worthiness Detection as Positive Unlabelled Learning (Wright and Augenstein, 2021)
   [[Paper]](https://aclanthology.org/2020.findings-emnlp.43.pdf)
   [[Code]](https://github.com/copenlu/check-worthiness-pu-learning)
+  **Findings EMNLP 2020**
 * Exploiting Microblog Conversation Structures to Detect Rumors (Li et al., 2020).
   [[Paper]](https://aclanthology.org/2020.coling-main.473.pdf)
+  **COLING 2020**
 * Debunking Rumors on Twitter with Tree Transformer (Ma et al., 2020)
   [[Paper]](https://aclanthology.org/2020.coling-main.476.pdf)
+  **COLING 2020**
 * Rumor Detection on Social Media with Graph Structured Adversarial Learning (Yang et al., 2020)
   [[Paper]](https://www.ijcai.org/proceedings/2020/0197.pdf)
+  **IJCAI 2020**
 * Interpretable Rumor Detection in Microblogs by Attending to User Interactions (Khoo et al., 2020)
   [[Paper]](https://arxiv.org/pdf/2001.10667.pdf)
   [[Code]](https://github.com/serenaklm/rumor_detection)
@@ -334,6 +357,7 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   [[Paper]](http://ceur-ws.org/Vol-2125/paper_143.pdf)
 * Simple Open Stance Classification for Rumour Analysis (Aker et al., 2017).
   [[Paper]](https://www.acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP005.pdf)
+  **RANLP 2017**
 * NileTMRG at SemEval-2017 Task 8: Determining Rumour and Veracity Support for Rumours on Twitter (Enayet and El-Beltagy, 2017).
   [[Paper]](https://aclanthology.org/S17-2082.pdf)
 * Turing at SemEval-2017 Task 8: Sequential Approach to Rumour Stance Classification with Branch-LSTM (Kochkina et al., 2017).
