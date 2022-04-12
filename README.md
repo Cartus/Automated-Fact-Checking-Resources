@@ -240,6 +240,18 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 
 #### Artifical Claims
+* Misinfo Reaction Frames: Reasoning about Readers’ Reactions to News Headlines (Gabriel et al., 2022)
+  [[Paper]](https://arxiv.org/pdf/2104.08790.pdf)
+  [[Dataset]](https://github.com/skgabriel/mrf-modeling)
+  **ACL 2022**
+* DialFact: A Benchmark for Fact-Checking in Dialogue (Gupta et al., 2022)
+  [[Paper]](https://arxiv.org/pdf/2110.08222.pdf)
+  [[Dataset]](https://github.com/salesforce/DialFact)
+  **ACL 2022**
+* FAVIQ: FAct Verification from Information-seeking Questions (Park et al., 2022)
+  [[Paper]](https://arxiv.org/abs/2106.05707)
+  [[Dataset]](https://faviq.github.io/)
+  **ACL 2022**
 * FEVEROUS: Fact Extraction and VERification Over Unstructured and Structured information (Aly et al., 2021)  
   [[Paper]](https://arxiv.org/abs/2106.05707)
   [[Dataset]](https://fever.ai/resources.html)
@@ -318,10 +330,12 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 ## Models
 
 ### Claim Detection
-
+* Zoom Out and Observe: News Environment Perception for Fake News Detection (Sheng et al., 2022)
+  [[Paper]](https://arxiv.org/pdf/2203.10885.pdf)
+  [[Code]](https://github.com/ICTMCG/News-Environment-Perception/)
+  **ACL 2021**
 * Rumor Detection on Twitter with Claim-Guided Hierarchical Graph Attention Networks (Lin et al., 2021)
   [[Paper]](https://aclanthology.org/2021.emnlp-main.786.pdf)
-  [[Code]](https://github.com/RMSnow/WWW2021)
   **EMNLP 2021**
 * STANKER: Stacking Network based on Level-grained Attention-masked BERT for Rumor Detection on Social Media (Rao et al., 2021)
   [[Paper]](https://aclanthology.org/2021.emnlp-main.269.pdf)
@@ -400,6 +414,14 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 ### Factual Verification
 
+* Generating Scientific Claims for Zero-Shot Scientific Fact Checking (Wright et al., 2022)
+  [[Paper]](https://arxiv.org/pdf/2203.10343.pdf)
+  [[Code]](https://github.com/allenai/scientific-claim-generation)
+  **ACL 2022**
+* Automatic Detection of Entity-Manipulated Text Using Factual Knowledge (Jawahar et al., 2022)
+  [[Paper]](https://arxiv.org/pdf/2203.12990.pdf)
+  [[Code]](https://github.com/UBC-NLP/manipulated_entity_detection)
+  **ACL 2022**
 * LOREN: Logic-Regularized Reasoning for Interpretable Fact Verification (Chen et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2012.13577.pdf)
   [[Code]](https://github.com/jiangjiechen/LOREN?ref=pythonrepo.com)
