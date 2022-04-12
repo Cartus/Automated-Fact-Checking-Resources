@@ -25,7 +25,7 @@ This repo contains relevant resources from our survey paper [A Survey on Automat
   - [Fake News Detection](#fake-news-detection)
   - [Claim Detection Related](#claim-detection-related)
   - [Stance Detection](#stance-detection)
-- [Related Tasks](#related-task)
+- [Related Tasks](#related-tasks)
   - [Misinformation and Disinformation](#misinformation-and-disinformation)
   - [Detecting Previous Claims](#detecting-previous-claims)
 - [Tutorials](#tutorials)
@@ -333,7 +333,10 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 * Zoom Out and Observe: News Environment Perception for Fake News Detection (Sheng et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2203.10885.pdf)
   [[Code]](https://github.com/ICTMCG/News-Environment-Perception/)
-  **ACL 2021**
+  **ACL 2022**
+* DDGCN: Dual Dynamic Graph Convolutional Networks for Rumor Detection on Social Media (Sun et al., 2022)
+  [[Paper]](https://www.aaai.org/AAAI22Papers/AAAI-6370.SunM.pdf)
+  **AAAI 2022**
 * Rumor Detection on Twitter with Claim-Guided Hierarchical Graph Attention Networks (Lin et al., 2021)
   [[Paper]](https://aclanthology.org/2021.emnlp-main.786.pdf)
   **EMNLP 2021**
@@ -426,8 +429,12 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   [[Paper]](https://arxiv.org/pdf/2012.13577.pdf)
   [[Code]](https://github.com/jiangjiechen/LOREN?ref=pythonrepo.com)
   **AAAI 2022**
-* Towards Fine-Grained Reasoning for Fake News Detection (Jin et al., 2021)
+* Towards Fine-Grained Reasoning for Fake News Detection (Jin et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2110.15064.pdf)
+  **AAAI 2022**
+* Synthetic Disinformation Attacks on Automated Fact Verification Systems (Du et al., 2021)
+  [[Paper]](https://www.aaai.org/AAAI22Papers/AAAI-11986.DuY.pdf)
+  [[Code]](https://github.com/Yibing-Du/adversarial-factcheck)
   **AAAI 2022**
 * ProoFVer: Natural Logic Theorem Proving for Fact Verification (Krishna et al., 2021)
   [[Paper]](https://arxiv.org/pdf/2108.11357.pdf)
