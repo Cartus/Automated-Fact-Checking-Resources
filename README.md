@@ -239,7 +239,7 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   [[Paper]](https://aclanthology.org/C08-1006.pdf)
 
 
-#### Artifical Claims
+#### Artificial Claims
 * Misinfo Reaction Frames: Reasoning about Readers’ Reactions to News Headlines (Gabriel et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2104.08790.pdf)
   [[Dataset]](https://github.com/skgabriel/mrf-modeling)
