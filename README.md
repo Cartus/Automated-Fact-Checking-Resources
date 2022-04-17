@@ -117,6 +117,10 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   [[Paper]](https://arxiv.org/pdf/2106.03794.pdf)
   [[Dataset]](https://github.com/asaakyan/covidfact)
   **ACL 2021**
+* InfoSurgeon: Cross-Media Fine-grained Information Consistency Checking for Fake News Detection (Fung et al., 2021)
+  [[Paper]](https://aclanthology.org/2021.acl-long.133/)
+  [[Dataset]](https://github.com/yrf1/InfoSurgeon)
+  **ACL 2021**
 * Edited Media Understanding Frames: Reasoning About the Intents and Implications of Visual Disinformation (Da et al., 2021)
   [[Paper]](https://aclanthology.org/2021.acl-long.158.pdf)
   [[Code]](https://jeffda.com/edited-media-understanding)
@@ -136,6 +140,10 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 * Meet The Truth: Leverage Objective Facts and Subjective Views for Interpretable Rumor Detection (Li et al., 2021)
   [[Paper]](https://aclanthology.org/2021.findings-acl.63.pdf)
   **Findings ACL 2021**
+* Detecting Cross-Modal Inconsistency to Defend Against Neural Fake News (Tan et al., 2020)
+  [[Paper]](https://arxiv.org/pdf/2009.07698.pdf)
+  [[Dataset]](https://github.com/rxtan2/DIDAN)
+  **EMNLP 2020**
 * Explainable Automated Fact-Checking for Public Health Claims (Kotonya and Toni, 2020b)
   [[Paper]](https://aclanthology.org/2020.emnlp-main.623.pdf)
   [[Dataset]](https://github.com/neemakot/Health-Fact-Checking)
@@ -167,7 +175,7 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 * FakeCovid-- A Multilingual Cross-domain Fact Check News Dataset for COVID-19 (Shahi and Nandini, 2020). 
   [[Paper]](https://arxiv.org/pdf/2006.11343.pdf)
   [[Dataset]](https://gautamshahi.github.io/FakeCovid/)  
-  ** ICWSM 2020**
+  **ICWSM 2020**
 * FakeNewsNet: A Data Repository with News Content, Social Context and Spatialtemporal Information for Studying Fake News on Social Media (Shu et al., 2020).
   [[Paper]](https://arxiv.org/pdf/1809.01286.pdf)
   [[Dataset]](https://github.com/KaiDMML/FakeNewsNet)
@@ -193,6 +201,10 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16780/16082)
   [[Dataset]](https://github.com/qcri/QLFactChecking)
   **AAAI 2018**
+* EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection
+  [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3219819.3219903)
+  [[Dataset]](https://github.com/yaqingwang/EANN-KDD18)
+  **KDD 2018**
 * Overview of the CLEF-2018 CheckThat! Lab on Automatic Identification and Verification of Political Claims. Task 2: Factuality  (Barrón-Cedeño et al., 2018)
   [[Paper]](http://ceur-ws.org/Vol-2125/invited_paper_14.pdf)
   [[Dataset]](https://github.com/clef2018-factchecking/clef2018-factchecking/#subtasks)
