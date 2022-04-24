@@ -109,6 +109,12 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 ### Factual Verification Dataset
 #### Natural Claims
+* Open-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online Resources (Abdelnabi et al., 2022)
+  [[Paper]](https://arxiv.org/pdf/2112.00061.pdf)
+  [[Dataset]](https://s-abdelnabi.github.io/OoC-multi-modal-fc/)
+* NewsCLIPpings: Automatic Generation of Out-of-Context Multimodal Media (Luo et al., 2022)
+  [[Paper]](https://arxiv.org/pdf/2104.05893.pdf)
+  [[Dataset]](https://github.com/g-luo/news_clippings)
 * Evidence-based Fact-Checking of Health-related Claims (Sarrouti et al., 2021)
   [[Paper]](https://aclanthology.org/2021.findings-emnlp.297.pdf)
   [[Dataset]](https://github.com/sarrouti/healthver)
