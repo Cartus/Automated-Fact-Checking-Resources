@@ -109,6 +109,7 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 ### Factual Verification Dataset
 #### Natural Claims
+* WatClaimCheck: A new Dataset for Claim Entailment and Inference (Khan et al., 2022) [[Paper]](https://aclanthology.org/2022.acl-long.92.pdf) [[Dataset]](https://github.com/nxii/WatClaimCheck) **ACL 2022**
 * Open-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online Resources (Abdelnabi et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2112.00061.pdf)
   [[Dataset]](https://s-abdelnabi.github.io/OoC-multi-modal-fc/)
