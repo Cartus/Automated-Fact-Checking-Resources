@@ -710,10 +710,9 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 [[Paper]](https://dl.acm.org/doi/10.1145/3369026)
 
 
-
 ## Tutorials
 * Fact-Checking, Fake News, Propaganda, and Media Bias: Truth Seeking in the Post-Truth Era [[Nakov and Da San Martino, EMNLP 2020]](https://propaganda.qcri.org/emnlp20-tutorial/).
-* Detection and Resolution of Rumors and Misinformation with NLP [[Derczynski and Zubiaga, COLING 2020]](https://www.aclweb.org/anthology/2020.coling-tutorials.4.pdf)] [[slides](https://docs.google.com/presentation/d/1ZBVPtHcVgJW2c_ibrdVuoCH7sU9ha8NS7Fq9GCnBnls/edit?usp=sharing).
+* Detection and Resolution of Rumors and Misinformation with NLP [[Derczynski and Zubiaga, COLING 2020]](https://www.aclweb.org/anthology/2020.coling-tutorials.4.pdf) [[slides]](https://docs.google.com/presentation/d/1ZBVPtHcVgJW2c_ibrdVuoCH7sU9ha8NS7Fq9GCnBnls/edit?usp=sharing).
 * Fact Checking: Theory and Practice [[Dong et al., KDD 2018]](https://shiralkarprashant.github.io/fact-checking-tutorial-KDD2018/).
 
 
