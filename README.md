@@ -43,6 +43,9 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 ## Datasets
 ### Claim Detection Dataset
+* MuMiN: A Large-Scale Multilingual Multimodal Fact-Checked Misinformation Social Network Dataset (Nielsen et al., 2022)
+  [[Paper]](https://arxiv.org/pdf/2202.11684.pdf)
+  [[Dataset]](https://mumin-dataset.github.io/gettingstarted/)
 * STANKER: Stacking Network based on Level-grained Attention-masked BERT for Rumor Detection on Social Media (Rao et al., 2021)
   [[Paper]](https://aclanthology.org/2021.emnlp-main.269.pdf)
   [[Dataset]](https://github.com/fip-lab/STANKER)
