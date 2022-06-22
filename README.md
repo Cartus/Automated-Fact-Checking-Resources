@@ -338,7 +338,7 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 
 ## Shared Tasks
-* The Fact Extraction and VERification (FEVER) Shared Task [[4th FEVER Workshop](https://fever.ai/)] The shared task is ongoing!
+* The Fact Extraction and VERification (FEVER) Shared Task [[5th FEVER Workshop](https://fever.ai/)]
 * Statement Verification and Evidence Finding with Tables (SEM-TAB-FACT) [[Wang et al., 2021](https://competitions.codalab.org/competitions/27748)] 
 * SciFact Claim Verifiation [[Wadden et al., 2020](https://sdproc.org/2021/sharedtasks.html#sciver)]
 * Fakeddit Multimodal Fake News Detection Challenge [[Nakamura et al., 2020](https://competitions.codalab.org/competitions/25337#learn_the_details)]
@@ -440,7 +440,9 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 
 ### Factual Verification
-
+* ProoFVer: Natural Logic Theorem Proving for Fact Verification (Krishna et al., 2021)
+  [[Paper]](https://arxiv.org/pdf/2108.11357.pdf)
+  **TACL 2022**
 * Generating Scientific Claims for Zero-Shot Scientific Fact Checking (Wright et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2203.10343.pdf)
   [[Code]](https://github.com/allenai/scientific-claim-generation)
@@ -460,8 +462,6 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   [[Paper]](https://www.aaai.org/AAAI22Papers/AAAI-11986.DuY.pdf)
   [[Code]](https://github.com/Yibing-Du/adversarial-factcheck)
   **AAAI 2022**
-* ProoFVer: Natural Logic Theorem Proving for Fact Verification (Krishna et al., 2021)
-  [[Paper]](https://arxiv.org/pdf/2108.11357.pdf)
 * Editing Factual Knowledge in Language Models (De Cao et al., 2021)
   [[Paper]](https://arxiv.org/pdf/2104.08164.pdf)
   [[Code]](https://github.com/nicola-decao/KnowledgeEditor)
