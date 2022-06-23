@@ -414,15 +414,23 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 * Rumor Detection on Social Media with Bi-Directional Graph Convolutional Networks (Bian et al., 2020)
   [[Paper]](https://arxiv.org/pdf/2001.06362.pdf)
   [[Code]](https://github.com/TianBian95/BiGCN)
+  **AAAI 2020**
 * Fake News Early Detection: A Theory-driven Model (Zhou et al., 2020).
   [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3377478)
+  **AAAI 2020**
+* MVAE: Multimodal Variational Autoencoder for Fake News Detection (Khattar et al., 2019).
+  [[Paper]](https://dl.acm.org/doi/10.1145/3308558.3313552)
+  [[Code]](https://github.com/dhruvkhattar/MVAE)
+  **WWW 2019**
 * Fake News Detection on Social Media using Geometric Deep Learning (Monti et al., 2019).
   [[Paper]](https://arxiv.org/pdf/1902.06673.pdf)
 * Rumor Detection on Twitter with Tree-structured Recursive Neural Networks (Ma et al., 2018).
   [[Paper]](https://aclanthology.org/P18-1184.pdf)
   [[Code]](https://github.com/majingCUHK/Rumor_RvNN)
+  **ACL 2018**
 * Rumor Detection with Hierarchical Social Attention Network (Guo et al., 2018).
   [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3269206.3271709)
+  **CIKM 2018**
 * A Hybrid Recognition System for Check-worthy Claims Using Heuristics and Supervised Learning (Zuo et al., 2018).
   [[Paper]](http://ceur-ws.org/Vol-2125/paper_143.pdf)
 * Simple Open Stance Classification for Rumour Analysis (Aker et al., 2017).
@@ -437,6 +445,7 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 * Detecting Rumors from Microblogs with Recurrent Neural Networks (Ma et al., 2016).
   [[Paper]](https://www.ijcai.org/Proceedings/16/Papers/537.pdf)
   [[Dataset]](https://www.dropbox.com/s/46r50ctrfa0ur1o/rumdect.zip?dl=0)
+  **IJCAI 2016**
 
 
 ### Factual Verification
