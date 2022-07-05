@@ -469,7 +469,7 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   [[Code]](https://github.com/dwadden/multivers)
   **Findings NAACL 2022**
 * Generating Scientific Claims for Zero-Shot Scientific Fact Checking (Wright et al., 2022)
-  [[Paper]](https://arxiv.org/pdf/2203.10343.pdf)
+  [[Paper]](https://arxiv.org/pdf/2203.12990.pdf)
   [[Code]](https://github.com/allenai/scientific-claim-generation)
   **ACL 2022**
 * Automatic Detection of Entity-Manipulated Text Using Factual Knowledge (Jawahar et al., 2022)
