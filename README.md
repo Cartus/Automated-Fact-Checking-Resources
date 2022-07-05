@@ -461,9 +461,13 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 
 ### Factual Verification
-* ProoFVer: Natural Logic Theorem Proving for Fact Verification (Krishna et al., 2021)
+* ProoFVer: Natural Logic Theorem Proving for Fact Verification (Krishna et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2108.11357.pdf)
   **TACL 2022**
+* MultiVerS: Improving scientific claim verification with weak supervision and full-document context (Wadden et al., 2022)
+  [[Paper]](https://arxiv.org/pdf/2112.01640.pdf)
+  [[Code]](https://github.com/dwadden/multivers)
+  **Findings NAACL 2022**
 * Generating Scientific Claims for Zero-Shot Scientific Fact Checking (Wright et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2203.10343.pdf)
   [[Code]](https://github.com/allenai/scientific-claim-generation)
