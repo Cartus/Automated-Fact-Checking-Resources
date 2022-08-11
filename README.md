@@ -180,10 +180,6 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   [[Paper]](https://aclanthology.org/2020.emnlp-main.188.pdf)
   [[Dataset]](https://drive.google.com/file/d/1JAmbLlV0b8Fm03VnNeVEXmROvj1po2lN/view)
   **EMNLP 2020**
-* Fact or Fiction: Verifying Scientific Claims (Wadden et al., 2020).
-  [[Paper]](https://www.aclweb.org/anthology/2020.emnlp-main.609.pdf)
-  [[Dataset]](https://github.com/allenai/scifact)
-  **EMNLP 2020**
 * Explainable Automated Fact-Checking for Public Health Claims (Kotonya and Toni, 2020). 
   [[Paper]](https://arxiv.org/abs/2010.09926)
   [[Dataset]](https://github.com/neemakot/Health-Fact-Checking)
