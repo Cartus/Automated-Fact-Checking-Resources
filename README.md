@@ -43,6 +43,14 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 ## Datasets
 ### Claim Detection Dataset
+* Empowering the Fact-checkers! Automatic Identification of Claim Spans on Twitter (Sundriyal et al., 2022)
+  [[Paper]](https://arxiv.org/pdf/2210.04710.pdf)
+  [[Dataset]](https://github.com/LCS2-IIITD/DABERTA-EMNLP-2022)
+  **EMNLP 2022**
+* Stanceosaurus: Classifying Stance Towards Multilingual Misinformation (Zheng et al., 2022)
+  [[Paper]](https://arxiv.org/pdf/2210.15954.pdf)
+  [[Dataset]](https://github.com/JonathanQZheng/Stanceosaurus/)
+  **EMNLP 2022**
 * CoVERT: A Corpus of Fact-checked Biomedical COVID-19 Tweets (Mohr et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2204.12164.pdf)
   [[Dataset]](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/bioclaim/)
@@ -117,6 +125,15 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 ### Factual Verification Dataset
 #### Natural Claims
+* Modeling Information Change in Science Communication with Semantically Matched Paraphrases (Wright et al., 2022)
+  [[Paper]](https://arxiv.org/pdf/2210.13001.pdf) 
+  [[Dataset]](https://huggingface.co/datasets/copenlu/spiced) 
+  [[Code]](https://github.com/copenlu/scientific-information-change) 
+  **EMNLP 2022**
+* Generating Literal and Implied Subquestions to Fact-check Complex Claims (Chen et al., 2022)
+  [[Paper]](https://arxiv.org/pdf/2205.06938.pdf) 
+  [[Dataset]](https://jifan-chen.github.io/ClaimDecomp/) 
+  **EMNLP 2022**
 * CHEF: A Pilot Chinese Dataset for Evidence-Based Fact-Checking (Hu et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2206.11863.pdf) 
   [[Dataset]](https://github.com/THU-BPM/CHEF) 
@@ -457,6 +474,9 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 
 ### Factual Verification
+* Varifocal Question Generation for Fact-checking (Ousidhoum et al., 2022)
+  [[Paper]](Varifocal Question Generation for Fact-checking)
+  **EMNLP 2022**
 * ProoFVer: Natural Logic Theorem Proving for Fact Verification (Krishna et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2108.11357.pdf)
   **TACL 2022**
