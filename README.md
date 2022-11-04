@@ -51,6 +51,9 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   [[Paper]](https://arxiv.org/pdf/2210.15954.pdf)
   [[Dataset]](https://github.com/JonathanQZheng/Stanceosaurus/)
   **EMNLP 2022**
+* Challenges and Opportunities in Information Manipulation Detection: An Examination of Wartime Russian Media  (Park et al., 2022)
+  [[Paper]](https://arxiv.org/pdf/2205.12382.pdf)
+  **Findings EMNLP 2022**
 * CoVERT: A Corpus of Fact-checked Biomedical COVID-19 Tweets (Mohr et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2204.12164.pdf)
   [[Dataset]](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/bioclaim/)
@@ -645,13 +648,17 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   [[Paper]](https://arxiv.org/abs/2010.09926)]
   [[Code]](https://github.com/neemakot/Health-Fact-Checking)
   [[Dataset]](https://github.com/neemakot/Health-Fact-Checking)
+  **EMNLP 2020**
 * Generating Fact Checking Explanations (Atanasova et al., 2020).
   [[Paper]](https://www.aclweb.org/anthology/2020.acl-main.656.pdf)
+  **ACL 2020**
 * GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media (Lu and Li, 2020).
   [[Paper]](https://aclanthology.org/2020.acl-main.48.pdf)
   [[Code]](https://github.com/l852888/GCAN)
+  **ACL 2020**
 * DTCA: Decision Tree-based Co-Attention Networks for Explainable Claim Verification (Wu et al., 2020).
   [[Paper]](https://aclanthology.org/2020.acl-main.97.pdf)
+  **ACL 2020**
 * ExFaKT: A Framework for Explaining Facts over Knowledge Graphs and Text (Gad-Elrab et al., 2019)
   [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3289600.3290996)
   [[Code]](https://www.mpi-inf.mpg.de/impact/exfakt)
@@ -686,20 +693,26 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 ### Detecting Previous Claims
 
+* Assisting the Human Fact-Checkers: Detecting All Previously Fact-Checked Claims in a Document (Shaar et al., 2022)
+  [[Paper]](https://arxiv.org/pdf/2109.07410.pdf)
+  **Findings EMNLP 2022**
 * Article Reranking by Memory-Enhanced Key Sentence Matching for Detecting Previously Fact-Checked Claims (Sheng et al. 2021)
-[[Paper]](https://aclanthology.org/2021.acl-long.425.pdf)
-[[Code]](https://github.com/ICTMCG/MTM)
+  [[Paper]](https://aclanthology.org/2021.acl-long.425.pdf)
+  [[Code]](https://github.com/ICTMCG/MTM)
+  **ACL 2021**
 * Claim Matching Beyond English to Scale Global Fact-Checking (Kazemiet al. 2021)
-[[Paper]](https://aclanthology.org/2021.acl-long.347.pdf)
+  [[Paper]](https://aclanthology.org/2021.acl-long.347.pdf)
+  **ACL 2021
 * The CLEF-2021 CheckThat! Lab on Detecting Check-Worthy Claims, Previously Fact-Checked Claims, and Fake News (Nakov et al., 2021)
-[[Paper]](https://link.springer.com/chapter/10.1007%2F978-3-030-72240-1_75)]
+  [[Paper]](https://link.springer.com/chapter/10.1007%2F978-3-030-72240-1_75)]
 * That is a Known Lie: Detecting Previously Fact-Checked Claims (Shaar et al., 2020)
-[[Paper]](https://aclanthology.org/2020.acl-main.332.pdf)
-[[Dataset]](https://github.com/sshaar/That-is-a-Known-Lie)
+  [[Paper]](https://aclanthology.org/2020.acl-main.332.pdf)
+  [[Dataset]](https://github.com/sshaar/That-is-a-Known-Lie)
+  **ACL 2020**
 * COVIDLies: Detecting COVID-19 Misinformation on Social Media (Hossain et al., 2020)
-[[Paper]](https://aclanthology.org/2020.nlpcovid19-2.11.pdf)
+  [[Paper]](https://aclanthology.org/2020.nlpcovid19-2.11.pdf)
 * Overview of CheckThat! 2020: Automatic Identification and Verification of Claims in Social Media (Barrón-Cedeño et al., 2020)
-[[Paper]](https://link.springer.com/chapter/10.1007%2F978-3-030-58219-7_17)
+  [[Paper]](https://link.springer.com/chapter/10.1007%2F978-3-030-58219-7_17)
 
 ## Relevant Surveys
 
