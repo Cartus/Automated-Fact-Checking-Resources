@@ -43,6 +43,10 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 ## Datasets
 ### Claim Detection Dataset
+* SciTweets - A Dataset and Annotation Framework for Detecting Scientific Online Discourse (Hafid et al., 2022)
+  [[Paper]](https://arxiv.org/pdf/2206.07360.pdf)
+  [[Dataset]](https://github.com/AI-4-Sci/SciTweets)
+    **CIKM 2022**
 * Empowering the Fact-checkers! Automatic Identification of Claim Spans on Twitter (Sundriyal et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2210.04710.pdf)
   [[Dataset]](https://github.com/LCS2-IIITD/DABERTA-EMNLP-2022)
@@ -382,6 +386,10 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 ## Models
 
 ### Claim Detection
+* SciTweets - A Dataset and Annotation Framework for Detecting Scientific Online Discourse (Hafid et al., 2022)
+  [[Paper]](https://arxiv.org/pdf/2206.07360.pdf)
+  [[Code]](https://github.com/AI-4-Sci/SciTweets)
+    **CIKM 2022**
 * Zoom Out and Observe: News Environment Perception for Fake News Detection (Sheng et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2203.10885.pdf)
   [[Code]](https://github.com/ICTMCG/News-Environment-Perception/)
