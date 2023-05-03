@@ -43,6 +43,12 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 ## Datasets
 ### Claim Detection Dataset
+* FakeSV: A Multimodal Benchmark with Rich Social Context for Fake News Detection on Short Video Platforms (Qi et al., 2023)
+  [[Paper]](https://arxiv.org/pdf/2211.10973.pdf)
+  [[Dataset]](https://github.com/ictmcg/fakesv)
+    **AAAI 2023**
+
+
 * SciTweets - A Dataset and Annotation Framework for Detecting Scientific Online Discourse (Hafid et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2206.07360.pdf)
   [[Dataset]](https://github.com/AI-4-Sci/SciTweets)
@@ -296,6 +302,11 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 
 #### Artificial Claims
+* COSMOS: Catching Out-of-Context Misinformation with Self-Supervised Learning (Aneja et al., 2023)
+  [[Paper]](https://arxiv.org/pdf/2101.06278.pdf)
+  [[Code]](https://shivangi-aneja.github.io/projects/cosmos/)
+  [[Dataset]](https://docs.google.com/forms/d/13kJQ2wlv7sxyXoaM1Ddon6Nq7dUJY_oftl-6xzwTGow/viewform?edit_requested=true)
+  **AAAI 2023**
 * Misinfo Reaction Frames: Reasoning about Readers’ Reactions to News Headlines (Gabriel et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2104.08790.pdf)
   [[Dataset]](https://github.com/skgabriel/mrf-modeling)
@@ -386,10 +397,12 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 ## Models
 
 ### Claim Detection
-* SciTweets - A Dataset and Annotation Framework for Detecting Scientific Online Discourse (Hafid et al., 2022)
-  [[Paper]](https://arxiv.org/pdf/2206.07360.pdf)
-  [[Code]](https://github.com/AI-4-Sci/SciTweets)
-    **CIKM 2022**
+* Zero-Shot Rumor Detection with Propagation Structure via Prompt Learning (Lin et al., 2023)
+  [[Paper]](https://arxiv.org/pdf/2212.01117.pdf)
+  **AAAI 2023**
+* Unsupervised Cross-Domain Rumor Detection with Contrastive Learning and Cross-Attention (Ran et al., 2023)
+ [[Paper]](https://arxiv.org/pdf/2303.11945.pdf)
+  **AAAI 2023**
 * Zoom Out and Observe: News Environment Perception for Fake News Detection (Sheng et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2203.10885.pdf)
   [[Code]](https://github.com/ICTMCG/News-Environment-Perception/)
@@ -485,8 +498,11 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 
 ### Factual Verification
+* Bootstrapping Multi-view Representations for Fake News Detection (Ying et al., 2023)
+  [[Paper]](https://arxiv.org/pdf/2206.05741.pdf)
+  **AAAI 2023**
 * Varifocal Question Generation for Fact-checking (Ousidhoum et al., 2022)
-  [[Paper]](Varifocal Question Generation for Fact-checking)
+  [[Paper]](https://arxiv.org/pdf/2210.12400.pdf)
   **EMNLP 2022**
 * ProoFVer: Natural Logic Theorem Proving for Fact Verification (Krishna et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2108.11357.pdf)
@@ -651,7 +667,13 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 
 ### Justification Production
-
+* “Why is this misleading?”: Detecting News Headline Hallucinations with Explanations (Shen et al., 2023)
+  [[Paper]](  [[Paper]](https://arxiv.org/pdf/2212.01060.pdf)]
+  **AAAI 2023**)]
+  **WWW 2023**
+* Exploring Faithful Rationale for Multi-hop Fact Verification via Salience-Aware Graph Learning (Si et al., 2023)
+  [[Paper]](https://arxiv.org/pdf/2212.01060.pdf)]
+  **AAAI 2023**
 * Explainable Automated Fact-Checking for Public Health Claims (Kotonya and Toni, 2020). 
   [[Paper]](https://arxiv.org/abs/2010.09926)]
   [[Code]](https://github.com/neemakot/Health-Fact-Checking)
@@ -688,15 +710,22 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 ## Related Tasks
 
 ### Misinformation and Disinformation
-
+* Reinforcement Learning-based Counter-Misinformation Response Generation: A Case Study of COVID-19 Vaccine Misinformation (He et al., 2023)
+  [[Paper]](https://arxiv.org/pdf/2303.06433.pdf)
+  [[Dataset]](https://github.com/claws-lab/MisinfoCorrect)
+  [[Code]](https://github.com/claws-lab/MisinfoCorrect)
+  **WWW 2023**
+* Who Funds Misinformation? A Systematic Analysis of the Ad-related Profit Routines of Fake News sites (Papadogiannakis et al., 2023)
+  [[Paper]](https://arxiv.org/pdf/2202.05079.pdf)
+  **WWW 2023**
 * A Survey on Multimodal Disinformation Detection (Alam et al., 2021) 
-[[Paper]](https://arxiv.org/pdf/2103.12541.pdf)
+  [[Paper]](https://arxiv.org/pdf/2103.12541.pdf)
 * Misinformation, Disinformation, and Online Propaganda (Guess and Lyons, 2020)
-[[Paper]](https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-disinformation-and-online-propaganda/D14406A631AA181839ED896916598500/core-reader)
+  [[Paper]](https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-disinformation-and-online-propaganda/D14406A631AA181839ED896916598500/core-reader)
 * A Survey on Computational Propaganda Detection (Da San Martino et al. 2020). 
-[[Paper]](https://www.ijcai.org/proceedings/2020/0672.pdf)
+  [[Paper]](https://www.ijcai.org/proceedings/2020/0672.pdf)
 * Social Media, Political Polarization, and Political Disinformation: A Review of the Scientific Literature (Tucker et al., 2018)
-[[Paper]](https://www.hewlett.org/wp-content/uploads/2018/03/Social-Media-Political-Polarization-and-Political-Disinformation-Literature-Review.pdf)
+  [[Paper]](https://www.hewlett.org/wp-content/uploads/2018/03/Social-Media-Political-Polarization-and-Political-Disinformation-Literature-Review.pdf)
 
 
 ### Detecting Previous Claims
@@ -721,6 +750,9 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
   [[Paper]](https://aclanthology.org/2020.nlpcovid19-2.11.pdf)
 * Overview of CheckThat! 2020: Automatic Identification and Verification of Claims in Social Media (Barrón-Cedeño et al., 2020)
   [[Paper]](https://link.springer.com/chapter/10.1007%2F978-3-030-58219-7_17)
+ 
+
+
 
 ## Relevant Surveys
 
