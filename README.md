@@ -7,7 +7,7 @@
 
 ## Overview
 
-This repo contains relevant resources from our survey paper [A Survey on Automated Fact-Checking](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00454/109469/A-Survey-on-Automated-Fact-Checking) in TACL 2022 and the follow up multimodal survey paper [Multimodal Automated Fact-Checking: A Survey](https://arxiv.org/pdf/2305.13507.pdf). In this survey, we present a comprehensive and up-to-date survey of automated fact-checking, unifying various components and definitions developed in previous research into a common framework.  As automated fact-checking research is evolving, we will provided timely update on the survey and this repo.
+This repo contains relevant resources from our survey paper [A Survey on Automated Fact-Checking](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00454/109469/A-Survey-on-Automated-Fact-Checking) in TACL 2022 and the follow up multimodal survey paper [Multimodal Automated Fact-Checking: A Survey](https://arxiv.org/pdf/2305.13507.pdf). In this survey, we present a comprehensive and up-to-date survey of automated fact-checking (AFC), unifying various components and definitions developed in previous research into a common framework.  As automated fact-checking research is evolving, we will provided timely update on the survey and this repo.
 
 - [Task Definition](#task-definition)
 - [Datasets](#datasets)
@@ -32,7 +32,7 @@ This repo contains relevant resources from our survey paper [A Survey on Automat
 
 
 ## Task Definition
-Figure below shows a NLP framework for automated fact-checking consisting of three stages:  
+Figure below shows a NLP framework for automated fact-checking (AFC) with text consisting of three stages:  
 1. Claim detection to identify claims that require verification; 
 2. Evidence retrievalto find sources supporting or refuting the claim; 
 3. Claim verification to assess the veracity of the claim based on the retrieved evidence. 
@@ -40,6 +40,17 @@ Figure below shows a NLP framework for automated fact-checking consisting of thr
 ![Framework](Figures/framework.png)
 
 Evidence retrieval and claim verification are sometimes tackled as a single task referred to asfactual verification, while claim detection is often tackled separately. Claim verificationcan be decomposed into two parts that can be tackled separately or jointly: verdict prediction, where claims are assigned truthfulness labels, and justification production, where explanations for verdicts must be produced.
+
+
+In the follow up multimodal survey, we extends the first stage with a claim extraction step, and generalises the third stage to cover tasks that fall under multimodal AFC:
+1. Claim Detection and Extraction: multiple modalities can be required to understand and extract a claim at this stage. Simply detecting misleading content is often not enough – it is necessary to extract the claim before fact-checking it in the subsequent stages.
+2. Evidence Retrieval: similarly to fact-checking with text, multimodal fact-checking relies on evidence to make judgments.
+3. Verdict Prediction and Justification Production: it is decomposed into three tasks considering prevalent ways that multimodal misinformation can be conveyed:
+    - Manipulation Classification: classify misinformative claims with manipulated content or correct claims accompanied by manipulated content.
+    - Out-of-context Classification: detect unchanged content from a different context.
+    - Veracity Classification: classify the veracity of textual claims given retrieved evidence.
+
+![Framework](Figures/multimodal.png)
 
 ## Datasets
 ### Claim Detection Dataset
