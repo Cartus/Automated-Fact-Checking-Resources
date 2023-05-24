@@ -43,14 +43,15 @@ Evidence retrieval and claim verification are sometimes tackled as a single task
 
 
 In the follow up multimodal survey, we extends the first stage with a claim extraction step, and generalises the third stage to cover tasks that fall under multimodal AFC:
+
+![Framework](Figures/multimodal.png)
+
 1. Claim Detection and Extraction: multiple modalities can be required to understand and extract a claim at this stage. Simply detecting misleading content is often not enough – it is necessary to extract the claim before fact-checking it in the subsequent stages.
 2. Evidence Retrieval: similarly to fact-checking with text, multimodal fact-checking relies on evidence to make judgments.
 3. Verdict Prediction and Justification Production: it is decomposed into three tasks considering prevalent ways that multimodal misinformation can be conveyed:
     - Manipulation Classification: classify misinformative claims with manipulated content or correct claims accompanied by manipulated content.
     - Out-of-context Classification: detect unchanged content from a different context.
     - Veracity Classification: classify the veracity of textual claims given retrieved evidence.
-
-![Framework](Figures/multimodal.png)
 
 ## Datasets
 ### Claim Detection Dataset
