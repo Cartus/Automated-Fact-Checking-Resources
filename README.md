@@ -11,7 +11,7 @@ This repo contains relevant resources from our survey paper [A Survey on Automat
 
 - [Task Definition](#task-definition)
 - [Datasets](#datasets)
-  - [Claim Detection](#claim-detection-dataset)
+  - [Claim Detection and Extraction](#claim-detection-dataset)
   - [Verdict Prediction](#verdict-prediction-dataset)
     - [Veracity Classification](#veracity-classification-dataset)
       - [Natural Claims](#natural-claims)
@@ -20,8 +20,11 @@ This repo contains relevant resources from our survey paper [A Survey on Automat
     - [Manipulation Classification](#manipulation-classification-dataset)
 - [Shared Tasks](#shared-tasks)
 - [Models](#model)
-  - [Claim Detection](#claim-detection)
-  - [Factual Verification](#factual-verification)
+  - [Claim Detection and Extraction](#claim-detection)
+  - [Verdict Prediction](#verdict-prediction)
+    - [Veracity Classification](#veracity-classification)
+    - [Out-of-context Classification](#out-of-context-classification)
+    - [Manipulation Classification](#manipulation-classification)
   - [Justification Production](#justification-production)
 - [Relevant Surveys](#relevant-surveys)
   - [Automated Fact-Checking](#automated-fact-checking)
@@ -517,7 +520,8 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   **IJCAI 2016**
 
 
-### Factual Verification
+### Verdict Prediction
+#### Veractiy Classification
 * Bootstrapping Multi-view Representations for Fake News Detection (Ying et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2206.05741.pdf)
   **AAAI 2023**
@@ -684,7 +688,10 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   [[Paper]](https://aclanthology.org/D17-1317.pdf)
 
 
+#### Manipulation Classification Dataset
 
+
+#### Out-of-Context Classification Dataset
 
 ### Justification Production
 * “Why is this misleading?”: Detecting News Headline Hallucinations with Explanations (Shen et al., 2023)
