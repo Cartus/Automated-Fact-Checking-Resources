@@ -12,8 +12,8 @@ This repo contains relevant resources from our survey paper [A Survey on Automat
 - [Task Definition](#task-definition)
 - [Datasets](#datasets)
   - [Claim Detection](#claim-detection-dataset)
-  - [Verdict Prediction](#factual-verification-dataset)
-    - [Veracity Classification]
+  - [Verdict Prediction](#verdict-prediction-dataset)
+    - [Veracity Classification](#veracity-classification-dataset)
       - [Natural Claims](#natural-claims)
       - [Artificial Claims](#artificial-claims)
 - [Shared Tasks](#shared-tasks)
@@ -60,8 +60,6 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   [[Paper]](https://arxiv.org/pdf/2211.10973.pdf)
   [[Dataset]](https://github.com/ictmcg/fakesv)
     **AAAI 2023**
-
-
 * SciTweets - A Dataset and Annotation Framework for Detecting Scientific Online Discourse (Hafid et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2206.07360.pdf)
   [[Dataset]](https://github.com/AI-4-Sci/SciTweets)
@@ -149,8 +147,9 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   **CIKM 2015**
 
 
-### Factual Verification Dataset
-#### Natural Claims
+### Verdict Prediction Dataset
+#### Veracity Classification Dataset
+##### Natural Claims
 * Modeling Information Change in Science Communication with Semantically Matched Paraphrases (Wright et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2210.13001.pdf) 
   [[Dataset]](https://huggingface.co/datasets/copenlu/spiced) 
@@ -314,7 +313,7 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   [[Paper]](https://aclanthology.org/C08-1006.pdf)
 
 
-#### Artificial Claims
+##### Artificial Claims
 * COSMOS: Catching Out-of-Context Misinformation with Self-Supervised Learning (Aneja et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2101.06278.pdf)
   [[Code]](https://shivangi-aneja.github.io/projects/cosmos/)
