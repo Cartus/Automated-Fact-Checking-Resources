@@ -688,10 +688,10 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   [[Paper]](https://aclanthology.org/D17-1317.pdf)
 
 
-#### Manipulation Classification Dataset
+#### Manipulation Classification
 
 
-#### Out-of-Context Classification Dataset
+#### Out-of-Context Classification
 
 ### Justification Production
 * “Why is this misleading?”: Detecting News Headline Hallucinations with Explanations (Shen et al., 2023)
