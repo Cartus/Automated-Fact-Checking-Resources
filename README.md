@@ -12,9 +12,10 @@ This repo contains relevant resources from our survey paper [A Survey on Automat
 - [Task Definition](#task-definition)
 - [Datasets](#datasets)
   - [Claim Detection](#claim-detection-dataset)
-  - [Factual Verification](#factual-verification-dataset)
-    - [Natural Claims](#natural-claims)
-    - [Artificial Claims](#artificial-claims)
+  - [Verdict Prediction](#factual-verification-dataset)
+    - [Veracity Classification]
+      - [Natural Claims](#natural-claims)
+      - [Artificial Claims](#artificial-claims)
 - [Shared Tasks](#shared-tasks)
 - [Models](#model)
   - [Claim Detection](#claim-detection)
