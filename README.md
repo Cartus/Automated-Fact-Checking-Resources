@@ -16,6 +16,8 @@ This repo contains relevant resources from our survey paper [A Survey on Automat
     - [Veracity Classification](#veracity-classification-dataset)
       - [Natural Claims](#natural-claims)
       - [Artificial Claims](#artificial-claims)
+    - [Out-of-context Classification](#out-of-context-classification-dataset)
+    - [Manipulation Classification](#manipulation-classification-dataset)
 - [Shared Tasks](#shared-tasks)
 - [Models](#model)
   - [Claim Detection](#claim-detection)
@@ -390,6 +392,12 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   [[Paper]](https://arxiv.org/abs/1510.05911)
 * Computational fact checking from knowledge networks (Ciampaglia et al., 2015)
   [[Paper]](https://arxiv.org/pdf/1501.03471.pdf)
+
+#### Manipulation Classification Dataset
+
+
+#### Out-of-Context Classification Dataset
+
 
 
 ## Shared Tasks
