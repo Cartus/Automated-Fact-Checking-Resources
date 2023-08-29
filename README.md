@@ -164,6 +164,10 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   [[Paper]](https://arxiv.org/pdf/2205.06938.pdf) 
   [[Dataset]](https://jifan-chen.github.io/ClaimDecomp/) 
   **EMNLP 2022**
+* SciFact-Open: Towards open-domain scientific claim verification (Wadden et al., 2022)
+  [[Paper]](https://aclanthology.org/2022.findings-emnlp.347/)
+  [[Dataset]](https://github.com/dwadden/scifact-open)
+  **EMNLP 2022**
 * CHEF: A Pilot Chinese Dataset for Evidence-Based Fact-Checking (Hu et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2206.11863.pdf) 
   [[Dataset]](https://github.com/THU-BPM/CHEF) 
