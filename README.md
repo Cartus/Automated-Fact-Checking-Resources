@@ -319,6 +319,19 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 
 
 ##### Artificial Claims
+* FACTKG: Fact Verification via Reasoning on Knowledge Graphs (Kim et al., 2023)
+  [[Paper]](https://arxiv.org/pdf/2305.06590.pdf)
+  [[Code]](https://github.com/jiho283/FactKG)
+  [[Dataset]](https://drive.google.com/drive/folders/1q0_MqBeGAp5_cBJCBf_1alYaYm14OeTk?usp=share_link)
+  **ACL 2023**
+* Faking Fake News for Real Fake News Detection: Propaganda-loaded Training Data Generation  (Huang et al., 2023)
+  [[Paper]](https://arxiv.org/pdf/2203.05386.pdf)
+  [[Code]](https://github.com/khuangaf/FakingFakeNews)
+  [[Dataset]](https://github.com/khuangaf/FakingFakeNews)
+  **ACL 2023**
+* FACTIFY-5WQA: 5W Aspect-based Fact Verification through Question Answering (Rani et al., 2023)
+  [[Paper]](https://arxiv.org/pdf/2305.04329.pdf)
+  **ACL 2023**
 * COSMOS: Catching Out-of-Context Misinformation with Self-Supervised Learning (Aneja et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2101.06278.pdf)
   [[Code]](https://shivangi-aneja.github.io/projects/cosmos/)
@@ -420,6 +433,17 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 ## Models
 
 ### Claim Detection
+* Learn over Past, Evolve for Future: Forecasting Temporal Trends for Fake News Detection (Hu et al., 2023)
+  [[Paper]](https://arxiv.org/pdf/2306.14728.pdf)
+  [[Code]](https://github.com/ICTMCG/FTT-ACL23)
+  **ACL 2023**
+* Causal Intervention and Counterfactual Reasoning for Multi-modal Fake News Detection (Chen et al., 2023)
+  [[Paper]](https://aclanthology.org/2023.acl-long.37.pdf)
+  **ACL 2023**
+* MetaAdapt: Domain Adaptive Few-Shot Misinformation Detection via Meta Learning (Yue et al., 2023)
+  [[Paper]](https://arxiv.org/pdf/2305.12692.pdf)
+  [[Code]](https://github.com/Yueeeeeeee/MetaAdapt)
+  **ACL 2023**
 * Zero-Shot Rumor Detection with Propagation Structure via Prompt Learning (Lin et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2212.01117.pdf)
   **AAAI 2023**
@@ -522,6 +546,14 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 
 ### Verdict Prediction
 #### Veractiy Classification
+
+* Counterfactual Debiasing for Fact Verification (Xu et al., 2023)
+  [[Paper]](https://aclanthology.org/2023.acl-long.374.pdf)
+  **ACL 2023**
+* Fact-Checking Complex Claims with Program-Guided Reasoning (Pan et al., 2023)
+  [[Paper]](https://arxiv.org/pdf/2305.12744.pdf)
+  [[Code]](https://github.com/mbzuai-nlp/ProgramFC)
+  **ACL 2023**
 * Bootstrapping Multi-view Representations for Fake News Detection (Ying et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2206.05741.pdf)
   **AAAI 2023**
@@ -737,6 +769,10 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 ## Related Tasks
 
 ### Misinformation and Disinformation
+* Human-in-the-loop Evaluation for Early Misinformation Detection: A Case Study of COVID-19 Treatments
+  [[Paper]](https://arxiv.org/pdf/2212.09683.pdf)
+  [[Dataset]](https://github.com/ethanm88/hitl-evaluation-early-misinformation-detection)
+  **ACL 2023**
 * Reinforcement Learning-based Counter-Misinformation Response Generation: A Case Study of COVID-19 Vaccine Misinformation (He et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2303.06433.pdf)
   [[Dataset]](https://github.com/claws-lab/MisinfoCorrect)
