@@ -7,7 +7,7 @@
 
 ## Overview
 
-This repo contains relevant resources from our survey paper [A Survey on Automated Fact-Checking](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00454/109469/A-Survey-on-Automated-Fact-Checking) in TACL 2022 and the follow up multimodal survey paper [Multimodal Automated Fact-Checking: A Survey](https://arxiv.org/pdf/2305.13507.pdf). In this survey, we present a comprehensive and up-to-date survey of automated fact-checking (AFC), unifying various components and definitions developed in previous research into a common framework.  As automated fact-checking research is evolving, we will provided timely update on the survey and this repo.
+This repo contains relevant resources from our survey paper [A Survey on Automated Fact-Checking](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00454/109469/A-Survey-on-Automated-Fact-Checking) in TACL 2022 and the follow up multimodal survey paper [Multimodal Automated Fact-Checking: A Survey](https://arxiv.org/pdf/2305.13507.pdf). In this survey, we present a comprehensive and up-to-date survey of automated fact-checking (AFC), unifying various components and definitions developed in previous research into a common framework.  As automated fact-checking research is evolving, we will provide timely updates on the survey and this repo.
 
 - [Task Definition](#task-definition)
 - [Datasets](#datasets)
@@ -60,7 +60,7 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
     - Veracity Classification: classify the veracity of textual claims given retrieved evidence.
 
 ## Datasets
-### Claim Detection Dataset
+### Claim Detection and Extraction Dataset
 * FakeSV: A Multimodal Benchmark with Rich Social Context for Fake News Detection on Short Video Platforms (Qi et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2211.10973.pdf)
   [[Dataset]](https://github.com/ictmcg/fakesv)
@@ -433,6 +433,14 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 ## Models
 
 ### Claim Detection
+* Interpretable Multimodal Misinformation Detection with Logic Reasoning (Liu et al., 2023)
+  [[Paper]](https://arxiv.org/pdf/2305.05964.pdf)
+  [[Code]](https://github.com/less-and-less-bugs/LogicMD)
+  **ACL 2023**
+* Two Heads Are Better Than One: Improving Fake News Video Detection by Correlating with Neighbors (Qi et al., 2023)
+  [[Paper]](https://arxiv.org/pdf/2306.05241.pdf)
+  [[Code]](https://github.com/ICTMCG/NEED)
+  **ACL 2023**
 * Learn over Past, Evolve for Future: Forecasting Temporal Trends for Fake News Detection (Hu et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2306.14728.pdf)
   [[Code]](https://github.com/ICTMCG/FTT-ACL23)
@@ -546,7 +554,22 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 
 ### Verdict Prediction
 #### Veractiy Classification
-
+* DECKER: Double Check with Heterogeneous Knowledge for Commonsense Fact Verification (Zou et al., 2023)
+  [[Paper]](https://arxiv.org/pdf/2305.05921.pdf)
+  [[Code]](https://github.com/Anni-Zou/Decker)
+  **ACL 2023**
+* Check-COVID: Fact-Checking COVID-19 News Claims with Scientific Evidence (Wang et al., 2023)
+  [[Paper]](https://arxiv.org/pdf/2305.18265.pdf)
+  [[Code]](https://github.com/posuer/Check-COVID)
+  **ACL 2023**
+* Claim-Dissector: An Interpretable Fact-Checking System with Joint Re-ranking and Veracity Prediction (Fajcik et al., 2023)
+  [[Paper]](https://arxiv.org/pdf/2207.14116.pdf)
+  [[Code]](https://github.com/KNOT-FIT-BUT/ClaimDissector)
+  **ACL 2023**
+* Prompt to be Consistent is Better than Self-Consistent? Few-Shot and Zero-Shot Fact Verification with Pre-trained Language Models (Zeng et al., 2023)
+  [[Paper]](https://arxiv.org/pdf/2306.02569.pdf)
+  [[Code]](https://github.com/znhy1024/ProToCo)
+  **ACL 2023**
 * Counterfactual Debiasing for Fact Verification (Xu et al., 2023)
   [[Paper]](https://aclanthology.org/2023.acl-long.374.pdf)
   **ACL 2023**
@@ -821,20 +844,22 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 
 ### Automated Fact-Checking
 
+* Scientific Fact-Checking: A Survey of Resources and Approaches (Vladika and Matthes, 2023)
+  [[Paper]](https://arxiv.org/pdf/2305.16859.pdf)
 * Automated fact-checking: A survey (Zeng et al., 2021)
-[[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/lnc3.12438)
+  [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/lnc3.12438)
 * Towards Explainable Fact Checking (Isabelle Augenstein, 2021)
-[[Paper]](https://arxiv.org/pdf/2108.10274.pdf)
+  [[Paper]](https://arxiv.org/pdf/2108.10274.pdf)
 * Explainable Automated Fact-Checking: A Survey (Kotonya and Toni, 2020)
-[[Paper]](https://aclanthology.org/2020.coling-main.474.pdf)
+  [[Paper]](https://aclanthology.org/2020.coling-main.474.pdf)
 * A Survey on Natural Language Processing for Fake News Detection (Oshikawa et al., 2020).
-[[Paper]](https://www.aclweb.org/anthology/2020.lrec-1.747.pdf)
+  [[Paper]](https://www.aclweb.org/anthology/2020.lrec-1.747.pdf)
 * A Review on Fact Extraction and VERification: The FEVER case (Bekoulis et al., 2020).
-[[paper]](https://arxiv.org/abs/2010.03001)
+  [[paper]](https://arxiv.org/abs/2010.03001)
 * Automated Fact Checking: Task Formulations, Methods and Future Directions (Thorne and Vlachos, 2018).
-[[Paper]](https://www.aclweb.org/anthology/C18-1283.pdf)
+  [[Paper]](https://www.aclweb.org/anthology/C18-1283.pdf)
 * A Content Management Perspective on Fact-Checking (Cazalens et al., 2018).
-[[paper]](https://hal.archives-ouvertes.fr/hal-01722666/document)
+  [[paper]](https://hal.archives-ouvertes.fr/hal-01722666/document)
 
 ### Fake News Detection
 * A Survey of Fake News: Fundamental Theories, Detection Methods, and Opportunities (Zhou and Zafarani, 2020).
