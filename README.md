@@ -61,6 +61,10 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 
 ## Datasets
 ### Claim Detection and Extraction Dataset
+* MR2: A Benchmark for Multimodal Retrieval-Augmented Rumor Detection in Social Media (Hu et al., 2023)
+  [[Paper]](https://dl.acm.org/doi/10.1145/3539618.3591896)
+  [[Dataset]](https://github.com/THU-BPM/MR2)
+  **SIGIR 2023**
 * FakeSV: A Multimodal Benchmark with Rich Social Context for Fake News Detection on Short Video Platforms (Qi et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2211.10973.pdf)
   [[Dataset]](https://github.com/ictmcg/fakesv)
