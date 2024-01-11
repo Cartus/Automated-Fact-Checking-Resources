@@ -159,6 +159,11 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 ### Verdict Prediction Dataset
 #### Veracity Classification Dataset
 ##### Natural Claims
+* COVID-VTS: Fact Extraction and Verification on Short Video Platforms (Liu et al., 2023)
+  [[Paper]](https://arxiv.org/pdf/2302.07919.pdf) 
+  [[Dataset]](https://github.com/FuxiaoLiu/Twitter-Video-dataset) 
+  [[Code]](https://github.com/FuxiaoLiu/Twitter-Video-dataset) 
+  **EACL 2023**
 * Modeling Information Change in Science Communication with Semantically Matched Paraphrases (Wright et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2210.13001.pdf) 
   [[Dataset]](https://huggingface.co/datasets/copenlu/spiced) 
@@ -180,10 +185,6 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   [[Paper]](https://arxiv.org/pdf/2112.00061.pdf)
   [[Dataset]](https://s-abdelnabi.github.io/OoC-multi-modal-fc/)
   **CVPR 2022**
-* NewsCLIPpings: Automatic Generation of Out-of-Context Multimodal Media (Luo et al., 2021)
-  [[Paper]](https://arxiv.org/pdf/2104.05893.pdf)
-  [[Dataset]](https://github.com/g-luo/news_clippings)
-  **EMNLP 2021**
 * Evidence-based Fact-Checking of Health-related Claims (Sarrouti et al., 2021)
   [[Paper]](https://aclanthology.org/2021.findings-emnlp.297.pdf)
   [[Dataset]](https://github.com/sarrouti/healthver)
@@ -191,10 +192,6 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 * COVID-Fact: Fact Extraction and Verification of Real-World Claims on COVID-19 Pandemic (Saakyan et al., 2021)
   [[Paper]](https://arxiv.org/pdf/2106.03794.pdf)
   [[Dataset]](https://github.com/asaakyan/covidfact)
-  **ACL 2021**
-* InfoSurgeon: Cross-Media Fine-grained Information Consistency Checking for Fake News Detection (Fung et al., 2021)
-  [[Paper]](https://aclanthology.org/2021.acl-long.133/)
-  [[Dataset]](https://github.com/yrf1/InfoSurgeon)
   **ACL 2021**
 * Edited Media Understanding Frames: Reasoning About the Intents and Implications of Visual Disinformation (Da et al., 2021)
   [[Paper]](https://aclanthology.org/2021.acl-long.158.pdf)
@@ -215,10 +212,6 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 * Meet The Truth: Leverage Objective Facts and Subjective Views for Interpretable Rumor Detection (Li et al., 2021)
   [[Paper]](https://aclanthology.org/2021.findings-acl.63.pdf)
   **Findings ACL 2021**
-* Detecting Cross-Modal Inconsistency to Defend Against Neural Fake News (Tan et al., 2020)
-  [[Paper]](https://arxiv.org/pdf/2009.07698.pdf)
-  [[Dataset]](https://github.com/rxtan2/DIDAN)
-  **EMNLP 2020**
 * Explainable Automated Fact-Checking for Public Health Claims (Kotonya and Toni, 2020b)
   [[Paper]](https://aclanthology.org/2020.emnlp-main.623.pdf)
   [[Dataset]](https://github.com/neemakot/Health-Fact-Checking)
@@ -336,11 +329,6 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 * FACTIFY-5WQA: 5W Aspect-based Fact Verification through Question Answering (Rani et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2305.04329.pdf)
   **ACL 2023**
-* COSMOS: Catching Out-of-Context Misinformation with Self-Supervised Learning (Aneja et al., 2023)
-  [[Paper]](https://arxiv.org/pdf/2101.06278.pdf)
-  [[Code]](https://shivangi-aneja.github.io/projects/cosmos/)
-  [[Dataset]](https://docs.google.com/forms/d/13kJQ2wlv7sxyXoaM1Ddon6Nq7dUJY_oftl-6xzwTGow/viewform?edit_requested=true)
-  **AAAI 2023**
 * Misinfo Reaction Frames: Reasoning about Readers’ Reactions to News Headlines (Gabriel et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2104.08790.pdf)
   [[Dataset]](https://github.com/skgabriel/mrf-modeling)
@@ -358,10 +346,6 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   [[Dataset]](https://fever.ai/resources.html)
   [[Code]](https://github.com/Raldir/FEVEROUS)
   **NeurIPS 2021**
-* InfoSurgeon: Cross-Media Fine-grained Information Consistency Checking for Fake News Detection (Fung et al., 2021)
-  [[Paper]](https://aclanthology.org/2021.acl-long.133.pdf)
-  [[Dataset]](https://github.com/yrf1/InfoSurgeon)
-  **ACL 2021**
 * Statement Verification and Evidence Finding with Tables (SEM-TAB-FACT) (Wang et al., 2021)
   [[Dataset]](https://competitions.codalab.org/competitions/27748)
 * Get Your Vitamin C! Robust Fact Verification with Contrastive Evidence (Schuster et al., 2021)
@@ -417,8 +401,41 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 
 
 #### Out-of-Context Classification Dataset
-
-
+* Not all Fake News is Written: A Dataset and Analysis of Misleading Video Headlines (Sung et al., 2023)
+ [[Paper]](https://arxiv.org/pdf/2310.13859.pdf)
+ [[Dataset]](https://github.com/yysung/VMH/tree/master)
+ **EMNLP 2023**
+* COSMOS: Catching Out-of-Context Misinformation with Self-Supervised Learning (Aneja et al., 2023)
+  [[Paper]](https://arxiv.org/pdf/2101.06278.pdf)
+  [[Code]](https://shivangi-aneja.github.io/projects/cosmos/)
+  [[Dataset]](https://docs.google.com/forms/d/13kJQ2wlv7sxyXoaM1Ddon6Nq7dUJY_oftl-6xzwTGow/viewform?edit_requested=true)
+  **AAAI 2023**
+* Factify 2: A multimodal fake news and satire news dataset (Suryavardan et al., 2023)
+  [[Paper]](https://arxiv.org/ftp/arxiv/papers/2304/2304.03897.pdf)
+  [[Dataset]](https://github.com/surya1701/Factify-2.0)
+* InfoSurgeon: Cross-Media Fine-grained Information Consistency Checking for Fake News Detection (Fung et al., 2021)
+  [[Paper]](https://aclanthology.org/2021.acl-long.133/)
+  [[Dataset]](https://github.com/yrf1/InfoSurgeon)
+  **ACL 2021**
+* NewsCLIPpings: Automatic Generation of Out-of-Context Multimodal Media (Luo et al., 2021)
+  [[Paper]](https://arxiv.org/pdf/2104.05893.pdf)
+  [[Dataset]](https://github.com/g-luo/news_clippings)
+  **EMNLP 2021**
+* Detecting Cross-Modal Inconsistency to Defend Against Neural Fake News (Tan et al., 2020)
+  [[Paper]](https://arxiv.org/pdf/2009.07698.pdf)
+  [[Dataset]](https://github.com/rxtan2/DIDAN)
+  **EMNLP 2020**
+* Multimodal analytics for real-world news using measures of cross-modal entity consistency (Müller-Budack et al., 2020)
+  [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372278.3390670)
+  [[Dataset]](https://github.com/TIBHannover/cross-modal_entity_consistency)
+  **ICMR 2020**
+* Deep Multimodal Image-Repurposing Detection (Sabir et al., 2018)
+  [[Paper]](https://arxiv.org/pdf/1808.06686.pdf)
+  [[Dataset]](https://github.com/Ekraam/MEIR)
+  **ACM MM 2018**
+* Multimedia semantic integrity assessment using joint embedding of images and text (Jaiswal et al., 2017)
+  [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3123266.3123385)
+  **ACM MM 2017**
 
 ## Shared Tasks
 * The Fact Extraction and VERification (FEVER) Shared Task [[5th FEVER Workshop](https://fever.ai/)]
@@ -436,7 +453,7 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 
 ## Models
 
-### Claim Detection
+### Claim Detection and Extraction
 * Interpretable Multimodal Misinformation Detection with Logic Reasoning (Liu et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2305.05964.pdf)
   [[Code]](https://github.com/less-and-less-bugs/LogicMD)
