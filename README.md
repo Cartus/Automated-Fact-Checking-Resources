@@ -11,7 +11,7 @@ This repo contains relevant resources from our survey paper [A Survey on Automat
 
 - [Task Definition](#task-definition)
 - [Datasets](#datasets)
-  - [Claim Detection and Extraction](#claim-detection-dataset)
+  - [Claim Detection and Extraction](#claim-detection-and-extraction-dataset)
   - [Verdict Prediction](#verdict-prediction-dataset)
     - [Veracity Classification](#veracity-classification-dataset)
       - [Natural Claims](#natural-claims)
@@ -20,7 +20,7 @@ This repo contains relevant resources from our survey paper [A Survey on Automat
     - [Manipulation Classification](#manipulation-classification-dataset)
 - [Shared Tasks](#shared-tasks)
 - [Models](#model)
-  - [Claim Detection and Extraction](#claim-detection)
+  - [Claim Detection and Extraction](#claim-detection-and-extraction)
   - [Verdict Prediction](#verdict-prediction)
     - [Veracity Classification](#veracity-classification)
     - [Out-of-context Classification](#out-of-context-classification)
