@@ -159,6 +159,9 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 ### Verdict Prediction Dataset
 #### Veracity Classification Dataset
 ##### Natural Claims
+* Do Large Language Models Know about Facts? (Xu et al., 2024)
+  [[Paper]](https://openreview.net/forum?id=9OevMUdods)
+  **ICLR 2024**
 * COVID-VTS: Fact Extraction and Verification on Short Video Platforms (Liu et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2302.07919.pdf) 
   [[Dataset]](https://github.com/FuxiaoLiu/Twitter-Video-dataset) 
