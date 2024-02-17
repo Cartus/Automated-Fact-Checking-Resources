@@ -405,6 +405,17 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Narayan_DF-Platter_Multi-Face_Heterogeneous_Deepfake_Dataset_CVPR_2023_paper.pdf)
   [[Dataset]](https://iab-rubric.org/df-platter-database)
   **CVPR 2023**
+* Detecting and Grounding Multi-Modal Media Manipulation. (Shao et al., 2023)
+  [[Paper]](https://arxiv.org/pdf/2304.02556.pdf)
+  [[Dataset]](https://github.com/rshaojimmy/MultiModal-DeepFake)
+  **CVPR 2023**
+* FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake Dataset (Khalid et al., 2021)
+  [[Paper]](https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/d9d4f495e875a2e075a1a4a6e1b9770f-Paper-round2.pdf)
+  [[Dataset]](https://github.com/DASH-Lab/FakeAVCeleb)
+  **NeurIPS 2021**
+* Half-Truth: A Partially Fake Audio Detection Dataset (Yi et al., 2021)
+  [[Paper]](https://www.isca-archive.org/interspeech_2021/yi21_interspeech.pdf)
+  **Interspeech 2021**
 * KoDF: A Large-scale Korean DeepFake Detection Dataset (Kwon et al., 2021)
   [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9710066)
   [[Dataset]](https://moneybrain-research.github.io/kodf)
@@ -417,28 +428,6 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9156686)
   [[Dataset]](https://github.com/EndlessSora/DeeperForensics-1.0)
   **CVPR 2020**
-* The Deepfake Detection Challenge (DFDC) Preview Dataset (Dolhansky et al., 2019)
-  [[Paper]](https://arxiv.org/pdf/1910.08854.pdf)
-  [[Dataset]](https://deepfakedetectionchallenge.ai/)
-* Detecting and Grounding Multi-Modal Media Manipulation. (Shao et al., 2023)
-  [[Paper]](https://arxiv.org/pdf/2304.02556.pdf)
-  [[Dataset]](https://github.com/rshaojimmy/MultiModal-DeepFake)
-  **CVPR 2023**
-*
-  [[Paper]]()
-  [[Dataset]]()
-  ****
-*
-  [[Paper]]()
-  [[Dataset]]()
-  ****
-* FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake Dataset (Khalid et al., 2021)
-  [[Paper]](https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/d9d4f495e875a2e075a1a4a6e1b9770f-Paper-round2.pdf)
-  [[Dataset]](https://github.com/DASH-Lab/FakeAVCeleb)
-  **NeurIPS 2021**
-* Half-Truth: A Partially Fake Audio Detection Dataset (Yi et al., 2021)
-  [[Paper]](https://www.isca-archive.org/interspeech_2021/yi21_interspeech.pdf)
-  **Interspeech 2021**
 * DeepSonar: Towards Effective and Robust Detection of AI-Synthesized Fake Voices  (Wang et al., 2020)
   [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413716)
   **ACM MM 2020**
@@ -448,11 +437,16 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 * Phonespoof: A New Dataset for Spoofing Attack Detection in Telephone Channel (Lavrentyeva et al., 2019)
   [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682942)
   **ICASSP 2019**
-*
-  [[Paper]]()
-  [[Dataset]]()
+* The Deepfake Detection Challenge (DFDC) Preview Dataset (Dolhansky et al., 2019)
+  [[Paper]](https://arxiv.org/pdf/1910.08854.pdf)
+  [[Dataset]](https://deepfakedetectionchallenge.ai/)
+* The PS-Battles Dataset -- an Image Collection for Image Manipulation Detection (Heller et al., 2018)
+  [[Paper]](https://arxiv.org/pdf/1804.04866.pdf)
+  [[Dataset]](https://github.com/dbisUnibas/PS-Battles)
+* FaceForensics: A Large-scale Video Dataset for Forgery Detection in Human Faces (Rossler et al., 2018)
+  [[Paper]](https://arxiv.org/pdf/1803.09179.pdf)
+  [[Dataset]](https://justusthies.github.io/posts/faceforensics/)
   ****
-
 
 #### Out-of-Context Classification Dataset
 * Not all Fake News is Written: A Dataset and Analysis of Misleading Video Headlines (Sung et al., 2023)
