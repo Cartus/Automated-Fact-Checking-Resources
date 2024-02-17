@@ -162,6 +162,10 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 * Do Large Language Models Know about Facts? (Xu et al., 2024)
   [[Paper]](https://openreview.net/forum?id=9OevMUdods)
   **ICLR 2024**
+* End-to-End Multimodal Fact-Checking and Explanation Generation: A Challenging Dataset and Models (Yao et al., 2023)
+  [[Paper]](https://arxiv.org/pdf/2205.12487.pdf)
+  [[Dataset]](https://github.com/VT-NLP/Mocheg)
+  **SIGIR 2023**
 * COVID-VTS: Fact Extraction and Verification on Short Video Platforms (Liu et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2302.07919.pdf) 
   [[Dataset]](https://github.com/FuxiaoLiu/Twitter-Video-dataset) 
