@@ -162,15 +162,15 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 * Do Large Language Models Know about Facts? (Xu et al., 2024)
   [[Paper]](https://openreview.net/forum?id=9OevMUdods)
   **ICLR 2024**
-* End-to-End Multimodal Fact-Checking and Explanation Generation: A Challenging Dataset and Models (Yao et al., 2023)
-  [[Paper]](https://arxiv.org/pdf/2205.12487.pdf)
-  [[Dataset]](https://github.com/VT-NLP/Mocheg)
-  **SIGIR 2023**
 * COVID-VTS: Fact Extraction and Verification on Short Video Platforms (Liu et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2302.07919.pdf) 
   [[Dataset]](https://github.com/FuxiaoLiu/Twitter-Video-dataset) 
   [[Code]](https://github.com/FuxiaoLiu/Twitter-Video-dataset) 
   **EACL 2023**
+* End-to-End Multimodal Fact-Checking and Explanation Generation: A Challenging Dataset and Models (Yao et al., 2023)
+  [[Paper]](https://arxiv.org/pdf/2205.12487.pdf)
+  [[Dataset]](https://github.com/VT-NLP/Mocheg)
+  **SIGIR 2023**
 * Modeling Information Change in Science Communication with Semantically Matched Paraphrases (Wright et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2210.13001.pdf) 
   [[Dataset]](https://huggingface.co/datasets/copenlu/spiced) 
@@ -336,6 +336,10 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 * FACTIFY-5WQA: 5W Aspect-based Fact Verification through Question Answering (Rani et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2305.04329.pdf)
   **ACL 2023**
+* Reading and Reasoning over Chart Images for Evidence-based Automated Fact-Checking (Akhtar et al., 2023)
+  [[Paper]](https://aclanthology.org/2023.findings-eacl.30.pdf)
+  [[Dataset]](https://github.com/mubasharaak/ChartFC_chartBERT)
+  **EACL 2023**
 * Misinfo Reaction Frames: Reasoning about Readers’ Reactions to News Headlines (Gabriel et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2104.08790.pdf)
   [[Dataset]](https://github.com/skgabriel/mrf-modeling)
