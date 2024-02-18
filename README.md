@@ -841,9 +841,8 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   
 ### Justification Production
 * “Why is this misleading?”: Detecting News Headline Hallucinations with Explanations (Shen et al., 2023)
-  [[Paper]](  [[Paper]](https://arxiv.org/pdf/2212.01060.pdf)]
-  **AAAI 2023**)]
-  **WWW 2023**
+  [[Paper]](https://arxiv.org/pdf/2212.01060.pdf)]
+  **AAAI 2023**
 * Exploring Faithful Rationale for Multi-hop Fact Verification via Salience-Aware Graph Learning (Si et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2212.01060.pdf)]
   **AAAI 2023**
