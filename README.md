@@ -192,6 +192,13 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   [[Paper]](https://arxiv.org/pdf/2112.00061.pdf)
   [[Dataset]](https://s-abdelnabi.github.io/OoC-multi-modal-fc/)
   **CVPR 2022**
+* MMM: An Emotion and Novelty-aware Approach for Multilingual Multimodal Misinformation Detection (Gupta et al., 2022)
+  [[Paper]](https://aclanthology.org/2022.findings-aacl.43.pdf) 
+  [[Dataset]](https://www.iitp.ac.in/~ai-nlp-ml/resources.html#MMM_Dataset) 
+  **AACL 2022**
+* FactDrill: A Data Repository of Fact-Checked Social Media Content to Study Fake News Incidents in India (Singhal et al., 2022)
+  [[Paper]](https://ojs.aaai.org/index.php/ICWSM/article/view/19384/19156) 
+  **ICWSM 2022**
 * Evidence-based Fact-Checking of Health-related Claims (Sarrouti et al., 2021)
   [[Paper]](https://aclanthology.org/2021.findings-emnlp.297.pdf)
   [[Dataset]](https://github.com/sarrouti/healthver)
