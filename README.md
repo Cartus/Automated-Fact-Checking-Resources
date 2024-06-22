@@ -330,6 +330,10 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 
 
 ##### Artificial Claims
+* CFEVER: A Chinese Fact Extraction and VERification Dataset (Lin et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2402.13025)
+  [[Dataset]](https://ikmlab.github.io/CFEVER/)
+  **AAAI 2024**
 * FACTKG: Fact Verification via Reasoning on Knowledge Graphs (Kim et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2305.06590.pdf)
   [[Code]](https://github.com/jiho283/FactKG)
@@ -517,6 +521,31 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 ## Models
 
 ### Claim Detection and Extraction
+* Reinforced Adaptive Knowledge Learning for Multimodal Fake News Detection (Zhang et al., 2024)
+  [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29618)
+  **AAAI 2024**
+* Unveiling Implicit Deceptive Patterns in Multi-Modal Fake News via Neuro-Symbolic Reasoning (Dong et al., 2024)
+  [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28677)
+  [[Code]](https://github.com/hedongxiao-tju/NSLM)
+  **AAAI 2024**
+* Propagation Tree Is Not Deep: Adaptive Graph Contrastive Learning Approach for Rumor Detection (Cui et al., 2024)
+  [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/27757)
+  **AAAI 2024**
+* Frequency Spectrum is More Effective for Multimodal Representation and Fusion: A Multimodal Spectrum Rumor Detector (Lao et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2312.11023)
+  [[Code]](https://github.com/dm4m/FSRU)
+  **AAAI 2024**
+* GAMC: An Unsupervised Method for Fake News Detection using Graph Autoencoder with Masking (Yin et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2312.05739)
+  **AAAI 2024**
+* Harnessing Network Effect for Fake News Mitigation: Selecting Debunkers via Self-Imitation Learning (Xu et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2402.03357)
+  [[Code]](https://github.com/xxfwin/NAGASIL)
+  **AAAI 2024**
+* Bad Actor, Good Advisor: Exploring the Role of Large Language Models in Fake News Detection (Hu et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2309.12247)
+  [[Code]](https://github.com/ICTMCG/ARG)
+  **AAAI 2024**
 * Interpretable Multimodal Misinformation Detection with Logic Reasoning (Liu et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2305.05964.pdf)
   [[Code]](https://github.com/less-and-less-bugs/LogicMD)
@@ -638,6 +667,14 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 
 ### Verdict Prediction
 #### Veractiy Classification
+* Causal Walk: Debiasing Multi-Hop Fact Verification with Front-Door Adjustment (Zhang et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2403.02698)
+  [[Code]](https://github.com/zcccccz/CausalWalk)
+  **AAAI 2024**
+*  Heterogeneous Graph Reasoning for Fact Checking over Texts and Tables (Gong et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2402.13028)
+  [[Code]](https://github.com/Deno-V/HeterFC)
+  **AAAI 2024**
 * DECKER: Double Check with Heterogeneous Knowledge for Commonsense Fact Verification (Zou et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2305.05921.pdf)
   [[Code]](https://github.com/Anni-Zou/Decker)
