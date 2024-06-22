@@ -527,6 +527,10 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 ## Models
 
 ### Claim Detection and Extraction
+* An Interactive Framework for Profiling News Media Sources (Mehta et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2309.07384)
+  [[Code]](https://github.com/hockeybro12/Interactive_News_Media_Profiling)
+  **NAACL 2024**
 * Style-News: Incorporating Stylized News Generation and Adversarial Verification for Neural Fake News Detection (Wang et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2401.15509)
   **EACL 2024**
@@ -676,7 +680,10 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 
 ### Verdict Prediction
 #### Veractiy Classification
-
+* Comparing Knowledge Sources for Open-Domain Scientific Claim Verification (Vladika et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2402.02844)
+  [[Code]](https://github.com/jvladika/Comparing-Knowledge-Sources)
+  **EACL 2024**
 * Causal Walk: Debiasing Multi-Hop Fact Verification with Front-Door Adjustment (Zhang et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2403.02698)
   [[Code]](https://github.com/zcccccz/CausalWalk)
