@@ -161,7 +161,13 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 ##### Natural Claims
 * Do Large Language Models Know about Facts? (Xu et al., 2024)
   [[Paper]](https://openreview.net/forum?id=9OevMUdods)
+  [[Dataset]](https://github.com/THU-BPM/Pinocchio)
+  [[Code]](https://github.com/THU-BPM/Pinocchio)
   **ICLR 2024**
+* What Makes Medical Claims (Un)Verifiable? Analyzing Entity and Relation Properties for Fact Verification (Wührl et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2402.01360)
+  [[Dataset]](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/bioclaim/)
+  **EACL 2024**
 * COVID-VTS: Fact Extraction and Verification on Short Video Platforms (Liu et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2302.07919.pdf) 
   [[Dataset]](https://github.com/FuxiaoLiu/Twitter-Video-dataset) 
@@ -521,6 +527,9 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 ## Models
 
 ### Claim Detection and Extraction
+* Style-News: Incorporating Stylized News Generation and Adversarial Verification for Neural Fake News Detection (Wang et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2401.15509)
+  **EACL 2024**
 * Reinforced Adaptive Knowledge Learning for Multimodal Fake News Detection (Zhang et al., 2024)
   [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29618)
   **AAAI 2024**
@@ -667,6 +676,7 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 
 ### Verdict Prediction
 #### Veractiy Classification
+
 * Causal Walk: Debiasing Multi-Hop Fact Verification with Front-Door Adjustment (Zhang et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2403.02698)
   [[Code]](https://github.com/zcccccz/CausalWalk)
