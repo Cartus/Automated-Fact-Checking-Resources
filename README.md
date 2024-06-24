@@ -524,7 +524,6 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 * The Fake News Challenge (FNC-1) [[Pomerleau and Rao, 2017](http://www.fakenewschallenge.org/)]
 
 
-
 ## Models
 
 ### Claim Detection and Extraction
@@ -532,6 +531,10 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   [[Paper]](https://arxiv.org/pdf/2309.07384)
   [[Code]](https://github.com/hockeybro12/Interactive_News_Media_Profiling)
   **NAACL 2024**
+* CMA-R:Causal Mediation Analysis for Explaining Rumour Detection (Tian et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2402.08155)
+  [[Code]](https://github.com/ltian678/cma-r)
+  **EACL 2024**
 * Style-News: Incorporating Stylized News Generation and Adversarial Verification for Neural Fake News Detection (Wang et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2401.15509)
   **EACL 2024**
@@ -685,6 +688,22 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   [[Paper]](https://arxiv.org/pdf/2403.18671)
   [[Code]](https://github.com/p-karisani/OODFC)
   **NAACL 2024**
+* Language Models Hallucinate, but May Excel at Fact Verification (Guan et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2310.14564)
+  [[Code]](https://github.com/JianGuanTHU/LLMforFV)
+  **NAACL 2024**
+* Complex Claim Verification with Evidence Retrieved in the Wild (Chen et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2305.11859)
+  [[Code]](https://github.com/jifan-chen/Fact-checking-via-Raw-Evidence)
+  **NAACL 2024**
+* MAPLE: Micro Analysis of Pairwise Language Evolution for Few-Shot Claim Verification (Zeng et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2401.16282)
+  [[Code]](https://github.com/XiaZeng0223/MAPLE)
+  **EACL 2024**
+* Rethinking Loss Functions for Fact Verification (Mukobara et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2403.08174)
+  [[Code]](https://github.com/yuta-mukobara/RLF-KGAT)
+  **EACL 2024**
 * Comparing Knowledge Sources for Open-Domain Scientific Claim Verification (Vladika et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2402.02844)
   [[Code]](https://github.com/jvladika/Comparing-Knowledge-Sources)
@@ -947,6 +966,9 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   **NAACL 2024**
 
 ### Misinformation and Disinformation
+* Enhancing Society-Undermining Disinformation Detection through Fine-Grained Sentiment Analysis Pre-Finetuning (Pan et al., 2024)
+  [[Paper]](https://aclanthology.org/2024.findings-eacl.92.pdf)
+  **EACL 2024**
 * Human-in-the-loop Evaluation for Early Misinformation Detection: A Case Study of COVID-19 Treatments
   [[Paper]](https://arxiv.org/pdf/2212.09683.pdf)
   [[Dataset]](https://github.com/ethanm88/hitl-evaluation-early-misinformation-detection)
