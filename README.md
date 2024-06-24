@@ -974,11 +974,11 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 * BUST: Benchmark for the evaluation of detectors of LLM-Generated Text (Cornelius et al., 2024)
   [[Paper]](https://aclanthology.org/2024.naacl-long.444.pdf)
   [[Dataset]](https://github.com/IDSIA-NLP/BUST)
-  **NAACL 2024**
+  ![](https://img.shields.io/badge/NAACL%202024-orange)
 * GPT-who: An Information Density-based Machine-Generated Text Detector (Venkatraman et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2310.06202)
   [[Code]](https://github.com/saranya-venkatraman/gpt-who)
-  **NAACL 2024**
+  ![](https://img.shields.io/badge/NAACL%202024-orange)
 * LLM-as-a-Coauthor: Can Mixed Human-Written and Machine-Generated Text Be Detected? (Zhang et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2401.05952)
   [[Code]](https://github.com/Dongping-Chen/MixSet)
@@ -987,22 +987,22 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 ### Misinformation and Disinformation
 * Evidence-Driven Retrieval Augmented Response Generation for Online Misinformation (Yue et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2403.14952)
-  **NAACL 2024**
+  ![](https://img.shields.io/badge/NAACL%202024-orange)
 * Enhancing Society-Undermining Disinformation Detection through Fine-Grained Sentiment Analysis Pre-Finetuning (Pan et al., 2024)
   [[Paper]](https://aclanthology.org/2024.findings-eacl.92.pdf)
-  **EACL 2024**
+  ![](https://img.shields.io/badge/EACL%202024-orange)
 * Human-in-the-loop Evaluation for Early Misinformation Detection: A Case Study of COVID-19 Treatments
   [[Paper]](https://arxiv.org/pdf/2212.09683.pdf)
   [[Dataset]](https://github.com/ethanm88/hitl-evaluation-early-misinformation-detection)
-  **ACL 2023**
+  ![](https://img.shields.io/badge/ACL%202023-orange)
 * Reinforcement Learning-based Counter-Misinformation Response Generation: A Case Study of COVID-19 Vaccine Misinformation (He et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2303.06433.pdf)
   [[Dataset]](https://github.com/claws-lab/MisinfoCorrect)
   [[Code]](https://github.com/claws-lab/MisinfoCorrect)
-  **WWW 2023**
+  ![](https://img.shields.io/badge/WWW%202023-orange)
 * Who Funds Misinformation? A Systematic Analysis of the Ad-related Profit Routines of Fake News sites (Papadogiannakis et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2202.05079.pdf)
-  **WWW 2023**
+  ![](https://img.shields.io/badge/WWW%202023-orange)
 * A Survey on Multimodal Disinformation Detection (Alam et al., 2021) 
   [[Paper]](https://arxiv.org/pdf/2103.12541.pdf)
 * Misinformation, Disinformation, and Online Propaganda (Guess and Lyons, 2020)
@@ -1017,20 +1017,20 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 
 * Assisting the Human Fact-Checkers: Detecting All Previously Fact-Checked Claims in a Document (Shaar et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2109.07410.pdf)
-  **Findings EMNLP 2022**
+  ![](https://img.shields.io/badge/EMNLP%202022-orange)
 * Article Reranking by Memory-Enhanced Key Sentence Matching for Detecting Previously Fact-Checked Claims (Sheng et al. 2021)
   [[Paper]](https://aclanthology.org/2021.acl-long.425.pdf)
   [[Code]](https://github.com/ICTMCG/MTM)
-  **ACL 2021**
+  ![](https://img.shields.io/badge/ACL%202021-orange)
 * Claim Matching Beyond English to Scale Global Fact-Checking (Kazemiet al. 2021)
   [[Paper]](https://aclanthology.org/2021.acl-long.347.pdf)
-  **ACL 2021
+  ![](https://img.shields.io/badge/ACL%202021-orange)
 * The CLEF-2021 CheckThat! Lab on Detecting Check-Worthy Claims, Previously Fact-Checked Claims, and Fake News (Nakov et al., 2021)
   [[Paper]](https://link.springer.com/chapter/10.1007%2F978-3-030-72240-1_75)]
 * That is a Known Lie: Detecting Previously Fact-Checked Claims (Shaar et al., 2020)
   [[Paper]](https://aclanthology.org/2020.acl-main.332.pdf)
   [[Dataset]](https://github.com/sshaar/That-is-a-Known-Lie)
-  **ACL 2020**
+  ![](https://img.shields.io/badge/ACL%202020-orange)
 * COVIDLies: Detecting COVID-19 Misinformation on Social Media (Hossain et al., 2020)
   [[Paper]](https://aclanthology.org/2020.nlpcovid19-2.11.pdf)
 * Overview of CheckThat! 2020: Automatic Identification and Verification of Claims in Social Media (Barrón-Cedeño et al., 2020)
