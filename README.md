@@ -982,8 +982,7 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 * LLM-as-a-Coauthor: Can Mixed Human-Written and Machine-Generated Text Be Detected? (Zhang et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2401.05952)
   [[Code]](https://github.com/Dongping-Chen/MixSet)
-  ![](https://img.shields.io/badge/NAACL%202023-orange)
-  **NAACL 2024**
+  ![](https://img.shields.io/badge/NAACL%202024-orange)
 
 ### Misinformation and Disinformation
 * Evidence-Driven Retrieval Augmented Response Generation for Online Misinformation (Yue et al., 2024)
