@@ -6,7 +6,7 @@
 
 
 ### Updates: 
-- 2024.6: Added a section for LLM-generated text in Related Tasks. Added papers from EACL, NAACL and AAAI 2024
+- 2024.6: Added a section for LLM-generated text in Related Tasks. Added papers from EACL, NAACL, and AAAI 2024
 
 ## Overview
 This repo contains relevant resources from our survey paper [A Survey on Automated Fact-Checking](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00454/109469/A-Survey-on-Automated-Fact-Checking) in TACL 2022 and the follow up multimodal survey paper [Multimodal Automated Fact-Checking: A Survey](https://arxiv.org/pdf/2305.13507.pdf). In this survey, we present a comprehensive and up-to-date survey of automated fact-checking (AFC), unifying various components and definitions developed in previous research into a common framework.  As automated fact-checking research evolves, we will provide timely updates on the survey and this repo.
@@ -531,6 +531,10 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 ## Models
 
 ### Claim Detection and Extraction
+* Adapting Fake News Detection to the Era of Large Language Models (Su et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2311.04917)
+  [[Code]](https://github.com/mbzuai-nlp/Fakenews-dataset)
+  **NAACL 2024**
 * An Interactive Framework for Profiling News Media Sources (Mehta et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2309.07384)
   [[Code]](https://github.com/hockeybro12/Interactive_News_Media_Profiling)
@@ -688,6 +692,9 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 
 ### Verdict Prediction
 #### Veractiy Classification
+* Self-Checker: Plug-and-Play Modules for Fact-Checking with Large Language Models ()
+  [[Paper]](https://arxiv.org/pdf/2305.14623)
+  **NAACL 2024**
 * Fact Checking Beyond Training Set (Karisani et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2403.18671)
   [[Code]](https://github.com/p-karisani/OODFC)
@@ -967,6 +974,15 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 * BUST: Benchmark for the evaluation of detectors of LLM-Generated Text (Cornelius et al., 2024)
   [[Paper]](https://aclanthology.org/2024.naacl-long.444.pdf)
   [[Dataset]](https://github.com/IDSIA-NLP/BUST)
+  **NAACL 2024**
+* GPT-who: An Information Density-based Machine-Generated Text Detector (Venkatraman et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2310.06202)
+  [[Code]](https://github.com/saranya-venkatraman/gpt-who)
+  **NAACL 2024**
+* LLM-as-a-Coauthor: Can Mixed Human-Written and Machine-Generated Text Be Detected? (Zhang et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2401.05952)
+  [[Code]](https://github.com/Dongping-Chen/MixSet)
+  ![](https://img.shields.io/badge/NAACL%202023-orange)
   **NAACL 2024**
 
 ### Misinformation and Disinformation
