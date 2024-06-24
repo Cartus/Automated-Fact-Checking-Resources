@@ -338,7 +338,7 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   **EMNLP 2015**
 * Fact Checking: Task definition and dataset construction (Vlachos and Riedel, 2014)
   [[Paper]](https://aclanthology.org/W14-2508.pdf)
-  [[Dataset]](https://sites.google.com/site/andreasvlachos/resources)
+  [[Dataset]](https://www.dropbox.com/s/uvwbpjytogqnm68/FactChecking_LTCSS2014_release.ods?dl=0)
   **Workshop @ ACL 2014**
 * Verification and Implementation of Language-Based Deception Indicators in Civil and Criminal Narratives (Bachenko et al., 2008)
   [[Paper]](https://aclanthology.org/C08-1006.pdf)
