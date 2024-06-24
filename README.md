@@ -7,7 +7,7 @@
 
 ## Overview
 
-This repo contains relevant resources from our survey paper [A Survey on Automated Fact-Checking](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00454/109469/A-Survey-on-Automated-Fact-Checking) in TACL 2022 and the follow up multimodal survey paper [Multimodal Automated Fact-Checking: A Survey](https://arxiv.org/pdf/2305.13507.pdf). In this survey, we present a comprehensive and up-to-date survey of automated fact-checking (AFC), unifying various components and definitions developed in previous research into a common framework.  As automated fact-checking research is evolving, we will provide timely updates on the survey and this repo.
+This repo contains relevant resources from our survey paper [A Survey on Automated Fact-Checking](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00454/109469/A-Survey-on-Automated-Fact-Checking) in TACL 2022 and the follow up multimodal survey paper [Multimodal Automated Fact-Checking: A Survey](https://arxiv.org/pdf/2305.13507.pdf). In this survey, we present a comprehensive and up-to-date survey of automated fact-checking (AFC), unifying various components and definitions developed in previous research into a common framework.  As automated fact-checking research evolves, we will provide timely updates on the survey and this repo.
 
 - [Task Definition](#task-definition)
 - [Datasets](#datasets)
@@ -32,6 +32,7 @@ This repo contains relevant resources from our survey paper [A Survey on Automat
   - [Claim Detection Related](#claim-detection-related)
   - [Stance Detection](#stance-detection)
 - [Related Tasks](#related-tasks)
+  - [Detecting LLM-Generated Text](#detecting-llm-generated-text)
   - [Misinformation and Disinformation](#misinformation-and-disinformation)
   - [Detecting Previous Claims](#detecting-previous-claims)
 - [Tutorials](#tutorials)
@@ -680,6 +681,10 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 
 ### Verdict Prediction
 #### Veractiy Classification
+* Fact Checking Beyond Training Set (Karisani et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2403.18671)
+  [[Code]](https://github.com/p-karisani/OODFC)
+  **NAACL 2024**
 * Comparing Knowledge Sources for Open-Domain Scientific Claim Verification (Vladika et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2402.02844)
   [[Code]](https://github.com/jvladika/Comparing-Knowledge-Sources)
@@ -934,6 +939,12 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 
 
 ## Related Tasks
+
+### Detecting LLM Generated Text
+* BUST: Benchmark for the evaluation of detectors of LLM-Generated Text (Cornelius et al., 2024)
+  [[Paper]](https://aclanthology.org/2024.naacl-long.444.pdf)
+  [[Dataset]](https://github.com/IDSIA-NLP/BUST)
+  **NAACL 2024**
 
 ### Misinformation and Disinformation
 * Human-in-the-loop Evaluation for Early Misinformation Detection: A Case Study of COVID-19 Treatments
