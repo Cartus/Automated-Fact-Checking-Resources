@@ -9,6 +9,9 @@
 
 This repo contains relevant resources from our survey paper [A Survey on Automated Fact-Checking](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00454/109469/A-Survey-on-Automated-Fact-Checking) in TACL 2022 and the follow up multimodal survey paper [Multimodal Automated Fact-Checking: A Survey](https://arxiv.org/pdf/2305.13507.pdf). In this survey, we present a comprehensive and up-to-date survey of automated fact-checking (AFC), unifying various components and definitions developed in previous research into a common framework.  As automated fact-checking research evolves, we will provide timely updates on the survey and this repo.
 
+### Updates: 
+- Add a section for LLM-generated text in Related Tasks.
+
 - [Task Definition](#task-definition)
 - [Datasets](#datasets)
   - [Claim Detection and Extraction](#claim-detection-and-extraction-dataset)
@@ -966,6 +969,9 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   **NAACL 2024**
 
 ### Misinformation and Disinformation
+* Evidence-Driven Retrieval Augmented Response Generation for Online Misinformation (Yue et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2403.14952)
+  **NAACL 2024**
 * Enhancing Society-Undermining Disinformation Detection through Fine-Grained Sentiment Analysis Pre-Finetuning (Pan et al., 2024)
   [[Paper]](https://aclanthology.org/2024.findings-eacl.92.pdf)
   **EACL 2024**
