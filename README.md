@@ -520,7 +520,7 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   **ACM MM 2017**
 
 ## Shared Tasks
-* AVERITEC Shared Task [[7th FEVER Workshop](https://fever.ai/task.html)]
+* AVeriTec Shared Task [[7th FEVER Workshop](https://fever.ai/task.html)]
 * The Fact Extraction and VERification (FEVER) Shared Task [[5th FEVER Workshop](https://fever.ai/)]
 * Statement Verification and Evidence Finding with Tables (SEM-TAB-FACT) [[Wang et al., 2021](https://competitions.codalab.org/competitions/27748)] 
 * SciFact Claim Verifiation [[Wadden et al., 2020](https://sdproc.org/2021/sharedtasks.html#sciver)]
