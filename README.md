@@ -169,188 +169,193 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   [[Paper]](https://openreview.net/forum?id=9OevMUdods)
   [[Dataset]](https://github.com/THU-BPM/Pinocchio)
   [[Code]](https://github.com/THU-BPM/Pinocchio)
-  **ICLR 2024**
+  ![](https://img.shields.io/badge/ICLR%202024-purple)
 * ESCNet: Entity-enhanced and Stance Checking Network for Multi-modal Fact-Checking (Zhang et al., 2024)
   [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3589334.3645455)
   [[Code]](https://github.com/zfr00/ESCNet)
-  **WWW 2024**
+  ![](https://img.shields.io/badge/WWW%202024-blue)
 * MCFEND: A Multi-source Benchmark Dataset for Chinese Fake News Detection (Li et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2403.09092)
   [[Dataset]](https://github.com/TrustworthyComp/mcfend)
-  **WWW 2024**
+  ![](https://img.shields.io/badge/WWW%202024-blue)
 * What Makes Medical Claims (Un)Verifiable? Analyzing Entity and Relation Properties for Fact Verification (Wührl et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2402.01360)
   [[Dataset]](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/bioclaim/)
-  **EACL 2024**
+  ![](https://img.shields.io/badge/EACL%202024-orange)
 * COVID-VTS: Fact Extraction and Verification on Short Video Platforms (Liu et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2302.07919.pdf) 
   [[Dataset]](https://github.com/FuxiaoLiu/Twitter-Video-dataset) 
   [[Code]](https://github.com/FuxiaoLiu/Twitter-Video-dataset) 
-  **EACL 2023**
+  ![](https://img.shields.io/badge/EACL%202023-orange)
 * End-to-End Multimodal Fact-Checking and Explanation Generation: A Challenging Dataset and Models (Yao et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2205.12487.pdf)
   [[Dataset]](https://github.com/VT-NLP/Mocheg)
-  **SIGIR 2023**
+  ![](https://img.shields.io/badge/SIGIR%202023-blue)
 * Modeling Information Change in Science Communication with Semantically Matched Paraphrases (Wright et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2210.13001.pdf) 
   [[Dataset]](https://huggingface.co/datasets/copenlu/spiced) 
   [[Code]](https://github.com/copenlu/scientific-information-change) 
-  **EMNLP 2022**
+  ![](https://img.shields.io/badge/EMNLP%202022-orange)
 * Generating Literal and Implied Subquestions to Fact-check Complex Claims (Chen et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2205.06938.pdf) 
   [[Dataset]](https://jifan-chen.github.io/ClaimDecomp/) 
-  **EMNLP 2022**
+  ![](https://img.shields.io/badge/EMNLP%202022-orange)
 * SciFact-Open: Towards open-domain scientific claim verification (Wadden et al., 2022)
   [[Paper]](https://aclanthology.org/2022.findings-emnlp.347/)
   [[Dataset]](https://github.com/dwadden/scifact-open)
-  **EMNLP 2022**
+  ![](https://img.shields.io/badge/EMNLP%202022-orange)
 * CHEF: A Pilot Chinese Dataset for Evidence-Based Fact-Checking (Hu et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2206.11863.pdf) 
   [[Dataset]](https://github.com/THU-BPM/CHEF) 
-  **NAACL 2022**
+  ![](https://img.shields.io/badge/NNACL%202022-orange)
 * WatClaimCheck: A new Dataset for Claim Entailment and Inference (Khan et al., 2022) 
   [[Paper]](https://aclanthology.org/2022.acl-long.92.pdf) 
   [[Dataset]](https://github.com/nxii/WatClaimCheck) 
-  **ACL 2022**
+  ![](https://img.shields.io/badge/ACL%202022-orange)
 * Open-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online Resources (Abdelnabi et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2112.00061.pdf)
   [[Dataset]](https://s-abdelnabi.github.io/OoC-multi-modal-fc/)
-  **CVPR 2022**
+  ![](https://img.shields.io/badge/CVPR%202022-red)
 * MMM: An Emotion and Novelty-aware Approach for Multilingual Multimodal Misinformation Detection (Gupta et al., 2022)
   [[Paper]](https://aclanthology.org/2022.findings-aacl.43.pdf) 
   [[Dataset]](https://www.iitp.ac.in/~ai-nlp-ml/resources.html#MMM_Dataset) 
-  **AACL 2022**
+  ![](https://img.shields.io/badge/AACL%202022-orange)
 * FactDrill: A Data Repository of Fact-Checked Social Media Content to Study Fake News Incidents in India (Singhal et al., 2022)
   [[Paper]](https://ojs.aaai.org/index.php/ICWSM/article/view/19384/19156) 
-  **ICWSM 2022**
+  ![](https://img.shields.io/badge/ICWSM%202022-blue)
 * Evidence-based Fact-Checking of Health-related Claims (Sarrouti et al., 2021)
   [[Paper]](https://aclanthology.org/2021.findings-emnlp.297.pdf)
   [[Dataset]](https://github.com/sarrouti/healthver)
-  **Findings EMNLP 2021**
+  ![](https://img.shields.io/badge/Findings@EMNLP%202021-orange)
 * COVID-Fact: Fact Extraction and Verification of Real-World Claims on COVID-19 Pandemic (Saakyan et al., 2021)
   [[Paper]](https://arxiv.org/pdf/2106.03794.pdf)
   [[Dataset]](https://github.com/asaakyan/covidfact)
-  **ACL 2021**
+  ![](https://img.shields.io/badge/ACL%202021-orange)
 * Edited Media Understanding Frames: Reasoning About the Intents and Implications of Visual Disinformation (Da et al., 2021)
   [[Paper]](https://aclanthology.org/2021.acl-long.158.pdf)
   [[Code]](https://jeffda.com/edited-media-understanding)
-  **ACL 2021**
+  ![](https://img.shields.io/badge/ACL%202021-orange)
 * Structurizing Misinformation Stories via Rationalizing Fact-Checks (Jiang et al., 2021)
   [[Paper]](https://aclanthology.org/2021.acl-long.51.pdf)
   [[Dataset]](https://shanjiang.me/resources/#fact-check)
-  **ACL 2021**
+  ![](https://img.shields.io/badge/ACL%202021-orange)
 * X-FACT: A New Benchmark Dataset for Multilingual Fact Checking (Gupta and Srikumar, 2021)
   [[Paper]](https://aclanthology.org/2021.acl-short.86.pdf)
   [[Dataset]](https://github.com/utahnlp/x-fact)
-  **ACL 2021**
+  ![](https://img.shields.io/badge/ACL%202021-orange)
 * LUX (Linguistic aspects Under eXamination): Discourse Analysis for Automatic Fake News Classification (Azevedo et al., 2021)
   [[Paper]](https://aclanthology.org/2021.findings-acl.4.pdf)
   [[Code]](https://github.com/lucas0/Lux)
-  **Findings ACL 2021**
+  ![](https://img.shields.io/badge/Findings@ACL%202021-orange)
 * Meet The Truth: Leverage Objective Facts and Subjective Views for Interpretable Rumor Detection (Li et al., 2021)
   [[Paper]](https://aclanthology.org/2021.findings-acl.63.pdf)
-  **Findings ACL 2021**
+  ![](https://img.shields.io/badge/Findings@ACL%202021-orange)
 * Explainable Automated Fact-Checking for Public Health Claims (Kotonya and Toni, 2020b)
   [[Paper]](https://aclanthology.org/2020.emnlp-main.623.pdf)
   [[Dataset]](https://github.com/neemakot/Health-Fact-Checking)
-  **EMNLP 2020**
+  ![](https://img.shields.io/badge/EMNLP%202020-orange)
 * Fact or Fiction: Verifying Scientific Claims (Wadden et al., 2020).
   [[Paper]](https://www.aclweb.org/anthology/2020.emnlp-main.609.pdf)
   [[Dataset]](https://github.com/allenai/scifact)
-  **EMNLP 2020**
+  ![](https://img.shields.io/badge/EMNLP%202020-orange)
 * AnswerFact: Fact Checking in Product Question Answering (Zhang et al., 2020)
   [[Paper]](https://aclanthology.org/2020.emnlp-main.188.pdf)
   [[Dataset]](https://drive.google.com/file/d/1JAmbLlV0b8Fm03VnNeVEXmROvj1po2lN/view)
-  **EMNLP 2020**
+  ![](https://img.shields.io/badge/EMNLP%202020-orange)
 * Explainable Automated Fact-Checking for Public Health Claims (Kotonya and Toni, 2020). 
   [[Paper]](https://arxiv.org/abs/2010.09926)
   [[Dataset]](https://github.com/neemakot/Health-Fact-Checking)
-  **EMNLP 2020**
+  ![](https://img.shields.io/badge/EMNLP%202020-orange)
 * r/Fakeddit: A New Multimodal Benchmark Dataset for Fine-grained Fake News Detection (Nakamura et al., 2020).
   [[Paper]](https://www.aclweb.org/anthology/2020.lrec-1.755.pdf)
   [[Dataset]](https://github.com/entitize/fakeddit)
-  **LREC 2020**
+  ![](https://img.shields.io/badge/LREC%202020-orange)
 * CLIMATE-FEVER: A Dataset for Verification of Real-World Climate Claims (Diggelmann et al., 2020)
   [[Paper]](https://arxiv.org/pdf/2012.00614.pdf)
   [[Dataset]](https://www.sustainablefinance.uzh.ch/en/research/climate-fever.html)
-  **Workshop @ NeurIPS 2020**
+  ![](https://img.shields.io/badge/TCCML@NeurIPS%202024-purple)
 * FakeCovid-- A Multilingual Cross-domain Fact Check News Dataset for COVID-19 (Shahi and Nandini, 2020). 
   [[Paper]](https://arxiv.org/pdf/2006.11343.pdf)
   [[Dataset]](https://gautamshahi.github.io/FakeCovid/)  
-  **ICWSM 2020**
+  ![](https://img.shields.io/badge/ICWSM%202020-blue)
 * FakeNewsNet: A Data Repository with News Content, Social Context and Spatialtemporal Information for Studying Fake News on Social Media (Shu et al., 2020).
   [[Paper]](https://arxiv.org/pdf/1809.01286.pdf)
   [[Dataset]](https://github.com/KaiDMML/FakeNewsNet)
-  **Big Data 2020**
+  ![](https://img.shields.io/badge/BigData%202020-blue)
 * A Richly Annotated Corpus for Different Tasks in Automated Fact-Checking (Hanselowski et al., 2019).
   [[Paper]](https://www.aclweb.org/anthology/K19-1046.pdf)
   [[Code]](https://github.com/UKPLab/conll2019-snopes-crawling)
   [[Dataset](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2081)]
-  **CoNLL 2019**
+  [](https://img.shields.io/badge/CoNLL%202019-orange)
 * MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims (Augenstein et al., 2019).
   [[Paper]](https://www.aclweb.org/anthology/D19-1475.pdf)
   [[Dataset]](https://competitions.codalab.org/competitions/21163)
-  **EMNLP 2019**
+  [](https://img.shields.io/badge/EMNLP%202019-orange)
 * Fact-Checking Meets Fauxtography: Verifying Claims About Images (Zlatkova et al., 2019)
   [[Paper]](https://aclanthology.org/D19-1216.pdf)
   [[Dataset]](https://gitlab.com/didizlatkova/fake-image-detection)
-  **EMNLP 2019**
+  [](https://img.shields.io/badge/EMNLP%202019-orange)
 * FA-KES: A Fake News Dataset around the Syrian War (Salem et al., 2019)
   [[Paper]](https://ojs.aaai.org/index.php/ICWSM/article/view/3254/3122)
   [[Dataset]](https://github.com/fakenewssyria/fake_news_detection)
-  **ICWSM 2019**
+  ![](https://img.shields.io/badge/ICWSM%202019-blue)
 * Fact Checking in Community Forums (Mihaylova et al., 2018)
   [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16780/16082)
   [[Dataset]](https://github.com/qcri/QLFactChecking)
-  **AAAI 2018**
+  ![](https://img.shields.io/badge/AAAI%202018-purple)
 * EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection
   [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3219819.3219903)
   [[Dataset]](https://github.com/yaqingwang/EANN-KDD18)
-  **KDD 2018**
+  ![](https://img.shields.io/badge/KDD%202018-blue)
 * Overview of the CLEF-2018 CheckThat! Lab on Automatic Identification and Verification of Political Claims. Task 2: Factuality  (Barrón-Cedeño et al., 2018)
   [[Paper]](http://ceur-ws.org/Vol-2125/invited_paper_14.pdf)
   [[Dataset]](https://github.com/clef2018-factchecking/clef2018-factchecking/#subtasks)
 * Integrating Stance Detection and Fact Checking in a Unified Corpus (Baly et al., 2018).
   [[Paper]](https://www.aclweb.org/anthology/N18-2004.pdf)
   [[Dataset]](https://alt.qcri.org/resources/arabic-fact-checking-and-stance-detection-corpus/)
-* A News Veracity Dataset with Facebook User Commentary and Egos (Santia and Williams, 2018)
-  [[Paper]](https://aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17825/17046)]
-  [[Dataset]](https://github.com/gsantia/BuzzFace)
-  **ICWSM 2018**
+  [](https://img.shields.io/badge/NAACL%202018-orange)
 * A Stylometric Inquiry into Hyperpartisan and Fake News (Potthast et al., 2018)
   [[Paper]](https://aclanthology.org/P18-1022.pdf)
   [[Dataset]](https://github.com/webis-de/ACL-18)
+  [](https://img.shields.io/badge/ACL%202018-orange)
+* A News Veracity Dataset with Facebook User Commentary and Egos (Santia and Williams, 2018)
+  [[Paper]](https://aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17825/17046)]
+  [[Dataset]](https://github.com/gsantia/BuzzFace)
+  ![](https://img.shields.io/badge/ICWSM%202018-blue)
 * Sampling the News Producers: A Large News and Feature Data Set for the Study of the Complex Media Landscape (Horne et al., 2018)
   [[Paper]](https://aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17796/17044)
   [[Dataset]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZCXSKG)
+  ![](https://img.shields.io/badge/ICWSM%202018-blue)
 * Truth of Varying Shades: Analyzing Language in Fake News and Political Fact-Checking (Rashkin et al., 2017).
   [[Paper]](https://www.aclweb.org/anthology/D17-1317.pdf)
   [[Dataset]](https://hrashkin.github.io/factcheck.html)
-  **EMNLP 2017**
+  ![](https://img.shields.io/badge/EMNLP%202017-orange)
 * “Liar, Liar Pants on Fire”: A New Benchmark Dataset for Fake News Detection (Wang, 2017).
   [[Paper]](https://www.aclweb.org/anthology/P17-2067.pdf)
   [[Dataset]](https://sites.cs.ucsb.edu/~william/software.html)
-  **ACL 2017**
+  ![](https://img.shields.io/badge/ACL%202017-orange)
 * Credibility Assessment of Textual Claims on the Web (Popat et al., 2016)
   [[Paper]](http://resources.mpi-inf.mpg.de/impact/web_credibility_analysis/cikm2016-popat.pdf)
   [[Dataset]](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/impact/web-credibility-analysis)
+  ![](https://img.shields.io/badge/CIKM%202016-blue)
 * Emergent: a novel data-set for stance classification (Ferreira and Vlachos, 2016)
   [[Paper]](https://aclanthology.org/N16-1138.pdf)
   [[Dataset]](https://github.com/willferreira/mscproject)
-  **NAACL 2016**
+  ![](https://img.shields.io/badge/NAACL%202016-orange)
 * Fake News or Truth? Using Satirical Cues to Detect Potentially Misleading News (Rubin et al., 2016)
   [[Paper]](https://aclanthology.org/W16-0802.pdf) 
-  **Workshop @ 2016**
+  ![](https://img.shields.io/badge/CADD@ACL%202016-orange)
 * Identification and Verification of Simple Claims about Statistical Properties (Vlachos and Riedel, 2015)
   [[Paper]](https://aclanthology.org/D15-1312.pdf)
   [[Dataset]](https://github.com/uclnlp/simpleNumericalFactChecker)
-  **EMNLP 2015**
+  ![](https://img.shields.io/badge/EMNLP%202015-orange)
 * Fact Checking: Task definition and dataset construction (Vlachos and Riedel, 2014)
   [[Paper]](https://aclanthology.org/W14-2508.pdf)
   [[Dataset]](https://www.dropbox.com/s/uvwbpjytogqnm68/FactChecking_LTCSS2014_release.ods?dl=0)
-  **Workshop @ ACL 2014**
+  ![](https://img.shields.io/badge/LTCSS@ACL%202014-orange)
 * Verification and Implementation of Language-Based Deception Indicators in Civil and Criminal Narratives (Bachenko et al., 2008)
   [[Paper]](https://aclanthology.org/C08-1006.pdf)
+  ![](https://img.shields.io/badge/COLING%202008-orange)
 
 
 ##### Artificial Claims
