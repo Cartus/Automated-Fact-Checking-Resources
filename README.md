@@ -956,13 +956,13 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 * Explainable Fake News Detection With Large Language Model via Defense Among Competing Wisdom (Wang et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2405.03371)
   [[Code]](https://github.com/wangbo9719/L-Defense_EFND)
-  ![](https://img.shields.io/badge/WWW%202024-orange)
+  ![](https://img.shields.io/badge/WWW%202024-blue)
 * “Why is this misleading?”: Detecting News Headline Hallucinations with Explanations (Shen et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2212.01060.pdf)]
   ![](https://img.shields.io/badge/AAAI%202023-orange)
 * Exploring Faithful Rationale for Multi-hop Fact Verification via Salience-Aware Graph Learning (Si et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2212.01060.pdf)]
-  ![](https://img.shields.io/badge/AAAI%202023-orange)
+  ![](https://img.shields.io/badge/AAAI%202023-purple)
 * Explainable Automated Fact-Checking for Public Health Claims (Kotonya and Toni, 2020). 
   [[Paper]](https://arxiv.org/abs/2010.09926)]
   [[Code]](https://github.com/neemakot/Health-Fact-Checking)
@@ -981,17 +981,17 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 * ExFaKT: A Framework for Explaining Facts over Knowledge Graphs and Text (Gad-Elrab et al., 2019)
   [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3289600.3290996)
   [[Code]](https://www.mpi-inf.mpg.de/impact/exfakt)
-  ![](https://img.shields.io/badge/WSDM%202019-orange)
+  ![](https://img.shields.io/badge/WSDM%202019-blue)
 * dEFEND: Explainable Fake News Detection (Shu et al., 2019).
   [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3292500.3330935)
-  ![](https://img.shields.io/badge/KDD%202019-orange)
+  ![](https://img.shields.io/badge/KDD%202019-blue)
 * Explainable Fact Checking with Probabilistic Answer Set Programming
   [[Paper]](https://arxiv.org/abs/1906.09198)
   [[Code]](https://github.com/ppapotti/expclaim)
 * Where is your Evidence: Improving Fact-checking by Justification Modeling (Alhindi et al., 2018).
   [[Paper]](https://www.aclweb.org/anthology/W18-5513.pdf)
   [[Code]](https://github.com/Tariq60/LIAR-PLUS)]
-  ![](https://img.shields.io/badge/FEVER@EMNLP%202018-blue)
+  ![](https://img.shields.io/badge/FEVER@EMNLP%202018-orange)
 * DeClarE: Debunking Fake News and False Claims using Evidence-Aware Deep Learning (Popat et al., 2018).
   [[Paper]](https://aclanthology.org/D18-1003.pdf)
   ![](https://img.shields.io/badge/EMNLP%202019-orange)
@@ -1018,7 +1018,7 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 ### Misinformation and Disinformation
 * The Dynamics of (Not) Unfollowing Misinformation Spreaders (Ashkinaze et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2401.13480)
-  ![](https://img.shields.io/badge/WWW%202024-orange)
+  ![](https://img.shields.io/badge/WWW%202024-blue)
 * Evidence-Driven Retrieval Augmented Response Generation for Online Misinformation (Yue et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2403.14952)
   ![](https://img.shields.io/badge/NAACL%202024-orange)
@@ -1033,10 +1033,10 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   [[Paper]](https://arxiv.org/pdf/2303.06433.pdf)
   [[Dataset]](https://github.com/claws-lab/MisinfoCorrect)
   [[Code]](https://github.com/claws-lab/MisinfoCorrect)
-  ![](https://img.shields.io/badge/WWW%202023-orange)
+  ![](https://img.shields.io/badge/WWW%202023-blue)
 * Who Funds Misinformation? A Systematic Analysis of the Ad-related Profit Routines of Fake News sites (Papadogiannakis et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2202.05079.pdf)
-  ![](https://img.shields.io/badge/WWW%202023-orange)
+  ![](https://img.shields.io/badge/WWW%202023-blue)
 * A Survey on Multimodal Disinformation Detection (Alam et al., 2021) 
   [[Paper]](https://arxiv.org/pdf/2103.12541.pdf)
 * Misinformation, Disinformation, and Online Propaganda (Guess and Lyons, 2020)
