@@ -357,89 +357,94 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 * CFEVER: A Chinese Fact Extraction and VERification Dataset (Lin et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2402.13025)
   [[Dataset]](https://ikmlab.github.io/CFEVER/)
-  **AAAI 2024**
+  ![](https://img.shields.io/badge/AAAI%202024-purple)
 * FACTKG: Fact Verification via Reasoning on Knowledge Graphs (Kim et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2305.06590.pdf)
   [[Code]](https://github.com/jiho283/FactKG)
   [[Dataset]](https://drive.google.com/drive/folders/1q0_MqBeGAp5_cBJCBf_1alYaYm14OeTk?usp=share_link)
-  **ACL 2023**
+  ![](https://img.shields.io/badge/ACL%202023-orange)
 * Faking Fake News for Real Fake News Detection: Propaganda-loaded Training Data Generation  (Huang et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2203.05386.pdf)
   [[Code]](https://github.com/khuangaf/FakingFakeNews)
   [[Dataset]](https://github.com/khuangaf/FakingFakeNews)
-  **ACL 2023**
+  ![](https://img.shields.io/badge/ACL%202023-orange)
 * FACTIFY-5WQA: 5W Aspect-based Fact Verification through Question Answering (Rani et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2305.04329.pdf)
-  **ACL 2023**
+  ![](https://img.shields.io/badge/ACL%202023-orange)
 * Reading and Reasoning over Chart Images for Evidence-based Automated Fact-Checking (Akhtar et al., 2023)
   [[Paper]](https://aclanthology.org/2023.findings-eacl.30.pdf)
   [[Dataset]](https://github.com/mubasharaak/ChartFC_chartBERT)
-  **EACL 2023**
+  ![](https://img.shields.io/badge/EACL%202023-orange)
 * Misinfo Reaction Frames: Reasoning about Readers’ Reactions to News Headlines (Gabriel et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2104.08790.pdf)
   [[Dataset]](https://github.com/skgabriel/mrf-modeling)
-  **ACL 2022**
+  ![](https://img.shields.io/badge/ACL%202022-orange)
 * DialFact: A Benchmark for Fact-Checking in Dialogue (Gupta et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2110.08222.pdf)
   [[Dataset]](https://github.com/salesforce/DialFact)
-  **ACL 2022**
+  ![](https://img.shields.io/badge/ACL%202022-orange)
 * FAVIQ: FAct Verification from Information-seeking Questions (Park et al., 2022)
   [[Paper]](https://arxiv.org/abs/2106.05707)
   [[Dataset]](https://faviq.github.io/)
-  **ACL 2022**
+  ![](https://img.shields.io/badge/ACL%202022-orange)
 * FEVEROUS: Fact Extraction and VERification Over Unstructured and Structured information (Aly et al., 2021)  
   [[Paper]](https://arxiv.org/abs/2106.05707)
   [[Dataset]](https://fever.ai/resources.html)
   [[Code]](https://github.com/Raldir/FEVEROUS)
-  **NeurIPS 2021**
+  ![](https://img.shields.io/badge/NeurIPS%202021-purple)
 * Statement Verification and Evidence Finding with Tables (SEM-TAB-FACT) (Wang et al., 2021)
   [[Dataset]](https://competitions.codalab.org/competitions/27748)
 * Get Your Vitamin C! Robust Fact Verification with Contrastive Evidence (Schuster et al., 2021)
   [[Paper]](https://aclanthology.org/2021.naacl-main.52.pdf)
   [[Dataset]](https://github.com/TalSchuster/VitaminC)
-  **NAACL 2021**
+  ![](https://img.shields.io/badge/NAACL%202021-orange)
 * ParsFEVER: a Dataset for Farsi Fact Extraction and Verification (Zarharan et al., 2021)
   [[Paper]](https://aclanthology.org/2021.starsem-1.9.pdf)
   [[Dataset]](https://github.com/Zarharan/ParsFEVER)
 * DanFEVER: claim verification dataset for Danish (Nørregaard and Derczynski, 2021)
   [[Paper]](https://aclanthology.org/2021.nodalida-main.47.pdf)
   [[Dataset]](https://figshare.com/articles/dataset/DanFEVER_claim_verification_dataset_for_Danish/14380970)]
-  **NoDaLiDa 2021**
 * HoVer: A Dataset for Many-Hop Fact Extraction And Claim Verification (Jiang et al., 2020)
   [[Paper]](https://aclanthology.org/2020.findings-emnlp.309.pdf)
   [[Dataset]](https://hover-nlp.github.io/)
-  **Findings EMNLP 2020**
+  ![](https://img.shields.io/badge/Findings@EMNLP%202020-orange)
 * INFOTABS: Inference on Tables as Semi-structured Data (Gupta et al., 2020)
   [[Paper]](https://aclanthology.org/2020.acl-main.210.pdf)
   [[Dataset]](https://aclanthology.org/attachments/2020.acl-main.210.Dataset.zip)
-  **ACL 2020**
+  ![](https://img.shields.io/badge/ACL%202020-orange)
 * TabFact: A Large-scale Dataset for Table-based Fact Verification (Chen et al., 2020)
   [[Paper]](https://openreview.net/pdf?id=rkeJRhNYDH)
   [[Dataset]](https://github.com/wenhuchen/Table-Fact-Checking)
-  **ICLR 2020**
+  ![](https://img.shields.io/badge/ICLR%202020-purple)
 * Unsupervised Fact Checking by Counter-Weighted Positive and Negative Evidential Paths in A Knowledge Graph (Kim and Choi, 2020)
   [[Paper]](https://aclanthology.org/2020.coling-main.147.pdf)
-  **COLING 2020**
+  ![](https://img.shields.io/badge/COLING%202020-orange)
 * Stance Prediction and Claim Verification: An Arabic Perspective (Khouja, 2020)
   [[Paper]](https://aclanthology.org/2020.fever-1.2.pdf)
   [[Dataset]](https://github.com/latynt/ans)
+  ![](https://img.shields.io/badge/FEVER@ACL%202020-orange)
 * Automated Fact-Checking of Claims from Wikipedia (Sathe et al., 2020).
   [[Paper]](https://www.aclweb.org/anthology/2020.lrec-1.849.pdf)
   [[Dataset]](https://github.com/wikifactcheck-english/wikifactcheck-english)
+  ![](https://img.shields.io/badge/LREC%202020-orange)
 * FEVER: a Large-scale Dataset for Fact Extraction and VERification (Thorne et al., 2018).
   [[Paper]](https://www.aclweb.org/anthology/N18-1074.pdf)
   [[Dataset]](https://fever.ai/resources.html)]
-  **NAACL 2018**
+  ![](https://img.shields.io/badge/NAACL%202018-orange)
 * Automatic Detection of Fake News (Pérez-Rosas et al., 2018)
   [[Paper]](https://aclanthology.org/C18-1287.pdf)
   [[Dataset]](https://lit.eecs.umich.edu/downloads.html#undefined)]
+  ![](https://img.shields.io/badge/COLING%202018-orange)
 * The Lie Detector: Explorations in the Automatic Recognition of Deceptive Language (Mihalcea and Strapparava, 2009)
   [[Paper]](https://aclanthology.org/P09-2078.pdf)
+  ![](https://img.shields.io/badge/ACL%202009-orange)
 * Finding Streams in Knowledge Graphs to Support Fact Checking (Shiralkar et al., 2017)
   [[Paper]](https://arxiv.org/pdf/1708.07239.pdf)
   [[Dataset]](https://github.com/shiralkarprashant/knowledgestream)
+  ![](https://img.shields.io/badge/ICDM%202017-blue)
 * Discriminative predicate path mining for fact checking in knowledge graphs (Shi and Weninger, 2016)
   [[Paper]](https://arxiv.org/abs/1510.05911)
+  ![](https://img.shields.io/badge/KBS%202016-blue)
 * Computational fact checking from knowledge networks (Ciampaglia et al., 2015)
   [[Paper]](https://arxiv.org/pdf/1501.03471.pdf)
 
@@ -476,6 +481,7 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   ![](https://img.shields.io/badge/ACMMM%202020-red)
 * FoR: A Dataset for Synthetic Speech Detection (Reimao et al., 2019)
   [[Paper]](https://bil.eecs.yorku.ca/wp-content/uploads/2020/01/FoR-Dataset_RR_VT_final.pdf)
+  ![](https://img.shields.io/badge/SpeD%202019-green)
 * Phonespoof: A New Dataset for Spoofing Attack Detection in Telephone Channel (Lavrentyeva et al., 2019)
   [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682942)
   ![](https://img.shields.io/badge/ICASSP%202019-green)
