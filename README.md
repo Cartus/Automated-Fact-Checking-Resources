@@ -557,12 +557,21 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 ## Models
 
 ### Claim Detection and Extraction
+* Heterogeneous Subgraph Transformer for Fake News Detection (Zhang et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2404.13192)
+  ![](https://img.shields.io/badge/WWW%202024-blue)
 * Semantic Evolvement Enhanced Graph Autoencoder for Rumor Detection (Tao et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2404.16076)
   ![](https://img.shields.io/badge/WWW%202024-blue)
 * T<sup>3</sup>RD: Test-Time Training for Rumor Detection on Social Media (Zhang et al., 2024)
   [[Paper]](https://dl.acm.org/doi/10.1145/3589334.3645443)
   [[Code]](https://github.com/social-rumors/T3RD)
+  ![](https://img.shields.io/badge/WWW%202024-blue)
+* Dual Graph Networks with Synthetic Oversampling for Imbalanced Rumor Detection on Social Media (Lu et al., 2024)
+  [[Paper]](https://dl.acm.org/doi/10.1145/3589335.3651494)
+  ![](https://img.shields.io/badge/WWW%202024-blue)
+* Rumor Mitigation in Social Networks with Deep Reinforcement Learning (Su et al., 2024)
+  [[Paper]](https://arxiv.org/abs/2403.09217)
   ![](https://img.shields.io/badge/WWW%202024-blue)
 * Adapting Fake News Detection to the Era of Large Language Models (Su et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2311.04917)
@@ -729,8 +738,15 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 
 ### Verdict Prediction
 #### Veractiy Classification
+* From Creation to Clarification: ChatGPT's Journey Through the Fake News Quagmire (Huang et al., 2024)
+  [[Paper]](https://dl.acm.org/doi/10.1145/3589335.3651509)
+  ![](https://img.shields.io/badge/WWW%202024-blue)
 * MSynFD: Multi-hop Syntax aware Fake News Detection (Liang et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2402.14834)
+  ![](https://img.shields.io/badge/WWW%202024-blue)
+* Fighting against Fake News on Newly-Emerging Crisis: A Case Study of COVID-19 (Yang et al., 2024)
+  [[Paper]](https://dl.acm.org/doi/10.1145/3589335.3651506)
+  [[Code]](https://github.com/DSAIL-SKKU/Fighting_Against_FakeNews_on_Emerging_Crisis-WWW24)
   ![](https://img.shields.io/badge/WWW%202024-blue)
 * Self-Checker: Plug-and-Play Modules for Fact-Checking with Large Language Models ()
   [[Paper]](https://arxiv.org/pdf/2305.14623)
@@ -1030,6 +1046,13 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 ## Related Tasks
 
 ### Detecting LLM Generated Text
+* GPT-generated Text Detection: Benchmark Dataset and Tensor-based Detection Method (Qazi et al., 2024)
+  [[Paper]](https://arxiv.org/abs/2403.07321)
+  ![](https://img.shields.io/badge/WWW%202024-blue)
+* Detecting Generated Native Ads in Conversational Search (Schmidt et al., 2024)
+  [[Paper]](https://arxiv.org/abs/2402.04889)
+  [[Code]](https://github.com/webis-de/WWW-24)
+  ![](https://img.shields.io/badge/WWW%202024-blue)
 * BUST: Benchmark for the evaluation of detectors of LLM-Generated Text (Cornelius et al., 2024)
   [[Paper]](https://aclanthology.org/2024.naacl-long.444.pdf)
   [[Dataset]](https://github.com/IDSIA-NLP/BUST)
