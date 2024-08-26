@@ -171,7 +171,7 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   [[Paper]](https://arxiv.org/pdf/2305.13117)
   [[Dataset]](https://github.com/MichSchli/AVeriTeC)
   [[Shared Task]](https://fever.ai/task.html)
-  ![](https://img.shields.io/badge/ICLR%202024-purple)
+  ![](https://img.shields.io/badge/NeurIPS%202023-purple)
 * Do Large Language Models Know about Facts? (Xu et al., 2024)
   [[Paper]](https://openreview.net/forum?id=9OevMUdods)
   [[Dataset]](https://github.com/THU-BPM/Pinocchio)
