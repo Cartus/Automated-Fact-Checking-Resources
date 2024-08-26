@@ -547,168 +547,172 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 ### Claim Detection and Extraction
 * Semantic Evolvement Enhanced Graph Autoencoder for Rumor Detection (Tao et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2404.16076)
-  **WWW 2024**
+  ![](https://img.shields.io/badge/WWW%202024-blue)
 * T$^3$RD: Test-Time Training for Rumor Detection on Social Media (Zhang et al., 2024)
   [[Paper]](https://dl.acm.org/doi/10.1145/3589334.3645443)
   [[Code]](https://github.com/social-rumors/T3RD)
-  **WWW 2024**
+  ![](https://img.shields.io/badge/WWW%202024-blue)
 * Adapting Fake News Detection to the Era of Large Language Models (Su et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2311.04917)
   [[Code]](https://github.com/mbzuai-nlp/Fakenews-dataset)
-  **NAACL 2024**
+  ![](https://img.shields.io/badge/NAACL%202024-orange)
 * An Interactive Framework for Profiling News Media Sources (Mehta et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2309.07384)
   [[Code]](https://github.com/hockeybro12/Interactive_News_Media_Profiling)
-  **NAACL 2024**
+  ![](https://img.shields.io/badge/NAACL%202024-orange)
 * CMA-R:Causal Mediation Analysis for Explaining Rumour Detection (Tian et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2402.08155)
   [[Code]](https://github.com/ltian678/cma-r)
-  **EACL 2024**
+  ![](https://img.shields.io/badge/EACL%202024-orange)
 * Style-News: Incorporating Stylized News Generation and Adversarial Verification for Neural Fake News Detection (Wang et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2401.15509)
-  **EACL 2024**
+  ![](https://img.shields.io/badge/EACL%202024-orange)
 * Reinforced Adaptive Knowledge Learning for Multimodal Fake News Detection (Zhang et al., 2024)
   [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29618)
-  **AAAI 2024**
+  ![](https://img.shields.io/badge/AAAI%202024-purple)
 * Unveiling Implicit Deceptive Patterns in Multi-Modal Fake News via Neuro-Symbolic Reasoning (Dong et al., 2024)
   [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28677)
   [[Code]](https://github.com/hedongxiao-tju/NSLM)
-  **AAAI 2024**
+  ![](https://img.shields.io/badge/AAAI%202024-purple)
 * Propagation Tree Is Not Deep: Adaptive Graph Contrastive Learning Approach for Rumor Detection (Cui et al., 2024)
   [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/27757)
-  **AAAI 2024**
+  ![](https://img.shields.io/badge/AAAI%202024-purple)
 * Frequency Spectrum is More Effective for Multimodal Representation and Fusion: A Multimodal Spectrum Rumor Detector (Lao et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2312.11023)
   [[Code]](https://github.com/dm4m/FSRU)
-  **AAAI 2024**
+  ![](https://img.shields.io/badge/AAAI%202024-purple)
 * GAMC: An Unsupervised Method for Fake News Detection using Graph Autoencoder with Masking (Yin et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2312.05739)
-  **AAAI 2024**
+  ![](https://img.shields.io/badge/AAAI%202024-purple)
 * Harnessing Network Effect for Fake News Mitigation: Selecting Debunkers via Self-Imitation Learning (Xu et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2402.03357)
   [[Code]](https://github.com/xxfwin/NAGASIL)
-  **AAAI 2024**
+  ![](https://img.shields.io/badge/AAAI%202024-purple)
 * Bad Actor, Good Advisor: Exploring the Role of Large Language Models in Fake News Detection (Hu et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2309.12247)
   [[Code]](https://github.com/ICTMCG/ARG)
-  **AAAI 2024**
+  ![](https://img.shields.io/badge/AAAI%202024-purple)
 * Interpretable Multimodal Misinformation Detection with Logic Reasoning (Liu et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2305.05964.pdf)
   [[Code]](https://github.com/less-and-less-bugs/LogicMD)
-  **ACL 2023**
+  ![](https://img.shields.io/badge/ACL%202023-orange)
 * Two Heads Are Better Than One: Improving Fake News Video Detection by Correlating with Neighbors (Qi et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2306.05241.pdf)
   [[Code]](https://github.com/ICTMCG/NEED)
-  **ACL 2023**
+  ![](https://img.shields.io/badge/ACL%202023-orange)
 * Learn over Past, Evolve for Future: Forecasting Temporal Trends for Fake News Detection (Hu et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2306.14728.pdf)
   [[Code]](https://github.com/ICTMCG/FTT-ACL23)
-  **ACL 2023**
+  ![](https://img.shields.io/badge/ACL%202023-orange)
 * Causal Intervention and Counterfactual Reasoning for Multi-modal Fake News Detection (Chen et al., 2023)
   [[Paper]](https://aclanthology.org/2023.acl-long.37.pdf)
-  **ACL 2023**
+  ![](https://img.shields.io/badge/ACL%202023-orange)
 * MetaAdapt: Domain Adaptive Few-Shot Misinformation Detection via Meta Learning (Yue et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2305.12692.pdf)
   [[Code]](https://github.com/Yueeeeeeee/MetaAdapt)
-  **ACL 2023**
+  ![](https://img.shields.io/badge/ACL%202023-orange)
 * Zero-Shot Rumor Detection with Propagation Structure via Prompt Learning (Lin et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2212.01117.pdf)
-  **AAAI 2023**
+  ![](https://img.shields.io/badge/AAAI%202023-purple)
 * Unsupervised Cross-Domain Rumor Detection with Contrastive Learning and Cross-Attention (Ran et al., 2023)
  [[Paper]](https://arxiv.org/pdf/2303.11945.pdf)
-  **AAAI 2023**
+  ![](https://img.shields.io/badge/AAAI%202023-purple)
 * Zoom Out and Observe: News Environment Perception for Fake News Detection (Sheng et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2203.10885.pdf)
   [[Code]](https://github.com/ICTMCG/News-Environment-Perception/)
-  **ACL 2022**
+  ![](https://img.shields.io/badge/ACL%202022-orange)
 * DDGCN: Dual Dynamic Graph Convolutional Networks for Rumor Detection on Social Media (Sun et al., 2022)
   [[Paper]](https://www.aaai.org/AAAI22Papers/AAAI-6370.SunM.pdf)
-  **AAAI 2022**
+  ![](https://img.shields.io/badge/AAAI%202022-purple)
 * Rumor Detection on Twitter with Claim-Guided Hierarchical Graph Attention Networks (Lin et al., 2021)
   [[Paper]](https://aclanthology.org/2021.emnlp-main.786.pdf)
-  **EMNLP 2021**
+  ![](https://img.shields.io/badge/EMNLP%202021-orange)
 * STANKER: Stacking Network based on Level-grained Attention-masked BERT for Rumor Detection on Social Media (Rao et al., 2021)
   [[Paper]](https://aclanthology.org/2021.emnlp-main.269.pdf)
   [[Code]](https://github.com/fip-lab/STANKER)
-  **EMNLP 2021**
+   ![](https://img.shields.io/badge/EMNLP%202021-orange)
 * Inconsistency Matters: A Knowledge-guided Dual-inconsistency Network for Multi-modal Rumor Detection (Sun et al., 2021)
   [[Paper]](https://aclanthology.org/2021.findings-emnlp.122.pdf)
   [[Code]](https://github.com/MengzSun/dual-inconsistency-rumor-detection-network)
-  **Findings EMNLP 2021**
+   ![](https://img.shields.io/badge/Findings@EMNLP%202021-orange)
 * Active Learning for Rumor Identification on Social Media (Farinneya et al., 2021)
   [[Paper]](https://aclanthology.org/2021.findings-emnlp.387.pdf)
-  **Findings EMNLP 2021**
+   ![](https://img.shields.io/badge/Findings@EMNLP%202021-orange)
 * Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection (Wei et al., 2021)
   [[Paper]](https://aclanthology.org/2021.acl-long.297.pdf)
   [[Code]](https://github.com/weilingwei96/EBGCN)
-  **ACL 2021**
+  ![](https://img.shields.io/badge/ACL%202021-orange)
 * Adversary-Aware Rumor Detection (Song et al., 2021)
   [[Paper]](https://aclanthology.org/2021.findings-acl.118.pdf)
   [[Code]](https://github.com/yunzhusong/AARD)
-  **Findings ACL 2021**
+  ![](https://img.shields.io/badge/Findings@ACL%202021-orange)
 * Learning Disentangled Latent Topics for Twitter Rumour Veracity Classification (Dougrez-Lewis et al., 2021)
   [[Paper]](https://aclanthology.org/2021.findings-acl.341.pdf)
   [[Code]](https://github.com/JohnNLP/SAVED)
-  **Findings ACL 2021**
+  ![](https://img.shields.io/badge/Findings@ACL%202021-orange)
 * Mining Dual Emotion for Fake News Detection (Zhang et al., 2021).
   [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3442381.3450004)
   [[Code]](https://github.com/RMSnow/WWW2021)
-  **WWW 2021**
+  ![](https://img.shields.io/badge/WWW%202021-blue)
 * Claim Check-Worthiness Detection as Positive Unlabelled Learning (Wright and Augenstein, 2021)
   [[Paper]](https://aclanthology.org/2020.findings-emnlp.43.pdf)
   [[Code]](https://github.com/copenlu/check-worthiness-pu-learning)
-  **Findings EMNLP 2020**
+  ![](https://img.shields.io/badge/Findings@EMNLP%202020-orange)
 * Exploiting Microblog Conversation Structures to Detect Rumors (Li et al., 2020).
   [[Paper]](https://aclanthology.org/2020.coling-main.473.pdf)
-  **COLING 2020**
+  ![](https://img.shields.io/badge/COLING%202018-orange)
 * Debunking Rumors on Twitter with Tree Transformer (Ma et al., 2020)
   [[Paper]](https://aclanthology.org/2020.coling-main.476.pdf)
-  **COLING 2020**
+  ![](https://img.shields.io/badge/COLING%202018-orange)
 * VRoC: Variational Autoencoder-aided Multi-task Rumor Classifier Based on Text (Cheng et al., 2020)
   [[Paper]](https://arxiv.org/pdf/2102.00816.pdf)
   [[Code]](https://github.com/cmxxx/VRoC)
-  **WWW 2020**
+  ![](https://img.shields.io/badge/WWW%202020-blue)
 * Rumor Detection on Social Media with Graph Structured Adversarial Learning (Yang et al., 2020)
   [[Paper]](https://www.ijcai.org/proceedings/2020/0197.pdf)
-  **IJCAI 2020**
+  ![](https://img.shields.io/badge/IJCAI%202020-purple)
 * Interpretable Rumor Detection in Microblogs by Attending to User Interactions (Khoo et al., 2020)
   [[Paper]](https://arxiv.org/pdf/2001.10667.pdf)
   [[Code]](https://github.com/serenaklm/rumor_detection)
+  ![](https://img.shields.io/badge/AAAI%202020-purple)
 * Rumor Detection on Social Media with Bi-Directional Graph Convolutional Networks (Bian et al., 2020)
   [[Paper]](https://arxiv.org/pdf/2001.06362.pdf)
   [[Code]](https://github.com/TianBian95/BiGCN)
-  **AAAI 2020**
+  ![](https://img.shields.io/badge/AAAI%202020-purple)
 * Fake News Early Detection: A Theory-driven Model (Zhou et al., 2020).
   [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3377478)
-  **AAAI 2020**
+  ![](https://img.shields.io/badge/AAAI%202020-purple)
 * MVAE: Multimodal Variational Autoencoder for Fake News Detection (Khattar et al., 2019).
   [[Paper]](https://dl.acm.org/doi/10.1145/3308558.3313552)
   [[Code]](https://github.com/dhruvkhattar/MVAE)
-  **WWW 2019**
+  ![](https://img.shields.io/badge/WWW%202019-blue)
 * Fake News Detection on Social Media using Geometric Deep Learning (Monti et al., 2019).
   [[Paper]](https://arxiv.org/pdf/1902.06673.pdf)
 * Rumor Detection on Twitter with Tree-structured Recursive Neural Networks (Ma et al., 2018).
   [[Paper]](https://aclanthology.org/P18-1184.pdf)
   [[Code]](https://github.com/majingCUHK/Rumor_RvNN)
-  **ACL 2018**
+  ![](https://img.shields.io/badge/ACL%202018-orange)
 * Rumor Detection with Hierarchical Social Attention Network (Guo et al., 2018).
   [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3269206.3271709)
-  **CIKM 2018**
+  ![](https://img.shields.io/badge/CIKM%202017-blue)
 * A Hybrid Recognition System for Check-worthy Claims Using Heuristics and Supervised Learning (Zuo et al., 2018).
   [[Paper]](http://ceur-ws.org/Vol-2125/paper_143.pdf)
 * Simple Open Stance Classification for Rumour Analysis (Aker et al., 2017).
   [[Paper]](https://www.acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP005.pdf)
-  **RANLP 2017**
+  ![](https://img.shields.io/badge/RANLP%202017-orange)
 * NileTMRG at SemEval-2017 Task 8: Determining Rumour and Veracity Support for Rumours on Twitter (Enayet and El-Beltagy, 2017).
   [[Paper]](https://aclanthology.org/S17-2082.pdf)
+  ![](https://img.shields.io/badge/SemEval@ACL%202017-orange)
 * Turing at SemEval-2017 Task 8: Sequential Approach to Rumour Stance Classification with Branch-LSTM (Kochkina et al., 2017).
   [[Paper]](https://aclanthology.org/S17-2083.pdf)
+  ![](https://img.shields.io/badge/SemEval@ACL%202017-orange)
 * Automatically Identifying Fake News in Popular Twitter Threads (Buntain and Golbeck, 2017).
   [[Paper]](https://ieeexplore.ieee.org/document/8118443)
+  ![](https://img.shields.io/badge/SmartCloud%202017-blue)
 * Detecting Rumors from Microblogs with Recurrent Neural Networks (Ma et al., 2016).
   [[Paper]](https://www.ijcai.org/Proceedings/16/Papers/537.pdf)
   [[Dataset]](https://www.dropbox.com/s/46r50ctrfa0ur1o/rumdect.zip?dl=0)
-  **IJCAI 2016**
+  ![](https://img.shields.io/badge/IJCAI%202016-purple)
 
 
 ### Verdict Prediction
