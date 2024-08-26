@@ -6,6 +6,7 @@
 
 
 ### Updates: 
+- 2024.8: Added papers from WWW, IJCAI, and ACL 2024
 - 2024.6: Added a section for LLM-generated text in Related Tasks. Added papers from EACL, NAACL, and AAAI 2024
 
 ## Overview
@@ -169,6 +170,14 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   [[Dataset]](https://github.com/THU-BPM/Pinocchio)
   [[Code]](https://github.com/THU-BPM/Pinocchio)
   **ICLR 2024**
+* ESCNet: Entity-enhanced and Stance Checking Network for Multi-modal Fact-Checking (Zhang et al., 2024)
+  [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3589334.3645455)
+  [[Code]](https://github.com/zfr00/ESCNet)
+  **WWW 2024**
+* MCFEND: A Multi-source Benchmark Dataset for Chinese Fake News Detection (Li et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2403.09092)
+  [[Dataset]](https://github.com/TrustworthyComp/mcfend)
+  **WWW 2024**
 * What Makes Medical Claims (Un)Verifiable? Analyzing Entity and Relation Properties for Fact Verification (Wührl et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2402.01360)
   [[Dataset]](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/bioclaim/)
@@ -536,6 +545,13 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 ## Models
 
 ### Claim Detection and Extraction
+* Semantic Evolvement Enhanced Graph Autoencoder for Rumor Detection (Tao et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2404.16076)
+  **WWW 2024**
+* T$^3$RD: Test-Time Training for Rumor Detection on Social Media (Zhang et al., 2024)
+  [[Paper]](https://dl.acm.org/doi/10.1145/3589334.3645443)
+  [[Code]](https://github.com/social-rumors/T3RD)
+  **WWW 2024**
 * Adapting Fake News Detection to the Era of Large Language Models (Su et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2311.04917)
   [[Code]](https://github.com/mbzuai-nlp/Fakenews-dataset)
@@ -697,6 +713,9 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 
 ### Verdict Prediction
 #### Veractiy Classification
+* MSynFD: Multi-hop Syntax aware Fake News Detection (Liang et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2402.14834)
+  **WWW 2024**
 * Self-Checker: Plug-and-Play Modules for Fact-Checking with Large Language Models ()
   [[Paper]](https://arxiv.org/pdf/2305.14623)
   **NAACL 2024**
@@ -934,6 +953,10 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   ****
   
 ### Justification Production
+* Explainable Fake News Detection With Large Language Model via Defense Among Competing Wisdom (Wang et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2405.03371)
+  [[Code]](https://github.com/wangbo9719/L-Defense_EFND)
+  **WWW 2024**
 * “Why is this misleading?”: Detecting News Headline Hallucinations with Explanations (Shen et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2212.01060.pdf)]
   **AAAI 2023**
@@ -990,6 +1013,9 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   ![](https://img.shields.io/badge/NAACL%202024-orange)
 
 ### Misinformation and Disinformation
+* The Dynamics of (Not) Unfollowing Misinformation Spreaders (Ashkinaze et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2401.13480)
+  ![](https://img.shields.io/badge/WWW%202024-orange)
 * Evidence-Driven Retrieval Augmented Response Generation for Online Misinformation (Yue et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2403.14952)
   ![](https://img.shields.io/badge/NAACL%202024-orange)
