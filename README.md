@@ -447,39 +447,38 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 * DF-Platter: Multi-Face Heterogeneous Deepfake Dataset (Narayan et al., 2023)
   [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Narayan_DF-Platter_Multi-Face_Heterogeneous_Deepfake_Dataset_CVPR_2023_paper.pdf)
   [[Dataset]](https://iab-rubric.org/df-platter-database)
-  **CVPR 2023**
+  ![](https://img.shields.io/badge/CVPR%202023-red)
 * Detecting and Grounding Multi-Modal Media Manipulation. (Shao et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2304.02556.pdf)
   [[Dataset]](https://github.com/rshaojimmy/MultiModal-DeepFake)
-  **CVPR 2023**
+  ![](https://img.shields.io/badge/CVPR%202023-red)
 * FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake Dataset (Khalid et al., 2021)
   [[Paper]](https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/d9d4f495e875a2e075a1a4a6e1b9770f-Paper-round2.pdf)
   [[Dataset]](https://github.com/DASH-Lab/FakeAVCeleb)
-  **NeurIPS 2021**
+  ![](https://img.shields.io/badge/NeurIPS%202021-purple)
 * Half-Truth: A Partially Fake Audio Detection Dataset (Yi et al., 2021)
   [[Paper]](https://www.isca-archive.org/interspeech_2021/yi21_interspeech.pdf)
-  **Interspeech 2021**
+  ![](https://img.shields.io/badge/Interspeech%202019-green)
 * KoDF: A Large-scale Korean DeepFake Detection Dataset (Kwon et al., 2021)
   [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9710066)
   [[Dataset]](https://moneybrain-research.github.io/kodf)
-  **ICCV 2021**
+  ![](https://img.shields.io/badge/ICCV%202021-red)
 * Celeb-DF: A Large-Scale Challenging Dataset for DeepFake Forensics (Li et al., 2020)
   [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9156368)
   [[Dataset]](https://github.com/yuezunli/celeb-deepfakeforensics)
-  **CVPR 2020**
+  ![](https://img.shields.io/badge/CVPR%202020-red)
 * DeeperForensics-1.0: A Large-Scale Dataset for Real-World Face Forgery Detection (Jiang et al., 2020)
   [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9156686)
   [[Dataset]](https://github.com/EndlessSora/DeeperForensics-1.0)
-  **CVPR 2020**
+  ![](https://img.shields.io/badge/CVPR%202020-red)
 * DeepSonar: Towards Effective and Robust Detection of AI-Synthesized Fake Voices  (Wang et al., 2020)
   [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413716)
-  **ACM MM 2020**
+  ![](https://img.shields.io/badge/ACMMM%202020-red)
 * FoR: A Dataset for Synthetic Speech Detection (Reimao et al., 2019)
   [[Paper]](https://bil.eecs.yorku.ca/wp-content/uploads/2020/01/FoR-Dataset_RR_VT_final.pdf)
-  **SpeD 2019**
 * Phonespoof: A New Dataset for Spoofing Attack Detection in Telephone Channel (Lavrentyeva et al., 2019)
   [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682942)
-  **ICASSP 2019**
+  ![](https://img.shields.io/badge/ICASSP%202019-green)
 * The Deepfake Detection Challenge (DFDC) Preview Dataset (Dolhansky et al., 2019)
   [[Paper]](https://arxiv.org/pdf/1910.08854.pdf)
   [[Dataset]](https://deepfakedetectionchallenge.ai/)
@@ -489,41 +488,41 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 * FaceForensics: A Large-scale Video Dataset for Forgery Detection in Human Faces (Rossler et al., 2018)
   [[Paper]](https://arxiv.org/pdf/1803.09179.pdf)
   [[Dataset]](https://justusthies.github.io/posts/faceforensics/)
-  ****
+
 
 #### Out-of-Context Classification Dataset
 * Not all Fake News is Written: A Dataset and Analysis of Misleading Video Headlines (Sung et al., 2023)
  [[Paper]](https://arxiv.org/pdf/2310.13859.pdf)
  [[Dataset]](https://github.com/yysung/VMH/tree/master)
- **EMNLP 2023**
+ ![](https://img.shields.io/badge/EMNLP%202023-orange)
 * COSMOS: Catching Out-of-Context Misinformation with Self-Supervised Learning (Aneja et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2101.06278.pdf)
   [[Code]](https://shivangi-aneja.github.io/projects/cosmos/)
   [[Dataset]](https://docs.google.com/forms/d/13kJQ2wlv7sxyXoaM1Ddon6Nq7dUJY_oftl-6xzwTGow/viewform?edit_requested=true)
-  **AAAI 2023**
+  ![](https://img.shields.io/badge/AAAI%202023-purple)
 * Factify 2: A multimodal fake news and satire news dataset (Suryavardan et al., 2023)
   [[Paper]](https://arxiv.org/ftp/arxiv/papers/2304/2304.03897.pdf)
   [[Dataset]](https://github.com/surya1701/Factify-2.0)
 * InfoSurgeon: Cross-Media Fine-grained Information Consistency Checking for Fake News Detection (Fung et al., 2021)
   [[Paper]](https://aclanthology.org/2021.acl-long.133/)
   [[Dataset]](https://github.com/yrf1/InfoSurgeon)
-  **ACL 2021**
+  ![](https://img.shields.io/badge/ACL%202021-orange)
 * NewsCLIPpings: Automatic Generation of Out-of-Context Multimodal Media (Luo et al., 2021)
   [[Paper]](https://arxiv.org/pdf/2104.05893.pdf)
   [[Dataset]](https://github.com/g-luo/news_clippings)
-  **EMNLP 2021**
+  ![](https://img.shields.io/badge/EMNLP%202021-orange)
 * Detecting Cross-Modal Inconsistency to Defend Against Neural Fake News (Tan et al., 2020)
   [[Paper]](https://arxiv.org/pdf/2009.07698.pdf)
   [[Dataset]](https://github.com/rxtan2/DIDAN)
-  **EMNLP 2020**
+  ![](https://img.shields.io/badge/EMNLP%202020-orange)
 * Multimodal analytics for real-world news using measures of cross-modal entity consistency (Müller-Budack et al., 2020)
   [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3372278.3390670)
   [[Dataset]](https://github.com/TIBHannover/cross-modal_entity_consistency)
-  **ICMR 2020**
+  ![](https://img.shields.io/badge/ICMR%202020-red)
 * Deep Multimodal Image-Repurposing Detection (Sabir et al., 2018)
   [[Paper]](https://arxiv.org/pdf/1808.06686.pdf)
   [[Dataset]](https://github.com/Ekraam/MEIR)
-  **ACM MM 2018**
+  ![](https://img.shields.io/badge/ACMMM%202018-red)
 * Multimedia semantic integrity assessment using joint embedding of images and text (Jaiswal et al., 2017)
   [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3123266.3123385)
   ![](https://img.shields.io/badge/ACMMM%202017-red)
