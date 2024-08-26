@@ -548,7 +548,7 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 * Semantic Evolvement Enhanced Graph Autoencoder for Rumor Detection (Tao et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2404.16076)
   ![](https://img.shields.io/badge/WWW%202024-blue)
-* T$^3$RD: Test-Time Training for Rumor Detection on Social Media (Zhang et al., 2024)
+* T<sup>3</sup>RD: Test-Time Training for Rumor Detection on Social Media (Zhang et al., 2024)
   [[Paper]](https://dl.acm.org/doi/10.1145/3589334.3645443)
   [[Code]](https://github.com/social-rumors/T3RD)
   ![](https://img.shields.io/badge/WWW%202024-blue)
