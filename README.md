@@ -70,96 +70,98 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 * MR2: A Benchmark for Multimodal Retrieval-Augmented Rumor Detection in Social Media (Hu et al., 2023)
   [[Paper]](https://dl.acm.org/doi/10.1145/3539618.3591896)
   [[Dataset]](https://github.com/THU-BPM/MR2)
-  **SIGIR 2023**
+  ![](https://img.shields.io/badge/SIGIR%202023-blue)
 * FakeSV: A Multimodal Benchmark with Rich Social Context for Fake News Detection on Short Video Platforms (Qi et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2211.10973.pdf)
   [[Dataset]](https://github.com/ictmcg/fakesv)
-    **AAAI 2023**
+  ![](https://img.shields.io/badge/AAAI%202023-purple)
 * SciTweets - A Dataset and Annotation Framework for Detecting Scientific Online Discourse (Hafid et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2206.07360.pdf)
   [[Dataset]](https://github.com/AI-4-Sci/SciTweets)
-    **CIKM 2022**
+  ![](https://img.shields.io/badge/CIKM%202022-blue)
 * Empowering the Fact-checkers! Automatic Identification of Claim Spans on Twitter (Sundriyal et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2210.04710.pdf)
   [[Dataset]](https://github.com/LCS2-IIITD/DABERTA-EMNLP-2022)
-  **EMNLP 2022**
+  ![](https://img.shields.io/badge/EMNLP%202022-orange)
 * Stanceosaurus: Classifying Stance Towards Multilingual Misinformation (Zheng et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2210.15954.pdf)
   [[Dataset]](https://github.com/JonathanQZheng/Stanceosaurus/)
-  **EMNLP 2022**
+  ![](https://img.shields.io/badge/EMNLP%202022-orange)
 * Challenges and Opportunities in Information Manipulation Detection: An Examination of Wartime Russian Media  (Park et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2205.12382.pdf)
-  **Findings EMNLP 2022**
+  ![](https://img.shields.io/badge/Findings@EMNLP%202022-orange)
 * CoVERT: A Corpus of Fact-checked Biomedical COVID-19 Tweets (Mohr et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2204.12164.pdf)
   [[Dataset]](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/bioclaim/)
-  **LREC 2021**
+  ![](https://img.shields.io/badge/LREC%202021-orange)
 * MuMiN: A Large-Scale Multilingual Multimodal Fact-Checked Misinformation Social Network Dataset (Nielsen et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2202.11684.pdf)
   [[Dataset]](https://mumin-dataset.github.io/gettingstarted/)
-  **SIGIR 2021**
+  ![](https://img.shields.io/badge/SIGIR%202021-blue)
 * STANKER: Stacking Network based on Level-grained Attention-masked BERT for Rumor Detection on Social Media (Rao et al., 2021)
   [[Paper]](https://aclanthology.org/2021.emnlp-main.269.pdf)
   [[Dataset]](https://github.com/fip-lab/STANKER)
-  **EMNLP 2021**
+  ![](https://img.shields.io/badge/EMNLP%202021-orange)
 * Fighting the COVID-19 Infodemic: Modeling the Perspective of Journalists, Fact-Checkers, Social Media Platforms, Policy Makers, and the Society (Alam et al., 2021)
   [[Paper]](https://aclanthology.org/2021.findings-emnlp.56.pdf)
   [[Dataset]](https://github.com/firojalam/COVID-19-disinformation)
-  **Findings EMNLP 2021**
+  ![](https://img.shields.io/badge/Findings@EMNLP%202021-orange)
 * Towards Automated Factchecking: Developing an Annotation Schema and Benchmark for Consistent Automated Claim Detection (Konstantinovskiy et al., 2021)
   [[Paper]](https://arxiv.org/pdf/1809.08193.pdf)
-  **ACM Digital Threats: Research and Practice 2021**
 * The CLEF-2021 CheckThat! Lab on Detecting Check-Worthy Claims, Previously Fact-Checked Claims, and Fake News (Nakov et al., 2021)
   [[Paper]](https://link.springer.com/chapter/10.1007%2F978-3-030-72240-1_75)
   [[Dataset]](https://sites.google.com/view/clef2021-checkthat/tasks/task-1-check-worthiness-estimation)
 * Mining Dual Emotion for Fake News Detection (Zhang et al., 2021)
   [[Paper]](https://arxiv.org/pdf/1903.01728.pdf)
   [[Dataset]](https://drive.google.com/drive/folders/1pjK0BYiiJt0Ya2nRIrOLCVo-o53sYRBV)
-  **WWW 2021**
+  ![](https://img.shields.io/badge/WWW%202021-blue)
 * Overview of CheckThat! 2020: Automatic Identification and Verification of Claims in Social Media (Barrón-Cedeño et al., 2020)
   [[Paper]](https://link.springer.com/chapter/10.1007%2F978-3-030-58219-7_17)
   [[Dataset]](https://sites.google.com/view/clef2020-checkthat/datasets-tools)
 * Citation Needed: A Taxonomy and Algorithmic Assessment of Wikipedia's Verifiability (Redi et al., 2019)
   [[Paper]](https://arxiv.org/pdf/1902.11116.pdf)
   [[Dataset]](https://figshare.com/articles/dataset/Citation_Reason_Dataset/7756226)
+  ![](https://img.shields.io/badge/WWW%202019-blue)
 * SemEval-2019 Task 7: RumourEval, Determining Rumour Veracity and Support for Rumours (Gorrell et al., 2019).
   [[Paper]](https://www.aclweb.org/anthology/S19-2147.pdf)
   [[Dataset]](https://competitions.codalab.org/competitions/19938)
+  ![](https://img.shields.io/badge/SemEval%202019-orange)
 * Joint Rumour Stance and Veracity (Lillie et al., 2019)
   [[Paper]](https://aclanthology.org/W19-6122.pdf)
   [[Dataset]](https://figshare.com/articles/dataset/RumourEval_2019_data/8845580)
+  ![](https://img.shields.io/badge/NoDaLiDa%202019-orange)
 * Overview of the CLEF-2018 CheckThat! Lab on Automatic Identification and Verification of Political Claims. Task 1: Check-Worthiness (Atanasova et al., 2018)
   [[Paper]](http://ceur-ws.org/Vol-2125/invited_paper_13.pdf)
   [[Dataset]](https://github.com/clef2018-factchecking/clef2018-factchecking/#subtasks)
+  ![](https://img.shields.io/badge/ACL%202017-orange)
 * Separating Facts from Fiction: Linguistic Models to Classify Suspicious and Trusted News Posts on Twitter (Volkova et al., 2017)
   [[Paper]](https://aclanthology.org/P17-2102.pdf)
   [[Dataset]](https://aclanthology.org/attachments/P17-2102.Datasets.zip)
-  **ACL 2017**
+  ![](https://img.shields.io/badge/ACL%202017-orange)
 * A Context-Aware Approach for Detecting Worth-Checking Claims in Political Debates (Gencheva et al., 2017)
   [[Paper]](https://www.acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP037.pdf)
   [[Dataset]](https://github.com/apepa/claim-rank)
-  **RANLP 2017**
+  ![](https://img.shields.io/badge/RANLP%202017-orange)
 * Multimodal Fusion with Recurrent Neural Networks for Rumor Detection on Microblogs (Jin et al., 2017)
   [[Paper]](https://dl.acm.org/doi/10.1145/3123266.3123454)
-  **ACM MM 2017**
+  ![](https://img.shields.io/badge/ACMMM%202017-red)
 * SemEval-2017 Task 8: RumourEval: Determining rumour veracity and support for rumours (Derczynski et al., 2017).
   [[Paper]](https://www.aclweb.org/anthology/S17-2006.pdf)
   [[Dataset]](https://alt.qcri.org/semeval2017/task8/index.php?id=data-and-tools)
 * Detecting Rumors from Microblogs with Recurrent Neural Networks (Ma et al., 2016)
   [[Paper]](https://www.ijcai.org/Proceedings/16/Papers/537.pdf)
   [[Dataset]](https://www.dropbox.com/s/46r50ctrfa0ur1o/rumdect.zip?dl=0)
-  **IJCAI 2016**
+  ![](https://img.shields.io/badge/IJCAI%202016-purple)
 * Analysing How People Orient to and Spread Rumours in Social Media by Looking at Conversational Threads (Zubiaga et al., 2016).
   [[Paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150989)
   [[Dataset]](https://figshare.com/articles/PHEME_rumour_scheme_dataset_journalism_use_case/2068650)
-  **PLOS One 2016**
 * CREDBANK: A Large-Scale Social Media Corpus with Associated Credibility Annotations (Mitra and Gilbert, 2015).
   [[Paper]](http://eegilbert.org/papers/icwsm15.credbank.mitra.pdf)
   [[Dataset]](https://github.com/compsocial/CREDBANK-data)
-  **ICWSM 2015**
+  ![](https://img.shields.io/badge/ICWSM%202015-blue)
 * Detecting Check-worthy Factual Claims in Presidential Debates (Hassan et al., 2015)
   [[Paper]](https://idir.uta.edu/~naeemul/file/factchecking-cikm15-hassan-cameraready.pdf)
-  **CIKM 2015**
+  ![](https://img.shields.io/badge/CIKM%202015-blue)
 
 
 ### Verdict Prediction Dataset
