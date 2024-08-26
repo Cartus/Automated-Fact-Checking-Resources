@@ -557,6 +557,9 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 ## Models
 
 ### Claim Detection and Extraction
+* From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News (Liu et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2403.09498)
+  ![](https://img.shields.io/badge/IJCAI%202024-purple)
 * Heterogeneous Subgraph Transformer for Fake News Detection (Zhang et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2404.13192)
   ![](https://img.shields.io/badge/WWW%202024-blue)
@@ -738,6 +741,12 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 
 ### Verdict Prediction
 #### Veractiy Classification
+* Unified Evidence Enhancement Inference Framework for Fake News Detection (Wu et al., 2024)
+  [[Paper]](https://www.ijcai.org/proceedings/2024/0723.pdf)
+  ![](https://img.shields.io/badge/IJCAI%202024-purple)
+* Natural Language-centered Inference Network for Multi-modal Fake News Detection (Zhang et al., 2024)
+  [[Paper]](https://www.ijcai.org/proceedings/2024/0281.pdf)
+  ![](https://img.shields.io/badge/IJCAI%202024-purple)
 * From Creation to Clarification: ChatGPT's Journey Through the Fake News Quagmire (Huang et al., 2024)
   [[Paper]](https://dl.acm.org/doi/10.1145/3589335.3651509)
   ![](https://img.shields.io/badge/WWW%202024-blue)
@@ -1046,6 +1055,15 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 ## Related Tasks
 
 ### Detecting LLM Generated Text
+
+* Ten Words Only Still Help: Improving Black-Box AI-Generated Text Detection via Proxy-Guided Efficient Re-Sampling (Shi et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2402.09199)
+  [[Code]](https://github.com/ICTMCG/POGER)
+  ![](https://img.shields.io/badge/IJCAI%202024-purple)
+* Detecting AI-Generated Sentences in Human-AI Collaborative Hybrid Texts: Challenges, Strategies, and Insights (Zeng et al., 2024)
+  [[Paper]](https://arxiv.org/abs/2403.03506)
+  [[Code]](https://github.com/douglashiwo/AISentenceDetection)
+  ![](https://img.shields.io/badge/IJCAI%202024-purple)
 * GPT-generated Text Detection: Benchmark Dataset and Tensor-based Detection Method (Qazi et al., 2024)
   [[Paper]](https://arxiv.org/abs/2403.07321)
   ![](https://img.shields.io/badge/WWW%202024-blue)
@@ -1065,6 +1083,11 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   [[Paper]](https://arxiv.org/pdf/2401.05952)
   [[Code]](https://github.com/Dongping-Chen/MixSet)
   ![](https://img.shields.io/badge/NAACL%202024-orange)
+
+### Adversarial Attack
+* A General Black-box Adversarial Attack on Graph-based Fake News Detectors (et al., 2024)
+  [[Paper]](https://arxiv.org/abs/2404.15744)
+  ![](https://img.shields.io/badge/IJCAI%202024-purple)
 
 ### Misinformation and Disinformation
 * The Dynamics of (Not) Unfollowing Misinformation Spreaders (Ashkinaze et al., 2024)
@@ -1099,7 +1122,6 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 
 
 ### Detecting Previous Claims
-
 * Assisting the Human Fact-Checkers: Detecting All Previously Fact-Checked Claims in a Document (Shaar et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2109.07410.pdf)
   ![](https://img.shields.io/badge/EMNLP%202022-orange)
