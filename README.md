@@ -526,7 +526,7 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   **ACM MM 2018**
 * Multimedia semantic integrity assessment using joint embedding of images and text (Jaiswal et al., 2017)
   [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3123266.3123385)
-  ![](https://img.shields.io/badge/ACM%MM%202017-red)
+  ![](https://img.shields.io/badge/ACMMM%202017-red)
 
 ## Shared Tasks
 * AVeriTec Shared Task [[7th FEVER Workshop](https://fever.ai/task.html)]
