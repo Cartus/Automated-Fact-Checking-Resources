@@ -715,229 +715,241 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 #### Veractiy Classification
 * MSynFD: Multi-hop Syntax aware Fake News Detection (Liang et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2402.14834)
-  **WWW 2024**
+  ![](https://img.shields.io/badge/WWW%202024-blue)
 * Self-Checker: Plug-and-Play Modules for Fact-Checking with Large Language Models ()
   [[Paper]](https://arxiv.org/pdf/2305.14623)
-  **NAACL 2024**
+  ![](https://img.shields.io/badge/NAACL%202024-orange)
 * Fact Checking Beyond Training Set (Karisani et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2403.18671)
   [[Code]](https://github.com/p-karisani/OODFC)
-  **NAACL 2024**
+  ![](https://img.shields.io/badge/NAACL%202024-orange)
 * Language Models Hallucinate, but May Excel at Fact Verification (Guan et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2310.14564)
   [[Code]](https://github.com/JianGuanTHU/LLMforFV)
-  **NAACL 2024**
+  ![](https://img.shields.io/badge/NAACL%202024-orange)
 * Complex Claim Verification with Evidence Retrieved in the Wild (Chen et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2305.11859)
   [[Code]](https://github.com/jifan-chen/Fact-checking-via-Raw-Evidence)
-  **NAACL 2024**
+  ![](https://img.shields.io/badge/NAACL%202024-orange)
 * MAPLE: Micro Analysis of Pairwise Language Evolution for Few-Shot Claim Verification (Zeng et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2401.16282)
   [[Code]](https://github.com/XiaZeng0223/MAPLE)
-  **EACL 2024**
+  ![](https://img.shields.io/badge/EACL%202024-orange)
 * Rethinking Loss Functions for Fact Verification (Mukobara et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2403.08174)
   [[Code]](https://github.com/yuta-mukobara/RLF-KGAT)
-  **EACL 2024**
+  ![](https://img.shields.io/badge/EACL%202024-orange)
 * Comparing Knowledge Sources for Open-Domain Scientific Claim Verification (Vladika et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2402.02844)
   [[Code]](https://github.com/jvladika/Comparing-Knowledge-Sources)
-  **EACL 2024**
+  ![](https://img.shields.io/badge/EACL%202024-orange)
 * Causal Walk: Debiasing Multi-Hop Fact Verification with Front-Door Adjustment (Zhang et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2403.02698)
   [[Code]](https://github.com/zcccccz/CausalWalk)
-  **AAAI 2024**
+  ![](https://img.shields.io/badge/AAAI%202023-purple)
 *  Heterogeneous Graph Reasoning for Fact Checking over Texts and Tables (Gong et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2402.13028)
   [[Code]](https://github.com/Deno-V/HeterFC)
-  **AAAI 2024**
+  ![](https://img.shields.io/badge/AAAI%202023-purple)
 * DECKER: Double Check with Heterogeneous Knowledge for Commonsense Fact Verification (Zou et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2305.05921.pdf)
   [[Code]](https://github.com/Anni-Zou/Decker)
-  **ACL 2023**
+  ![](https://img.shields.io/badge/ACL%202023-orange)
 * Check-COVID: Fact-Checking COVID-19 News Claims with Scientific Evidence (Wang et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2305.18265.pdf)
   [[Code]](https://github.com/posuer/Check-COVID)
-  **ACL 2023**
+  ![](https://img.shields.io/badge/ACL%202023-orange)
 * Claim-Dissector: An Interpretable Fact-Checking System with Joint Re-ranking and Veracity Prediction (Fajcik et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2207.14116.pdf)
   [[Code]](https://github.com/KNOT-FIT-BUT/ClaimDissector)
-  **ACL 2023**
+  ![](https://img.shields.io/badge/ACL%202023-orange)
 * Prompt to be Consistent is Better than Self-Consistent? Few-Shot and Zero-Shot Fact Verification with Pre-trained Language Models (Zeng et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2306.02569.pdf)
   [[Code]](https://github.com/znhy1024/ProToCo)
-  **ACL 2023**
+  ![](https://img.shields.io/badge/ACL%202023-orange)
 * Counterfactual Debiasing for Fact Verification (Xu et al., 2023)
   [[Paper]](https://aclanthology.org/2023.acl-long.374.pdf)
-  **ACL 2023**
+  ![](https://img.shields.io/badge/ACL%202023-orange)
 * Fact-Checking Complex Claims with Program-Guided Reasoning (Pan et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2305.12744.pdf)
   [[Code]](https://github.com/mbzuai-nlp/ProgramFC)
-  **ACL 2023**
+  ![](https://img.shields.io/badge/ACL%202023-orange)
 * Bootstrapping Multi-view Representations for Fake News Detection (Ying et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2206.05741.pdf)
-  **AAAI 2023**
+  ![](https://img.shields.io/badge/AAAI%202023-purple)
 * Varifocal Question Generation for Fact-checking (Ousidhoum et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2210.12400.pdf)
-  **EMNLP 2022**
+  ![](https://img.shields.io/badge/EMNLP%202022-orange)
 * ProoFVer: Natural Logic Theorem Proving for Fact Verification (Krishna et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2108.11357.pdf)
-  **TACL 2022**
+  ![](https://img.shields.io/badge/TACL%202022-orange)
 * MultiVerS: Improving scientific claim verification with weak supervision and full-document context (Wadden et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2112.01640.pdf)
   [[Code]](https://github.com/dwadden/multivers)
-  **Findings NAACL 2022**
+  ![](https://img.shields.io/badge/Findings@NAACL%202022-orange)
 * Generating Scientific Claims for Zero-Shot Scientific Fact Checking (Wright et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2203.12990.pdf)
   [[Code]](https://github.com/allenai/scientific-claim-generation)
-  **ACL 2022**
+  ![](https://img.shields.io/badge/ACL%202022-orange)
 * Automatic Detection of Entity-Manipulated Text Using Factual Knowledge (Jawahar et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2203.12990.pdf)
   [[Code]](https://github.com/UBC-NLP/manipulated_entity_detection)
-  **ACL 2022**
+  ![](https://img.shields.io/badge/ACL%202022-orange)
 * LOREN: Logic-Regularized Reasoning for Interpretable Fact Verification (Chen et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2012.13577.pdf)
   [[Code]](https://github.com/jiangjiechen/LOREN?ref=pythonrepo.com)
-  **AAAI 2022**
+  ![](https://img.shields.io/badge/AAAI%202022-purple)
 * Towards Fine-Grained Reasoning for Fake News Detection (Jin et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2110.15064.pdf)
-  **AAAI 2022**
+  ![](https://img.shields.io/badge/AAAI%202022-purple)
 * Synthetic Disinformation Attacks on Automated Fact Verification Systems (Du et al., 2021)
   [[Paper]](https://www.aaai.org/AAAI22Papers/AAAI-11986.DuY.pdf)
   [[Code]](https://github.com/Yibing-Du/adversarial-factcheck)
-  **AAAI 2022**
+  ![](https://img.shields.io/badge/AAAI%202022-purple)
 * Editing Factual Knowledge in Language Models (De Cao et al., 2021)
   [[Paper]](https://arxiv.org/pdf/2104.08164.pdf)
   [[Code]](https://github.com/nicola-decao/KnowledgeEditor)
-  **EMNLP 2021**
+  ![](https://img.shields.io/badge/EMNLP%202021-orange)
 * Logic-level Evidence Retrieval and Graph-based Verification Network for Table-based Fact Verification (Shi et al., 2021)
   [[Paper]](https://aclanthology.org/2021.emnlp-main.16.pdf)
   [[Code]](https://github.com/qshi95/LERGV)
-  **EMNLP 2021**
+  ![](https://img.shields.io/badge/EMNLP%202021-orange)
 * Students Who Study Together Learn Better: On the Importance of Collective Knowledge Distillation for Domain Transfer in Fact Verification (Mithun et al., 2021)
   [[Paper]](https://aclanthology.org/2021.emnlp-main.558.pdf)
-  **EMNLP 2021**
+  ![](https://img.shields.io/badge/EMNLP%202021-orange)
 * Abstract, Rationale, Stance: A Joint Model for Scientific Claim Verification (Zhang et al., 2021)
   [[Paper]](https://aclanthology.org/2021.emnlp-main.290.pdf)
   [[Code]](https://github.com/ZhiweiZhang97/ARSJointModel)
-  **EMNLP 2021**
+  ![](https://img.shields.io/badge/EMNLP%202021-orange)
 * Table-based Fact Verification with Salience-aware Learning (Wang et al., 2021)
   [[Paper]](https://aclanthology.org/2021.findings-emnlp.338.pdf)
   [[Code]](https://github.com/luka-group/Salience-aware-Learning)
-  **Findings EMNLP 2021**
+  ![](https://img.shields.io/badge/Findings@EMNLP%202021-orange)
 * Exploring Decomposition for Table-based Fact Verification (Yang et al., 2021)
   [[Paper]](https://aclanthology.org/2021.findings-emnlp.90.pdf)
   [[Code]](https://github.com/arielsho/decomposition-table-reasoning)
-  **Findings EMNLP 2021**
+  ![](https://img.shields.io/badge/Findings@EMNLP%202021-orange)
 * Joint Verification and Reranking for Open Fact Checking Over Tables (Schlichtkrull et al., 2021).
   [[Paper]](https://aclanthology.org/2021.acl-long.529.pdf)
   [[Code]](https://github.com/facebookresearch/OpenTableFactChecking)
-  **ACL 2021**
+  ![](https://img.shields.io/badge/ACL%202021-orange)
 * Multi-Task Retrieval for Knowledge-Intensive Tasks (Maillard et al., 2021).
   [[Paper]](https://aclanthology.org/2021.acl-long.89.pdf)
-  **ACL 2021**
+  ![](https://img.shields.io/badge/ACL%202021-orange)
 * Topic-Aware Evidence Reasoning and Stance-Aware Aggregation for Fact Verification (Si et al., 2021).
   [[Paper]](https://arxiv.org/pdf/2106.01191.pdf)
   [[Code]](https://github.com/jasenchn/TARSA)
-  **ACL 2021**
+  ![](https://img.shields.io/badge/ACL%202021-orange)
 * A DQN-based Approach to Finding Precise Evidences for Fact Verification (Wan et al., 2021)
   [[Paper]](https://aclanthology.org/2021.acl-long.83.pdf)
   [[Code]](https://github.com/sysulic/DQN-FV)
-  **ACL 2021**
+  ![](https://img.shields.io/badge/ACL%202021-orange)
 * Unified Dual-view Cognitive Model for Interpretable Claim Verification (Wu et al., 2021)
   [[Paper]](https://aclanthology.org/2021.acl-long.5.pdf)
-  **ACL 2021**
+  ![](https://img.shields.io/badge/ACL%202021-orange)
 * Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge (Hu et al., 2021)
   [[Paper]](https://aclanthology.org/2021.acl-long.62.pdf)
   [[Code]](https://github.com/BUPT-GAMMA/CompareNet_FakeNewsDetection)
-  **ACL 2021**
+  ![](https://img.shields.io/badge/ACL%202021-orange)
 * Automatic Fake News Detection: Are Models Learning to Reason? (Hansen et al., 2021)
   [[Paper]](https://aclanthology.org/2021.acl-short.12.pdf)
   [[Code]](https://github.com/casperhansen/fake-news-reasoning)
-  **ACL 2021**
+  ![](https://img.shields.io/badge/ACL%202021-orange)
 * Exploring Listwise Evidence Reasoning with T5 for Fact Verification (Jiang et al., 2021)
   [[Paper]](https://aclanthology.org/2021.acl-short.51.pdf)
-  **ACL 2021**
+  ![](https://img.shields.io/badge/ACL%202021-orange)
 * Multimodal Fusion with Co-Attention Networks for Fake News Detection (Wu et al., 2021)
   [[Paper]](https://aclanthology.org/2021.findings-acl.226.pdf)  
-  **Findings ACL 2021**
+  ![](https://img.shields.io/badge/Findings@ACL%202021-orange)
 * A Multi-Level Attention Model for Evidence-Based Fact Checking (Kruengkrai et al., 2021)
   [[Paper]](https://arxiv.org/pdf/2106.00950.pdf)
   [[Code]](https://github.com/nii-yamagishilab/mla)
-  **Findings ACL 2021**
+  ![](https://img.shields.io/badge/Findings@ACL%202021-orange)
 * Strong and Light Baseline Models for Fact-Checking Joint Inference (Tymoshenko et al., 2021)
   [[Paper]](https://aclanthology.org/2021.findings-acl.426.pdf)
   [[Code]](https://github.com/ikernels/reasoning-baselines)
-  **Findings ACL 2021**
+  ![](https://img.shields.io/badge/Findings@ACL%202021-orange)
 * Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (Lewis et al., 2020).
   [[Paper]](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)
   [[Code]](https://huggingface.co/transformers/model_doc/rag.html)
-  **NeurIPS 2021**
+  ![](https://img.shields.io/badge/NeurIPS%202021-purple)
 * Language Models as Fact Checkers? (Lee et al., 2020).
   [[Paper]](https://aclanthology.org/2020.fever-1.5.pdf)
+  ![](https://img.shields.io/badge/FEVER@ACL%202020-orange)
 * Hierarchical Evidence Set Modeling for Automated Fact Extraction and Verification (Subramanian et al., 2020)
   [[Paper]](https://arxiv.org/pdf/2010.05111.pdf)
   [[Code]](https://github.com/ShyamSubramanian/HESM)
+  ![](https://img.shields.io/badge/EMNLP%202020-orange)
 * Program Enhanced Fact Verification with Verbalization and Graph Attention Network (Yang et al., 2020).
   [[Paper]](https://aclanthology.org/2020.emnlp-main.628.pdf)
   [[Code]](https://github.com/arielsho/Program-Enhanced-Table-Fact-Checking)
-  **EMNLP 2020**
+  ![](https://img.shields.io/badge/EMNLP%202020-orange)
 * Understanding tables with intermediate pre-training (Eisenschlos et al., 2020).
   [[Paper]](https://aclanthology.org/2020.findings-emnlp.27.pdf)
   [[Code]](https://github.com/google-research/tapas) 
-  **Findings EMNLP 2020**
+  ![](https://img.shields.io/badge/Findings@EMNLP%202020-orange)
 * Fine-grained Fact Verification with Kernel Graph Attention Network (Liu et al., 2020).
   [[Paper]](https://www.aclweb.org/anthology/2020.acl-main.655.pdf)
   [[Code]](https://github.com/thunlp/KernelGAT)
-  **ACL 2020**
+  ![](https://img.shields.io/badge/ACL%202020-orange)
 * Reasoning Over Semantic-Level Graph for Fact Checking (Zhong et al., 2020).
   [[Paper]](https://aclanthology.org/2020.acl-main.549.pdf)
 * LogicalFactChecker: Leveraging Logical Operations for Fact Checking with Graph Module Network (Zhong et al., 2020).
   [[Paper]](https://aclanthology.org/2020.acl-main.539.pdf)
-  **ACL 2020**
+  ![](https://img.shields.io/badge/ACL%202020-orange)
 * Scrutinizer: A Mixed-Initiative Approach to Large-Scale, Data-Driven Claim Verification (Karagiannis et al., 2020) 
   [[Paper]](http://www.vldb.org/pvldb/vol13/p2508-karagiannis.pdf)
   [[Code]](https://github.com/geokaragiannis/statchecker) 
-  **VLDB 2020**
+  ![](https://img.shields.io/badge/VLDB%202020-blue)
 * Unsupervised Question Answering for Fact-Checking (Jobanputra, 2019).
   [[Paper]](https://aclanthology.org/D19-6609.pdf)
   [[Code]](https://github.com/mayankjobanputra/UQA-fever)
+  ![](https://img.shields.io/badge/FEVER@EMNLP%202019-orange)
 * GEAR: Graph-based Evidence Aggregating and Reasoning for Fact Verification (Zhou et al., 2019).
   [[Paper]](https://www.aclweb.org/anthology/P19-1085.pdf)
   [[Code]](https://github.com/thunlp/GEAR)]
-* Sentence-Level Evidence Embedding for Claim Verification with Hierarchical Attention Networks (Ma et al., 2019).
-  [[Paper]](https://aclanthology.org/P19-1244.pdf)
+  ![](https://img.shields.io/badge/ACL%202019-orange)
 * Combining Fact Extraction and Verification with Neural Semantic Matching Networks (Nie et al., 2019).
   [[Paper]](https://arxiv.org/pdf/1811.07039.pdf)
   [[Code]](https://github.com/easonnie/combine-FEVER-NSMN/)
+  ![](https://img.shields.io/badge/FEVER@EMNLP%202019-orange)
 * Team DOMLIN: Exploiting Evidence Enhancement for the FEVER Shared Task (Stammbach and Neumann, 2019).
   [[Paper]](https://www.aclweb.org/anthology/D19-6616.pdf)
   [[Code]](https://github.com/necla-ml/fever2018)
+  ![](https://img.shields.io/badge/FEVER@EMNLP%202019-orange)
 * Sentence-Level Evidence Embedding for Claim Verification with Hierarchical Attention Networks (Ma et al., 2019).
   [[Paper]](https://aclanthology.org/P19-1244.pdf)
+  ![](https://img.shields.io/badge/ACL%202019-orange)
 * BERT for Evidence Retrieval and Claim Verification (Soleimani et al., 2019)
   [[Paper]](https://arxiv.org/pdf/1910.02655.pdf)
   [[Code]](https://github.com/ASoleimaniB/BERT_FEVER)
-  **ECIR 2019**
+  ![](https://img.shields.io/badge/ECIR%202019-blue)
 * TwoWingOS: A Two-Wing Optimization Strategy for Evidential Claim Verification (Yin and Roth, 2018).
   [[Paper]](https://aclanthology.org/D18-1010.pdf)
   [[Code]](https://github.com/yinwenpeng/FEVER)
+  ![](https://img.shields.io/badge/FEVER@EMNLP%202018-orange)
 * UKP-Athene: Multi-Sentence Textual Entailment for Claim Verification (Hanselowski et al., 2018).
   [[Paper]](https://www.aclweb.org/anthology/W18-5516.pdf)
   [[Code]](https://github.com/UKPLab/fever-2018-team-athene)
+  ![](https://img.shields.io/badge/FEVER@EMNLP%202018-orange)
 * Team Papelo: Transformer Networks at FEVER (Malon, 2018).
   [[Paper]](https://www.aclweb.org/anthology/W18-5517.pdf)
   [[Code]](https://github.com/necla-ml/fever2018)
+  ![](https://img.shields.io/badge/FEVER@EMNLP%202018-orange)
 * QED: A fact verification system for the FEVER shared task (Luken et al., 2018).
   [[Paper]](https://aclanthology.org/W18-5526.pdf)
   [[Code]](https://github.com/jluken/FEVER)
+  ![](https://img.shields.io/badge/FEVER@EMNLP%202018-orange)
 * UCL Machine Reading Group: Four Factor Framework For Fact Finding (HexaF) (Yoneda et al., 2018).
   [[Paper]](https://www.aclweb.org/anthology/W18-5515.pdf)
   [[Code]](https://github.com/uclmr/fever)
+  ![](https://img.shields.io/badge/FEVER@EMNLP%202018-orange)
 * Can Rumour Stance Alone Predict Veracity? (Dungs et al., 2018).
   [[Paper]](https://aclanthology.org/C18-1284.pdf)
+  ![](https://img.shields.io/badge/COLING%202018-orange)
 * Varying Shades: Analyzing Language in Fake News and Political Fact-Checking (Rashkin et al., 2017).
   [[Paper]](https://aclanthology.org/D17-1317.pdf)
+  ![](https://img.shields.io/badge/EMNLP%202017-orange)
 
 
 #### Manipulation Classification
@@ -959,7 +971,7 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   ![](https://img.shields.io/badge/WWW%202024-blue)
 * “Why is this misleading?”: Detecting News Headline Hallucinations with Explanations (Shen et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2212.01060.pdf)]
-  ![](https://img.shields.io/badge/AAAI%202023-orange)
+  ![](https://img.shields.io/badge/AAAI%202023-purple)
 * Exploring Faithful Rationale for Multi-hop Fact Verification via Salience-Aware Graph Learning (Si et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2212.01060.pdf)]
   ![](https://img.shields.io/badge/AAAI%202023-purple)
