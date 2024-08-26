@@ -40,6 +40,7 @@ This repo contains relevant resources from our survey paper [A Survey on Automat
   - [Detecting LLM-Generated Text](#detecting-llm-generated-text)
   - [Misinformation and Disinformation](#misinformation-and-disinformation)
   - [Detecting Previous Claims](#detecting-previous-claims)
+  - [Adversarial Attack](#adversarial-attack)
 - [Tutorials](#tutorials)
 
 
@@ -167,11 +168,7 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 ### Verdict Prediction Dataset
 #### Veracity Classification Dataset
 ##### Natural Claims
-* AVeriTeC: A Dataset for Real-world Claim Verification with Evidence from the Web (Schlichtkrull et al., 2023)
-  [[Paper]](https://arxiv.org/pdf/2305.13117)
-  [[Dataset]](https://github.com/MichSchli/AVeriTeC)
-  [[Shared Task]](https://fever.ai/task.html)
-  ![](https://img.shields.io/badge/NeurIPS%202023-purple)
+
 * Do Large Language Models Know about Facts? (Xu et al., 2024)
   [[Paper]](https://openreview.net/forum?id=9OevMUdods)
   [[Dataset]](https://github.com/THU-BPM/Pinocchio)
@@ -189,6 +186,11 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   [[Paper]](https://arxiv.org/pdf/2402.01360)
   [[Dataset]](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/bioclaim/)
   ![](https://img.shields.io/badge/EACL%202024-orange)
+* AVeriTeC: A Dataset for Real-world Claim Verification with Evidence from the Web (Schlichtkrull et al., 2023)
+  [[Paper]](https://arxiv.org/pdf/2305.13117)
+  [[Dataset]](https://github.com/MichSchli/AVeriTeC)
+  [[Shared Task]](https://fever.ai/task.html)
+  ![](https://img.shields.io/badge/NeurIPS%202023-purple)
 * COVID-VTS: Fact Extraction and Verification on Short Video Platforms (Liu et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2302.07919.pdf) 
   [[Dataset]](https://github.com/FuxiaoLiu/Twitter-Video-dataset) 
@@ -366,6 +368,10 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 
 
 ##### Artificial Claims
+* EX-FEVER: A Dataset for Multi-hop Explainable Fact Verification (Ma et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2310.09754)
+  [[Code]](https://github.com/dependentsign/EX-FEVER)
+  ![](https://img.shields.io/badge/Findings@ACL%202024-orange)
 * CFEVER: A Chinese Fact Extraction and VERification Dataset (Lin et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2402.13025)
   [[Dataset]](https://ikmlab.github.io/CFEVER/)
@@ -562,6 +568,16 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 ## Models
 
 ### Claim Detection and Extraction
+* Document-level Claim Extraction and Decontextualisation for Fact-Checking (Deng et al., 2024)
+  [[Paper]](https://arxiv.org/abs/2406.03239)
+  ![](https://img.shields.io/badge/ACL%202024-orange)
+* Reinforcement Tuning for Detecting Stances and Debunking Rumors Jointly with Large Language Models (Yang et al., 2024)
+  [[Paper]](https://arxiv.org/abs/2406.02143)
+  [[Code]](https://anonymous.4open.science/r/JSDRV-F3CE/)
+  ![](https://img.shields.io/badge/Findings@ACL%202024-orange)
+* Unveiling Opinion Evolution via Prompting and Diffusion for Short Video Fake News Detection(Zong et al., 2024)
+  [[Paper]](https://aclanthology.org/2024.findings-acl.642.pdf)
+  ![](https://img.shields.io/badge/Findings@ACL%202024-orange)
 * From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News (Liu et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2403.09498)
   ![](https://img.shields.io/badge/IJCAI%202024-purple)
@@ -746,6 +762,27 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 
 ### Verdict Prediction
 #### Veractiy Classification
+* ChartCheck: Explainable Fact-Checking over Real-World Chart Images (Akhtar et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2311.07453)
+  [[Code]](https://github.com/mubasharaak/ChartCheck)
+  ![](https://img.shields.io/badge/Findings@ACL%202024-orange)
+* Evidence Retrieval is almost All You Need for Fact Verification (Zheng et al., 2024)
+  [[Paper]](https://aclanthology.org/2024.findings-acl.551.pdf)
+  ![](https://img.shields.io/badge/Findings@ACL%202024-orange)
+* Retrieval Augmented Fact Verification by Synthesizing Contrastive Arguments (Yue et al., 2024)
+  [[Paper]]https://arxiv.org/pdf/2406.09815()
+  [[Code]](https://github.com/yueeeeeeee/RAFTS)
+  ![](https://img.shields.io/badge/ACL%202024-orange)
+* MetaSumPerceiver: Multimodal Multi-Document Evidence Summarization for Fact-Checking(et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2407.13089)
+  ![](https://img.shields.io/badge/ACL%202024-orange)
+* VeraCT Scan: Retrieval-Augmented Fake News Detection with Justifiable Reasoning (Niu et al., 2024)
+  [[Paper]](https://aclanthology.org/2024.acl-demos.25.pdf)
+  [[Demo]](https://veractscan.newsbreak.com/)
+  ![](https://img.shields.io/badge/Demo@ACL%202024-orange)
+* Event-Radar: Event-driven Multi-View Learning for Multimodal Fake News Detection(et al., 2024)
+  [[Paper]](https://aclanthology.org/2024.acl-long.316.pdf)
+  ![](https://img.shields.io/badge/ACL%202024-orange)
 * Unified Evidence Enhancement Inference Framework for Fake News Detection (Wu et al., 2024)
   [[Paper]](https://www.ijcai.org/proceedings/2024/0723.pdf)
   ![](https://img.shields.io/badge/IJCAI%202024-purple)
@@ -1011,6 +1048,11 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   ****
   
 ### Justification Production
+
+* TELLER: A Trustworthy Framework for Explainable, Generalizable and Controllable Fake News Detection (Liu et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2402.07776)
+  [[Code]](https://github.com/less-and-less-bugs/Trust_TELLER)
+  ![](https://img.shields.io/badge/Findings@ACL%202024-orange)
 * Explainable Fake News Detection With Large Language Model via Defense Among Competing Wisdom (Wang et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2405.03371)
   [[Code]](https://github.com/wangbo9719/L-Defense_EFND)
@@ -1089,12 +1131,15 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   [[Code]](https://github.com/Dongping-Chen/MixSet)
   ![](https://img.shields.io/badge/NAACL%202024-orange)
 
-### Adversarial Attack
-* A General Black-box Adversarial Attack on Graph-based Fake News Detectors (et al., 2024)
-  [[Paper]](https://arxiv.org/abs/2404.15744)
-  ![](https://img.shields.io/badge/IJCAI%202024-purple)
 
 ### Misinformation and Disinformation
+* Simulated Misinformation Susceptibility (SMISTS): Enhancing Misinformation Research with Large Language Model Simulations (Ma et al., 2024)
+  [[Paper]](https://aclanthology.org/2024.findings-acl.162/)
+  ![](https://img.shields.io/badge/Findings@ACL%202024-orange)
+* DELL: Generating Reactions and Explanations for LLM-Based Misinformation Detection (Wan et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2402.10426)
+  [[Code]](https://github.com/whr000001/DELL)
+  ![](https://img.shields.io/badge/Findings@ACL%202024-orange)
 * The Dynamics of (Not) Unfollowing Misinformation Spreaders (Ashkinaze et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2401.13480)
   ![](https://img.shields.io/badge/WWW%202024-blue)
@@ -1125,7 +1170,6 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 * Social Media, Political Polarization, and Political Disinformation: A Review of the Scientific Literature (Tucker et al., 2018)
   [[Paper]](https://www.hewlett.org/wp-content/uploads/2018/03/Social-Media-Political-Polarization-and-Political-Disinformation-Literature-Review.pdf)
 
-
 ### Detecting Previous Claims
 * Assisting the Human Fact-Checkers: Detecting All Previously Fact-Checked Claims in a Document (Shaar et al., 2022)
   [[Paper]](https://arxiv.org/pdf/2109.07410.pdf)
@@ -1148,13 +1192,20 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 * Overview of CheckThat! 2020: Automatic Identification and Verification of Claims in Social Media (Barrón-Cedeño et al., 2020)
   [[Paper]](https://link.springer.com/chapter/10.1007%2F978-3-030-58219-7_17)
  
-
+### Adversarial Attack
+* Evaluating Robustness of Generative Search Engine on Adversarial Factual Questions (Hu et al., 2024)
+  [[Paper]](https://arxiv.org/abs/2403.12077)
+  ![](https://img.shields.io/badge/Findings@ACL%202024-orange)
+* A General Black-box Adversarial Attack on Graph-based Fake News Detectors (et al., 2024) 
+  [[Paper]](https://arxiv.org/abs/2404.15744)
+  ![](https://img.shields.io/badge/IJCAI%202024-purple)
 
 
 ## Relevant Surveys
 
 ### Automated Fact-Checking
-
+* Automated Justification Production for Claim Veracity in Fact Checking: A Survey on Architectures and Approaches (Eldifrawi et al., 2024)
+  [[Paper]](https://arxiv.org/abs/2407.12853)
 * Scientific Fact-Checking: A Survey of Resources and Approaches (Vladika and Matthes, 2023)
   [[Paper]](https://arxiv.org/pdf/2305.16859.pdf)
 * Automated fact-checking: A survey (Zeng et al., 2021)
