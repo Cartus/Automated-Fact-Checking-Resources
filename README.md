@@ -1217,10 +1217,7 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   [[paper]](https://arxiv.org/abs/2010.03001)
 * Automated Fact Checking: Task Formulations, Methods and Future Directions (Thorne and Vlachos, 2018).
   [[Paper]](https://www.aclweb.org/anthology/C18-1283.pdf)
-* A Survey on Computational Propaganda Detection (Da San Martino et al. 2020). 
-  [[Paper]](https://www.ijcai.org/proceedings/2020/0672.pdf)
-* Social Media, Political Polarization, and Political Disinformation: A Review of the Scientific Literature (Tucker et al., 2018)
-  [[Paper]](https://www.hewlett.org/wp-content/uploads/2018/03/Social-Media-Political-Polarization-and-Political-Disinformation-Literature-Review.pdf)
+
 * A Content Management Perspective on Fact-Checking (Cazalens et al., 2018).
   [[paper]](https://hal.archives-ouvertes.fr/hal-01722666/document)
 
@@ -1245,6 +1242,8 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 [[Paper]](https://link.springer.com/article/10.1007%2Fs13278-020-00696-x)
 * A Survey on Computational Propaganda Detection (Da San Martino et al. 2020). 
 [[Paper]](https://www.ijcai.org/proceedings/2020/0672.pdf)
+* Social Media, Political Polarization, and Political Disinformation: A Review of the Scientific Literature (Tucker et al., 2018)
+  [[Paper]](https://www.hewlett.org/wp-content/uploads/2018/03/Social-Media-Political-Polarization-and-Political-Disinformation-Literature-Review.pdf)
 * Detection and Resolution of Rumours in Social Media: A Survey (Zubiaga et al., 2018).
 [[Paper]](http://kddlab.zjgsu.edu.cn:7200/research/rumor/Detection%20and%20Resolution%20of%20Rumours%20in%20Social%20Media_%20A%20Survey.pdf)
 
