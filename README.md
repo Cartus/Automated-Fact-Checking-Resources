@@ -956,42 +956,45 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 * Explainable Fake News Detection With Large Language Model via Defense Among Competing Wisdom (Wang et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2405.03371)
   [[Code]](https://github.com/wangbo9719/L-Defense_EFND)
-  **WWW 2024**
+  ![](https://img.shields.io/badge/WWW%202024-orange)
 * “Why is this misleading?”: Detecting News Headline Hallucinations with Explanations (Shen et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2212.01060.pdf)]
-  **AAAI 2023**
+  ![](https://img.shields.io/badge/AAAI%202023-orange)
 * Exploring Faithful Rationale for Multi-hop Fact Verification via Salience-Aware Graph Learning (Si et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2212.01060.pdf)]
-  **AAAI 2023**
+  ![](https://img.shields.io/badge/AAAI%202023-orange)
 * Explainable Automated Fact-Checking for Public Health Claims (Kotonya and Toni, 2020). 
   [[Paper]](https://arxiv.org/abs/2010.09926)]
   [[Code]](https://github.com/neemakot/Health-Fact-Checking)
   [[Dataset]](https://github.com/neemakot/Health-Fact-Checking)
-  **EMNLP 2020**
+  ![](https://img.shields.io/badge/EMNLP%202020-orange)
 * Generating Fact Checking Explanations (Atanasova et al., 2020).
   [[Paper]](https://www.aclweb.org/anthology/2020.acl-main.656.pdf)
-  **ACL 2020**
+  ![](https://img.shields.io/badge/ACL%202020-orange)
 * GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media (Lu and Li, 2020).
   [[Paper]](https://aclanthology.org/2020.acl-main.48.pdf)
   [[Code]](https://github.com/l852888/GCAN)
-  **ACL 2020**
+  ![](https://img.shields.io/badge/ACL%202020-orange)
 * DTCA: Decision Tree-based Co-Attention Networks for Explainable Claim Verification (Wu et al., 2020).
   [[Paper]](https://aclanthology.org/2020.acl-main.97.pdf)
-  **ACL 2020**
+  ![](https://img.shields.io/badge/ACL%202020-orange)
 * ExFaKT: A Framework for Explaining Facts over Knowledge Graphs and Text (Gad-Elrab et al., 2019)
   [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3289600.3290996)
   [[Code]](https://www.mpi-inf.mpg.de/impact/exfakt)
+  ![](https://img.shields.io/badge/WSDM%202019-orange)
 * dEFEND: Explainable Fake News Detection (Shu et al., 2019).
   [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3292500.3330935)
+  ![](https://img.shields.io/badge/KDD%202019-orange)
 * Explainable Fact Checking with Probabilistic Answer Set Programming
-[[Paper]](https://arxiv.org/abs/1906.09198)
-[[Code]](https://github.com/ppapotti/expclaim)
+  [[Paper]](https://arxiv.org/abs/1906.09198)
+  [[Code]](https://github.com/ppapotti/expclaim)
 * Where is your Evidence: Improving Fact-checking by Justification Modeling (Alhindi et al., 2018).
   [[Paper]](https://www.aclweb.org/anthology/W18-5513.pdf)
   [[Code]](https://github.com/Tariq60/LIAR-PLUS)]
+  ![](https://img.shields.io/badge/FEVER@EMNLP%202018-blue)
 * DeClarE: Debunking Fake News and False Claims using Evidence-Aware Deep Learning (Popat et al., 2018).
   [[Paper]](https://aclanthology.org/D18-1003.pdf)
-
+  ![](https://img.shields.io/badge/EMNLP%202019-orange)
 
 
 
