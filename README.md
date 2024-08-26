@@ -7,7 +7,7 @@
 
 ### Updates: 
 - 2024.8: Added papers from WWW, IJCAI, and ACL 2024
-- 2024.6: Added a section for LLM-generated text in Related Tasks. Added papers from EACL, NAACL, and AAAI 2024
+- 2024.6: Added a section for LLM-generated text in Related Tasks. Added papers from EACL, NAACL, AAAI, ICLR 2024
 
 ## Overview
 This repo contains relevant resources from our survey paper [A Survey on Automated Fact-Checking](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00454/109469/A-Survey-on-Automated-Fact-Checking) in TACL 2022 and the follow up multimodal survey paper [Multimodal Automated Fact-Checking: A Survey](https://arxiv.org/pdf/2305.13507.pdf) in EMNLP 2023. In these surveys, we present a comprehensive and up-to-date survey of automated fact-checking (AFC) in text and other modalities, unifying various components and definitions developed in previous research into a common framework.  As automated fact-checking research evolves, we will provide timely updates on the survey and this repo.
