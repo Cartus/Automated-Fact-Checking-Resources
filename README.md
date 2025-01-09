@@ -6,6 +6,7 @@
 
 
 ### Updates: 
+- 2024.12: Added papers from EMNLP 2024
 - 2024.8: Added papers from WWW, IJCAI, and ACL 2024
 - 2024.6: Added a section for LLM-generated text in Related Tasks. Added papers from EACL, NAACL, AAAI, ICLR 2024
 
@@ -467,6 +468,10 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   [[Paper]](https://arxiv.org/pdf/1501.03471.pdf)
 
 #### Manipulation Classification Dataset
+* Cross-Domain Audio Deepfake Detection: Dataset and Analysis (Li et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2404.04904)
+  [[Dataset]](https://github.com/leolya/CD-ADD)
+  ![](https://img.shields.io/badge/EMNLP%202024-orange)
 * DF-Platter: Multi-Face Heterogeneous Deepfake Dataset (Narayan et al., 2023)
   [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Narayan_DF-Platter_Multi-Face_Heterogeneous_Deepfake_Dataset_CVPR_2023_paper.pdf)
   [[Dataset]](https://iab-rubric.org/df-platter-database)
@@ -568,6 +573,9 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 ## Models
 
 ### Claim Detection and Extraction
+* On Fake News Detection with LLM Enhanced Semantics Mining (Ma et al., 2024)
+  [[Paper]](https://aclanthology.org/2024.emnlp-main.31.pdf)
+  ![](https://img.shields.io/badge/EMNLP%202024-orange)
 * Document-level Claim Extraction and Decontextualisation for Fact-Checking (Deng et al., 2024)
   [[Paper]](https://arxiv.org/abs/2406.03239)
   ![](https://img.shields.io/badge/ACL%202024-orange)
@@ -762,6 +770,14 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 
 ### Verdict Prediction
 #### Veractiy Classification
+* Do We Need Language-Specific Fact-Checking Models? The Case of Chinese (Zhang et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2401.15498)
+  [[Code]](https://github.com/caiqizh/FC_Chinese)
+  ![](https://img.shields.io/badge/EMNLP%202024-orange)
+* MiniCheck: Efficient Fact-Checking of LLMs on Grounding Documents (Tang et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2404.10774)
+  [[Code]](https://github.com/Liyan06/MiniCheck)
+  ![](https://img.shields.io/badge/EMNLP%202024-orange)
 * ChartCheck: Explainable Fact-Checking over Real-World Chart Images (Akhtar et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2311.07453)
   [[Code]](https://github.com/mubasharaak/ChartCheck)
