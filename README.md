@@ -6,7 +6,7 @@
 
 
 ### Updates: 
-- 2024.12: Added papers from EMNLP 2024
+- 2024.12: Added a section for Factuality in LLMs. Added papers from EMNLP and NeurIPS 2024.
 - 2024.8: Added papers from WWW, IJCAI, and ACL 2024
 - 2024.6: Added a section for LLM-generated text in Related Tasks. Added papers from EACL, NAACL, AAAI, ICLR 2024
 
@@ -38,6 +38,7 @@ This repo contains relevant resources from our survey paper [A Survey on Automat
   - [Claim Detection Related](#claim-detection-related)
   - [Stance Detection](#stance-detection)
 - [Related Tasks](#related-tasks)
+  - [Factuality in LLMs](#factuality-in-llms)
   - [Detecting LLM-Generated Text](#detecting-llm-generated-text)
   - [Misinformation and Disinformation](#misinformation-and-disinformation)
   - [Detecting Previous Claims](#detecting-previous-claims)
@@ -573,6 +574,9 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 ## Models
 
 ### Claim Detection and Extraction
+* Deciphering Rumors: A Multi-Task Learning Approach with Intent-aware Hierarchical Contrastive Learning  (Yang et al., 2024)
+  [[Paper]](https://aclanthology.org/2024.emnlp-main.256.pdf)
+  ![](https://img.shields.io/badge/EMNLP%202024-orange)
 * On Fake News Detection with LLM Enhanced Semantics Mining (Ma et al., 2024)
   [[Paper]](https://aclanthology.org/2024.emnlp-main.31.pdf)
   ![](https://img.shields.io/badge/EMNLP%202024-orange)
@@ -774,10 +778,17 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   [[Paper]](https://arxiv.org/pdf/2401.15498)
   [[Code]](https://github.com/caiqizh/FC_Chinese)
   ![](https://img.shields.io/badge/EMNLP%202024-orange)
+* FinDVer: Explainable Claim Verification over Long and Hybrid-content Financial Documents (Zhao et al., 2024)
+  [[Paper]](https://aclanthology.org/2024.emnlp-main.818.pdf)
+  [[Code]](https://github.com/yilunzhao/FinDVer)
+  ![](https://img.shields.io/badge/EMNLP%202024-orange)
 * MiniCheck: Efficient Fact-Checking of LLMs on Grounding Documents (Tang et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2404.10774)
   [[Code]](https://github.com/Liyan06/MiniCheck)
   ![](https://img.shields.io/badge/EMNLP%202024-orange)
+* Evidence Retrieval for Fact Verification using Multi-stage Reranking (Malviya et al., 2024)
+  [[Paper]](https://aclanthology.org/2024.findings-emnlp.428.pdf)
+  ![](https://img.shields.io/badge/Findings@EMNLP%202024-orange)
 * ChartCheck: Explainable Fact-Checking over Real-World Chart Images (Akhtar et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2311.07453)
   [[Code]](https://github.com/mubasharaak/ChartCheck)
@@ -1073,6 +1084,10 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   [[Paper]](https://arxiv.org/pdf/2405.03371)
   [[Code]](https://github.com/wangbo9719/L-Defense_EFND)
   ![](https://img.shields.io/badge/WWW%202024-blue)
+* Benchmarking the Generation of Fact Checking Explanations (Russo et al., 2023)
+  [[Paper]](https://arxiv.org/pdf/2308.15202)
+  [[Code]](https://github.com/LanD-FBK/benchmark-gen-explanations)
+  ![](https://img.shields.io/badge/TACL%202023-orange)
 * “Why is this misleading?”: Detecting News Headline Hallucinations with Explanations (Shen et al., 2023)
   [[Paper]](https://arxiv.org/pdf/2212.01060.pdf)]
   ![](https://img.shields.io/badge/AAAI%202023-purple)
@@ -1117,8 +1132,14 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 
 ## Related Tasks
 
-### Detecting LLM Generated Text
+### Factuality in LLMs
 
+
+### Detecting LLM Generated Text
+* MiRAGeNews: Multimodal Realistic AI-Generated News Detection (Huang et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2410.09045)
+  [[Code]](https://github.com/nosna/miragenews)
+  ![](https://img.shields.io/badge/Findings@EMNLP%202024-orange)
 * Ten Words Only Still Help: Improving Black-Box AI-Generated Text Detection via Proxy-Guided Efficient Re-Sampling (Shi et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2402.09199)
   [[Code]](https://github.com/ICTMCG/POGER)
