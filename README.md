@@ -469,6 +469,10 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   [[Paper]](https://arxiv.org/pdf/1501.03471.pdf)
 
 #### Manipulation Classification Dataset
+* “Image, Tell me your story!” Predicting the original meta-context of visual misinformation(Tonglet et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2408.09939)
+  [[Code]](https://github.com/UKPLab/5pils)
+  ![](https://img.shields.io/badge/EMNLP%202024-orange)
 * Cross-Domain Audio Deepfake Detection: Dataset and Analysis (Li et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2404.04904)
   [[Dataset]](https://github.com/leolya/CD-ADD)
@@ -1069,10 +1073,17 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   ****
 
 #### Out-of-Context Classification
-*
-  [[Paper]]()
-  [[Dataset]]()
-  ****
+* Multimodal Misinformation Detection by Learning from Synthetic Data with Multimodal LLMs (Zeng et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2409.19656)
+  ![](https://img.shields.io/badge/Findings@EMNLP%202024-orange)
+* SNIFFER: Multimodal Large Language Model for Explainable Out-of-Context Misinformation Detection (Qi et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2403.03170)
+  [[Dataset]](https://pengqi.site/Sniffer/)
+  ![](https://img.shields.io/badge/CVPR%202024-red)
+* Exploiting Modality-Specific Features for Multi-Modal Manipulation Detection and Grounding (Wang et al., 2024)
+  [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10448385&tag=1)
+  ![](https://img.shields.io/badge/ICASSP%202019-green)
+
   
 ### Justification Production
 
@@ -1170,6 +1181,13 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 
 
 ### Misinformation and Disinformation
+* Decoding Susceptibility: Modeling Misbelief to Misinformation Through a Computational Approach (Liu et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2311.09630)
+  ![](https://img.shields.io/badge/Findings@EMNLP%202024-orange)
+* Integrating Argumentation and Hate-Speech-based Techniques for Countering Misinformation (Saha et al., 2024)
+  [[Paper]](https://aclanthology.org/2024.emnlp-main.622.pdf)
+  [[Code]](https://github.com/sougata-ub/MisInfoCorrected)
+  ![](https://img.shields.io/badge/EMNLP%202024-orange)
 * Simulated Misinformation Susceptibility (SMISTS): Enhancing Misinformation Research with Large Language Model Simulations (Ma et al., 2024)
   [[Paper]](https://aclanthology.org/2024.findings-acl.162/)
   ![](https://img.shields.io/badge/Findings@ACL%202024-orange)
