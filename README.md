@@ -1082,7 +1082,7 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
   ![](https://img.shields.io/badge/CVPR%202024-red)
 * Exploiting Modality-Specific Features for Multi-Modal Manipulation Detection and Grounding (Wang et al., 2024)
   [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10448385&tag=1)
-  ![](https://img.shields.io/badge/ICASSP%202019-green)
+  ![](https://img.shields.io/badge/ICASSP%202024-green)
 
   
 ### Justification Production
@@ -1144,7 +1144,24 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 ## Related Tasks
 
 ### Factuality in LLMs
-
+* Long-Form Factuality in Large Language Models (Wei et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2403.18802)
+  [[Code]](https://github.com/google-deepmind/long-form-factuality)
+  ![](https://img.shields.io/badge/NeurIPS%202024-purple)
+* An Analysis of Multilingual FActScore (Kim et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2406.19276)
+  ![](https://img.shields.io/badge/EMNLP%202024-orange)
+* VeriScore: Evaluating the factuality of verifiable claims in long-form text generation (Song et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2406.19276)
+  [[Code]](https://github.com/Yixiao-Song/VeriScore)
+  ![](https://img.shields.io/badge/Findings@EMNLP%202024-orange)
+* FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation (Min et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2305.14251)
+  [[Code]](https://github.com/shmsw25/FActScore)
+  ![](https://img.shields.io/badge/EMNLP%202023-orange)
+* FacTool: Factuality Detection in Generative AI -- A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios (Chern et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2307.13528)
+  [[Code]](https://github.com/GAIR-NLP/factool)
 
 ### Detecting LLM Generated Text
 * MiRAGeNews: Multimodal Realistic AI-Generated News Detection (Huang et al., 2024)
@@ -1181,6 +1198,10 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 
 
 ### Misinformation and Disinformation
+* Misinformation with Legal Consequences (MisLC): A New Task Towards Harnessing Societal Harm of Misinformation (Luo et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2410.03829)
+  [[Code]](https://github.com/chufeiluo/mislc)
+  ![](https://img.shields.io/badge/Findings@EMNLP%202024-orange)
 * Decoding Susceptibility: Modeling Misbelief to Misinformation Through a Computational Approach (Liu et al., 2024)
   [[Paper]](https://arxiv.org/pdf/2311.09630)
   ![](https://img.shields.io/badge/Findings@EMNLP%202024-orange)
