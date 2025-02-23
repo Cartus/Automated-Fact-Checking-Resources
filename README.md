@@ -1340,5 +1340,14 @@ In the follow up multimodal survey, we extends the first stage with a claim extr
 * Detection and Resolution of Rumors and Misinformation with NLP [[Derczynski and Zubiaga, COLING 2020]](https://www.aclweb.org/anthology/2020.coling-tutorials.4.pdf) [[slides]](https://docs.google.com/presentation/d/1ZBVPtHcVgJW2c_ibrdVuoCH7sU9ha8NS7Fq9GCnBnls/edit?usp=sharing).
 * Fact Checking: Theory and Practice [[Dong et al., KDD 2018]](https://shiralkarprashant.github.io/fact-checking-tutorial-KDD2018/).
 
+<!-- omit in toc -->
+## ⭐ Star History
 
+<a href="https://star-history.com/#Cartus/Automated-Fact-Checking-Resources&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Cartus/Automated-Fact-Checking-Resources&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Cartus/Automated-Fact-Checking-Resources&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Cartus/Automated-Fact-Checking-Resources&type=Date" />
+ </picture>
+</a>
 
